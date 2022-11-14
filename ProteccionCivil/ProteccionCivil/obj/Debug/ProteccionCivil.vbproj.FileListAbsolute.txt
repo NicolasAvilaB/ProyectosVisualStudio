@@ -1,0 +1,14 @@
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\ProteccionCivil\ProteccionCivil\obj\Debug\ProteccionCivil.vbprojResolveAssemblyReference.cache
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\ProteccionCivil\ProteccionCivil\obj\Debug\ProteccionCivil.InicioSesion.resources
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\ProteccionCivil\ProteccionCivil\obj\Debug\ProteccionCivil.Resources.resources
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\ProteccionCivil\ProteccionCivil\obj\Debug\ProteccionCivil.vbproj.GenerateResource.Cache
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\ProteccionCivil\ProteccionCivil\obj\Debug\ProteccionCivil.xml
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\ProteccionCivil\ProteccionCivil\bin\Debug\ProteccionCivil.exe
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\ProteccionCivil\ProteccionCivil\bin\Debug\ProteccionCivil.pdb
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\ProteccionCivil\ProteccionCivil\bin\Debug\ProteccionCivil.xml
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\ProteccionCivil\ProteccionCivil\obj\Debug\ProteccionCivil.exe
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\ProteccionCivil\ProteccionCivil\obj\Debug\ProteccionCivil.pdb
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\ProteccionCivil\ProteccionCivil\bin\Debug\MySql.Data.dll
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\ProteccionCivil\ProteccionCivil\obj\Debug\ProteccionCivil.Control.resources
+D:\Users\Nicolas Avila Bisk\documents\visual studio 2015\Projects\ProteccionCivil\ProteccionCivil\obj\Debug\ProteccionCivil.DatosLoginFichas.resources
+D:\Users\Nicolas Avila Bisk\documents\visual studio 2015\Projects\ProteccionCivil\ProteccionCivil\obj\Debug\ProteccionCivil.DatosRegistrosFichas.resources

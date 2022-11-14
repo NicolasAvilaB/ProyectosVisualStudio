@@ -1,0 +1,195 @@
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\ExamenSuper9\ExamenSuper9\bin\Debug\ExamenSuper9.exe.config
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\ExamenSuper9\ExamenSuper9\bin\Debug\ExamenSuper9.exe
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\ExamenSuper9\ExamenSuper9\bin\Debug\ExamenSuper9.pdb
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\ExamenSuper9\ExamenSuper9\bin\Debug\ExamenSuper9.xml
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.vbprojResolveAssemblyReference.cache
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Entrada.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Resources.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.vbproj.GenerateResource.Cache
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.exe
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.xml
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.pdb
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Bienvenido9.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.EmitirBoletas.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Informes.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Usuarios9.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Efectivo1.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.ModoPrueba.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Personas_Exteriores.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Nuevos_Admins.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Producto1s.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.VentasDia.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Efectivo22.resources
+C:\Users\Nicolas Avila B\Desktop\Nueva carpeta\ExamenSuper9\ExamenSuper9\bin\Debug\ExamenSuper9.exe.config
+C:\Users\Nicolas Avila B\Desktop\Nueva carpeta\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.exe
+C:\Users\Nicolas Avila B\Desktop\Nueva carpeta\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.xml
+C:\Users\Nicolas Avila B\Desktop\Nueva carpeta\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.pdb
+C:\Users\Nicolas Avila B\Desktop\Examen Oratoria\ExamenSuper9\ExamenSuper9\bin\Debug\ExamenSuper9.exe.config
+C:\Users\Nicolas Avila B\Desktop\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.exe
+C:\Users\Nicolas Avila B\Desktop\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.xml
+C:\Users\Nicolas Avila B\Desktop\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.pdb
+C:\Users\Nicolas Avila B\Desktop\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.vbprojResolveAssemblyReference.cache
+C:\Users\Nicolas Avila B\Desktop\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Bienvenido9.resources
+C:\Users\Nicolas Avila B\Desktop\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Efectivo1.resources
+C:\Users\Nicolas Avila B\Desktop\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Efectivo22.resources
+C:\Users\Nicolas Avila B\Desktop\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.EmitirBoletas.resources
+C:\Users\Nicolas Avila B\Desktop\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Entrada.resources
+C:\Users\Nicolas Avila B\Desktop\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.ModoPrueba.resources
+C:\Users\Nicolas Avila B\Desktop\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Resources.resources
+C:\Users\Nicolas Avila B\Desktop\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Nuevos_Admins.resources
+C:\Users\Nicolas Avila B\Desktop\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Personas_Exteriores.resources
+C:\Users\Nicolas Avila B\Desktop\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Producto1s.resources
+C:\Users\Nicolas Avila B\Desktop\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Usuarios9.resources
+C:\Users\Nicolas Avila B\Desktop\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.VentasDia.resources
+C:\Users\Nicolas Avila B\Desktop\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.vbproj.GenerateResource.Cache
+C:\Users\Nicolas Avila B\Desktop\Examen Oratoria\ExamenSuper9\ExamenSuper9\bin\Debug\ExamenSuper9.exe
+C:\Users\Nicolas Avila B\Desktop\Examen Oratoria\ExamenSuper9\ExamenSuper9\bin\Debug\ExamenSuper9.pdb
+C:\Users\Nicolas Avila B\Desktop\Examen Oratoria\ExamenSuper9\ExamenSuper9\bin\Debug\ExamenSuper9.xml
+C:\Users\Nicolas Avila B\Desktop\Examen Oratoria\ExamenSuper9\ExamenSuper9\bin\Debug\ExamenSuper9.exe.manifest
+C:\Users\Nicolas Avila B\Desktop\Examen Oratoria\ExamenSuper9\ExamenSuper9\bin\Debug\ExamenSuper9.application
+C:\Users\Nicolas Avila B\Desktop\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.exe.manifest
+C:\Users\Nicolas Avila B\Desktop\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.application
+C:\Users\Nicolas Avila B\Desktop\Examemnnnnnnnnn\Examen Oratoria\ExamenSuper9\ExamenSuper9\bin\Debug\ExamenSuper9.exe.config
+C:\Users\Nicolas Avila B\Desktop\Examemnnnnnnnnn\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.exe
+C:\Users\Nicolas Avila B\Desktop\Examemnnnnnnnnn\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.xml
+C:\Users\Nicolas Avila B\Desktop\Examemnnnnnnnnn\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.pdb
+C:\Users\Nicolas Avila B\Desktop\Examemnnnnnnnnn\Examen Oratoria\ExamenSuper9\ExamenSuper9\bin\Debug\ExamenSuper9.exe.manifest
+C:\Users\Nicolas Avila B\Desktop\Examemnnnnnnnnn\Examen Oratoria\ExamenSuper9\ExamenSuper9\bin\Debug\ExamenSuper9.application
+C:\Users\Nicolas Avila B\Desktop\Examemnnnnnnnnn\Examen Oratoria\ExamenSuper9\ExamenSuper9\bin\Debug\ExamenSuper9.exe
+C:\Users\Nicolas Avila B\Desktop\Examemnnnnnnnnn\Examen Oratoria\ExamenSuper9\ExamenSuper9\bin\Debug\ExamenSuper9.pdb
+C:\Users\Nicolas Avila B\Desktop\Examemnnnnnnnnn\Examen Oratoria\ExamenSuper9\ExamenSuper9\bin\Debug\ExamenSuper9.xml
+C:\Users\Nicolas Avila B\Desktop\Examemnnnnnnnnn\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.vbprojResolveAssemblyReference.cache
+C:\Users\Nicolas Avila B\Desktop\Examemnnnnnnnnn\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Bienvenido9.resources
+C:\Users\Nicolas Avila B\Desktop\Examemnnnnnnnnn\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Efectivo1.resources
+C:\Users\Nicolas Avila B\Desktop\Examemnnnnnnnnn\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Efectivo22.resources
+C:\Users\Nicolas Avila B\Desktop\Examemnnnnnnnnn\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.EmitirBoletas.resources
+C:\Users\Nicolas Avila B\Desktop\Examemnnnnnnnnn\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Entrada.resources
+C:\Users\Nicolas Avila B\Desktop\Examemnnnnnnnnn\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.ModoPrueba.resources
+C:\Users\Nicolas Avila B\Desktop\Examemnnnnnnnnn\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Resources.resources
+C:\Users\Nicolas Avila B\Desktop\Examemnnnnnnnnn\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Nuevos_Admins.resources
+C:\Users\Nicolas Avila B\Desktop\Examemnnnnnnnnn\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Personas_Exteriores.resources
+C:\Users\Nicolas Avila B\Desktop\Examemnnnnnnnnn\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Producto1s.resources
+C:\Users\Nicolas Avila B\Desktop\Examemnnnnnnnnn\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Usuarios9.resources
+C:\Users\Nicolas Avila B\Desktop\Examemnnnnnnnnn\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.VentasDia.resources
+C:\Users\Nicolas Avila B\Desktop\Examemnnnnnnnnn\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.vbproj.GenerateResource.Cache
+C:\Users\Nicolas Avila B\Desktop\Examemnnnnnnnnn\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.exe.manifest
+C:\Users\Nicolas Avila B\Desktop\Examemnnnnnnnnn\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.application
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\bin\Debug\ExamenSuper9.exe.config
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.exe
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.xml
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.pdb
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\bin\Debug\ExamenSuper9.exe.manifest
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\bin\Debug\ExamenSuper9.application
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\bin\Debug\ExamenSuper9.exe
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\bin\Debug\ExamenSuper9.pdb
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\bin\Debug\ExamenSuper9.xml
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.vbprojResolveAssemblyReference.cache
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Bienvenido9.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Efectivo1.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Efectivo22.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.EmitirBoletas.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Entrada.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.ModoPrueba.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Resources.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Nuevos_Admins.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Personas_Exteriores.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Producto1s.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Usuarios9.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.VentasDia.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.vbproj.GenerateResource.Cache
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.exe.manifest
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.application
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\bin\Debug\ExamenSuper9.exe.config
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.exe
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.xml
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.pdb
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\bin\Debug\ExamenSuper9.exe.manifest
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\bin\Debug\ExamenSuper9.application
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\bin\Debug\ExamenSuper9.exe
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\bin\Debug\ExamenSuper9.pdb
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\bin\Debug\ExamenSuper9.xml
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.vbprojResolveAssemblyReference.cache
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Bienvenido9.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Efectivo1.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.EmitirBoletas.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Entrada.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Resources.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Nuevos_Admins.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Personas_Exteriores.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Producto1s.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Usuarios9.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.VentasDia.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.vbproj.GenerateResource.Cache
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.exe.manifest
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.application
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.OtrosProductos.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.CompraProductos.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.ModoCierre.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.CierresCaja.resources
+C:\Users\Nicolas Avila B\Desktop\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\bin\Debug\ExamenSuper9.exe.config
+C:\Users\Nicolas Avila B\Desktop\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.exe
+C:\Users\Nicolas Avila B\Desktop\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.xml
+C:\Users\Nicolas Avila B\Desktop\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.pdb
+C:\Users\Nicolas Avila B\Desktop\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\bin\Debug\ExamenSuper9.exe.manifest
+C:\Users\Nicolas Avila B\Desktop\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\bin\Debug\ExamenSuper9.application
+C:\Users\Nicolas Avila B\Desktop\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\bin\Debug\ExamenSuper9.exe
+C:\Users\Nicolas Avila B\Desktop\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\bin\Debug\ExamenSuper9.pdb
+C:\Users\Nicolas Avila B\Desktop\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\bin\Debug\ExamenSuper9.xml
+C:\Users\Nicolas Avila B\Desktop\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.vbprojResolveAssemblyReference.cache
+C:\Users\Nicolas Avila B\Desktop\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Bienvenido9.resources
+C:\Users\Nicolas Avila B\Desktop\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.CierresCaja.resources
+C:\Users\Nicolas Avila B\Desktop\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.CompraProductos.resources
+C:\Users\Nicolas Avila B\Desktop\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Efectivo1.resources
+C:\Users\Nicolas Avila B\Desktop\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.EmitirBoletas.resources
+C:\Users\Nicolas Avila B\Desktop\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Entrada.resources
+C:\Users\Nicolas Avila B\Desktop\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.ModoCierre.resources
+C:\Users\Nicolas Avila B\Desktop\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Resources.resources
+C:\Users\Nicolas Avila B\Desktop\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Nuevos_Admins.resources
+C:\Users\Nicolas Avila B\Desktop\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.OtrosProductos.resources
+C:\Users\Nicolas Avila B\Desktop\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Personas_Exteriores.resources
+C:\Users\Nicolas Avila B\Desktop\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Producto1s.resources
+C:\Users\Nicolas Avila B\Desktop\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Usuarios9.resources
+C:\Users\Nicolas Avila B\Desktop\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.VentasDia.resources
+C:\Users\Nicolas Avila B\Desktop\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.vbproj.GenerateResource.Cache
+C:\Users\Nicolas Avila B\Desktop\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.exe.manifest
+C:\Users\Nicolas Avila B\Desktop\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.application
+C:\Users\Nicolas Avila B\Desktop\Escritorio2\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\bin\Debug\ExamenSuper9.exe.config
+C:\Users\Nicolas Avila B\Desktop\Escritorio2\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.exe
+C:\Users\Nicolas Avila B\Desktop\Escritorio2\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.xml
+C:\Users\Nicolas Avila B\Desktop\Escritorio2\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.pdb
+C:\Users\Nicolas Avila B\Desktop\Escritorio2\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\bin\Debug\ExamenSuper9.exe.manifest
+C:\Users\Nicolas Avila B\Desktop\Escritorio2\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\bin\Debug\ExamenSuper9.application
+C:\Users\Nicolas Avila B\Desktop\Escritorio2\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\bin\Debug\ExamenSuper9.exe
+C:\Users\Nicolas Avila B\Desktop\Escritorio2\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\bin\Debug\ExamenSuper9.pdb
+C:\Users\Nicolas Avila B\Desktop\Escritorio2\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\bin\Debug\ExamenSuper9.xml
+C:\Users\Nicolas Avila B\Desktop\Escritorio2\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.vbprojResolveAssemblyReference.cache
+C:\Users\Nicolas Avila B\Desktop\Escritorio2\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Bienvenido9.resources
+C:\Users\Nicolas Avila B\Desktop\Escritorio2\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.CierresCaja.resources
+C:\Users\Nicolas Avila B\Desktop\Escritorio2\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.CompraProductos.resources
+C:\Users\Nicolas Avila B\Desktop\Escritorio2\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Efectivo1.resources
+C:\Users\Nicolas Avila B\Desktop\Escritorio2\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.EmitirBoletas.resources
+C:\Users\Nicolas Avila B\Desktop\Escritorio2\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Entrada.resources
+C:\Users\Nicolas Avila B\Desktop\Escritorio2\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.ModoCierre.resources
+C:\Users\Nicolas Avila B\Desktop\Escritorio2\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Resources.resources
+C:\Users\Nicolas Avila B\Desktop\Escritorio2\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Nuevos_Admins.resources
+C:\Users\Nicolas Avila B\Desktop\Escritorio2\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.OtrosProductos.resources
+C:\Users\Nicolas Avila B\Desktop\Escritorio2\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Personas_Exteriores.resources
+C:\Users\Nicolas Avila B\Desktop\Escritorio2\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Producto1s.resources
+C:\Users\Nicolas Avila B\Desktop\Escritorio2\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Usuarios9.resources
+C:\Users\Nicolas Avila B\Desktop\Escritorio2\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.VentasDia.resources
+C:\Users\Nicolas Avila B\Desktop\Escritorio2\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.vbproj.GenerateResource.Cache
+C:\Users\Nicolas Avila B\Desktop\Escritorio2\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.exe.manifest
+C:\Users\Nicolas Avila B\Desktop\Escritorio2\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.application
+C:\Users\Nicolas Avila B\Desktop\Escritorio2\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.Devo_Stock.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\bin\Debug\ExamenSuper9.exe.config
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.exe
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.xml
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.pdb
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\bin\Debug\ExamenSuper9.exe.config
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.exe
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.xml
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.pdb
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\bin\Debug\ExamenSuper9.exe.config
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.exe
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.xml
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Super 9 semi listo\Super 9\Examen Oratoria\ExamenSuper9\ExamenSuper9\obj\Debug\ExamenSuper9.pdb

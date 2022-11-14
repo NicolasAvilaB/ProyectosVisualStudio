@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><project name="CartaGanntMuniPeralillo" company="" webLink="http://" view-date="2017-02-13" view-index="0" gantt-divider-location="633" resource-divider-location="300" version="2.8.4" locale="es">
+    <description/>
+    <view zooming-state="default:3" id="gantt-chart">
+        <field id="tpd3" name="Nombre" width="428" order="0"/>
+        <field id="tpd4" name="Fecha de inicio" width="91" order="1"/>
+        <field id="tpd5" name="Fecha de fin" width="95" order="2"/>
+        <option id="color.recent"><![CDATA[#009999]]></option>
+    </view>
+    <view id="resource-table">
+        <field id="0" name="Nombre" width="210" order="0"/>
+        <field id="1" name="Función" width="86" order="1"/>
+    </view>
+    <!-- -->
+    <calendars>
+        <day-types>
+            <day-type id="0"/>
+            <day-type id="1"/>
+            <default-week id="1" name="default" sun="0" mon="0" tue="0" wed="0" thu="0" fri="0" sat="0"/>
+            <only-show-weekends value="false"/>
+            <overriden-day-types/>
+            <days/>
+        </day-types>
+    </calendars>
+    <tasks empty-milestones="true">
+        <taskproperties>
+            <taskproperty id="tpd0" name="type" type="default" valuetype="icon"/>
+            <taskproperty id="tpd1" name="priority" type="default" valuetype="icon"/>
+            <taskproperty id="tpd2" name="info" type="default" valuetype="icon"/>
+            <taskproperty id="tpd3" name="name" type="default" valuetype="text"/>
+            <taskproperty id="tpd4" name="begindate" type="default" valuetype="date"/>
+            <taskproperty id="tpd5" name="enddate" type="default" valuetype="date"/>
+            <taskproperty id="tpd6" name="duration" type="default" valuetype="int"/>
+            <taskproperty id="tpd7" name="completion" type="default" valuetype="int"/>
+            <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
+            <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
+        </taskproperties>
+        <task id="0" name="Introduccion a la Practica" meeting="false" start="2017-01-23" duration="1" complete="0" expand="true"/>
+        <task id="6" name="Identificacion y Solucion del Problema" meeting="false" start="2017-01-24" duration="1" complete="0" expand="true"/>
+        <task id="12" name="Construcción de la Encuesta" color="#8cb6ce" meeting="false" start="2017-01-25" duration="1" complete="0" expand="true"/>
+        <task id="13" name="Presentación de la Encuesta" meeting="false" start="2017-01-26" duration="1" complete="0" expand="true"/>
+        <task id="14" name="Construcción de la Entrevista" meeting="false" start="2017-01-27" duration="1" complete="0" expand="true"/>
+        <task id="15" name="Presentación de la Entrevista" meeting="false" start="2017-01-30" duration="1" complete="0" expand="true"/>
+        <task id="16" name="Objetivos y Relevancia de la Propuesta" meeting="false" start="2017-01-31" duration="1" complete="0" expand="true"/>
+        <task id="17" name="Toma de Requerimientos (Usuarios, Sistema, Funcionales y No Funcionales)" meeting="false" start="2017-02-01" duration="1" complete="0" expand="true"/>
+        <task id="7" name="Visualizacion Detalles Tecnicos(Computador,Sistema Operativo)" color="#8cb6ce" meeting="false" start="2017-02-02" duration="1" complete="0" expand="true"/>
+        <task id="8" name="Analisis F.O.D.A" meeting="false" start="2017-02-03" duration="1" complete="0" expand="true"/>
+        <task id="9" name="Factibilidades (Tecnicas, Operacional y Economicas)" meeting="false" start="2017-02-06" duration="1" complete="0" expand="true"/>
+        <task id="10" name="Construcción Diagrama de Flujo (Logico)" meeting="false" start="2017-02-07" duration="1" complete="0" expand="true"/>
+        <task id="19" name="Construcción Diagrama de Flujo (3 Niveles)" meeting="false" start="2017-02-08" duration="1" complete="0" expand="true"/>
+        <task id="20" name="Casos de Uso" meeting="false" start="2017-02-09" duration="1" complete="0" expand="true"/>
+        <task id="21" name="Diagrama de Estados" meeting="false" start="2017-02-10" duration="1" complete="0" expand="true"/>
+        <task id="22" name="Diagrama de Secuencia" color="#8cb6ce" meeting="false" start="2017-02-13" duration="1" complete="0" expand="true"/>
+        <task id="30" name="Test en Equipo (Computador Con Windows 7 Ultimate)" color="#8cb6ce" meeting="false" start="2017-02-14" duration="1" complete="0" expand="true"/>
+        <task id="23" name="Construcción Base de Datos" color="#8cb6ce" meeting="false" start="2017-02-15" duration="1" complete="0" expand="true"/>
+        <task id="25" name="M.E.R (Modelo Entidad Relación)" meeting="false" start="2017-02-16" duration="1" complete="0" expand="true"/>
+        <task id="24" name="Test Final de Errores Comunes en Prueba de Base de Datos" meeting="false" start="2017-02-17" duration="1" complete="0" expand="true"/>
+        <task id="11" name="Fabricación de Bosetos del Programa" color="#8cb6ce" meeting="false" start="2017-02-20" duration="1" complete="0" expand="true"/>
+        <task id="26" name="Construcción Prototipado del Software" color="#8cb6ce" meeting="false" start="2017-02-21" duration="1" complete="0" expand="true"/>
+        <task id="27" name="Test de Errores en Prototipo" color="#8cb6ce" meeting="false" start="2017-02-22" duration="1" complete="0" expand="true"/>
+        <task id="28" name="Construcción Final del Prototipado" color="#8cb6ce" meeting="false" start="2017-02-23" duration="1" complete="0" expand="true"/>
+        <task id="29" name="Test de Errores Finales y Bugeos" color="#8cb6ce" meeting="false" start="2017-02-24" duration="1" complete="0" expand="true"/>
+        <task id="31" name="Terminacion de Construccion del Software" color="#8cb6ce" meeting="false" start="2017-02-27" duration="1" complete="0" expand="true"/>
+        <task id="32" name="Instalación Base de Datos y Test de Pruebas Finales en Equipo" color="#8cb6ce" meeting="false" start="2017-02-28" duration="1" complete="0" expand="true"/>
+        <task id="33" name="Test Finales de Rendimiento y Bugeos" color="#8cb6ce" meeting="false" start="2017-03-01" duration="1" complete="0" expand="true"/>
+        <task id="35" name="Instalación del Software y Testeo Final de Errores Equipo Cliente" color="#8cb6ce" meeting="false" start="2017-03-02" duration="1" complete="0" expand="true"/>
+        <task id="37" name="Termino o Finalización" color="#8cb6ce" meeting="false" start="2017-03-03" duration="1" complete="0" expand="true"/>
+    </tasks>
+    <resources/>
+    <allocations/>
+    <vacations/>
+    <previous/>
+    <roles roleset-name="Default"/>
+</project>

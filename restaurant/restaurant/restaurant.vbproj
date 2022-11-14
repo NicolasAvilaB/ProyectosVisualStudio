@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E26A8A8C-11D3-4591-8256-57D19F342D01}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>restaurant.My.MyApplication</StartupObject>
+    <RootNamespace>restaurant</RootNamespace>
+    <AssemblyName>restaurant</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>restaurant.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>restaurant.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.9.8.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Administrador.Designer.vb">
+      <DependentUpon>Administrador.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administrador.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ayuda_Dinamica.Designer.vb">
+      <DependentUpon>Ayuda_Dinamica.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ayuda_Dinamica.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Concretar_Ventas.Designer.vb">
+      <DependentUpon>Concretar_Ventas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Concretar_Ventas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Historial_Pedidos.Designer.vb">
+      <DependentUpon>Historial_Pedidos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Historial_Pedidos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MantenedorBebestibles.Designer.vb">
+      <DependentUpon>MantenedorBebestibles.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MantenedorBebestibles.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MantenedorMesas.Designer.vb">
+      <DependentUpon>MantenedorMesas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MantenedorMesas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MantenedorPlatos.Designer.vb">
+      <DependentUpon>MantenedorPlatos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MantenedorPlatos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MantenedorTrabajadores.Designer.vb">
+      <DependentUpon>MantenedorTrabajadores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MantenedorTrabajadores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MantenedorUsuarios.Designer.vb">
+      <DependentUpon>MantenedorUsuarios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MantenedorUsuarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuMesas.Designer.vb">
+      <DependentUpon>MenuMesas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MenuMesas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modulo_Conexion.vb" />
+    <Compile Include="Modulo_Consulta.vb" />
+    <Compile Include="Modulo_Nombre_Mesa.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Transacciones.Designer.vb">
+      <DependentUpon>Transacciones.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Transacciones.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Administrador.resx">
+      <DependentUpon>Administrador.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ayuda_Dinamica.resx">
+      <DependentUpon>Ayuda_Dinamica.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Concretar_Ventas.resx">
+      <DependentUpon>Concretar_Ventas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Historial_Pedidos.resx">
+      <DependentUpon>Historial_Pedidos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MantenedorBebestibles.resx">
+      <DependentUpon>MantenedorBebestibles.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MantenedorMesas.resx">
+      <DependentUpon>MantenedorMesas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MantenedorPlatos.resx">
+      <DependentUpon>MantenedorPlatos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MantenedorTrabajadores.resx">
+      <DependentUpon>MantenedorTrabajadores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MantenedorUsuarios.resx">
+      <DependentUpon>MantenedorUsuarios.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuMesas.resx">
+      <DependentUpon>MenuMesas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transacciones.resx">
+      <DependentUpon>Transacciones.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

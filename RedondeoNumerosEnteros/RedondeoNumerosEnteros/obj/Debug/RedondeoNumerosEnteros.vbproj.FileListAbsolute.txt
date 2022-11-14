@@ -1,0 +1,10 @@
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\RedondeoNumerosEnteros\RedondeoNumerosEnteros\bin\Debug\RedondeoNumerosEnteros.exe
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\RedondeoNumerosEnteros\RedondeoNumerosEnteros\bin\Debug\RedondeoNumerosEnteros.pdb
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\RedondeoNumerosEnteros\RedondeoNumerosEnteros\bin\Debug\RedondeoNumerosEnteros.xml
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\RedondeoNumerosEnteros\RedondeoNumerosEnteros\obj\Debug\RedondeoNumerosEnteros.vbprojResolveAssemblyReference.cache
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\RedondeoNumerosEnteros\RedondeoNumerosEnteros\obj\Debug\RedondeoNumerosEnteros.Form1.resources
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\RedondeoNumerosEnteros\RedondeoNumerosEnteros\obj\Debug\RedondeoNumerosEnteros.Resources.resources
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\RedondeoNumerosEnteros\RedondeoNumerosEnteros\obj\Debug\RedondeoNumerosEnteros.vbproj.GenerateResource.Cache
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\RedondeoNumerosEnteros\RedondeoNumerosEnteros\obj\Debug\RedondeoNumerosEnteros.exe
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\RedondeoNumerosEnteros\RedondeoNumerosEnteros\obj\Debug\RedondeoNumerosEnteros.xml
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\RedondeoNumerosEnteros\RedondeoNumerosEnteros\obj\Debug\RedondeoNumerosEnteros.pdb

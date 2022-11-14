@@ -1,0 +1,14 @@
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\Modulo 3 - Medidas y Escalas\Modulo 3 - Medidas y Escalas\bin\Debug\Modulo 3 - Medidas y Escalas.exe
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\Modulo 3 - Medidas y Escalas\Modulo 3 - Medidas y Escalas\bin\Debug\Modulo 3 - Medidas y Escalas.pdb
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\Modulo 3 - Medidas y Escalas\Modulo 3 - Medidas y Escalas\bin\Debug\Modulo 3 - Medidas y Escalas.xml
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\Modulo 3 - Medidas y Escalas\Modulo 3 - Medidas y Escalas\obj\Debug\Modulo 3 - Medidas y Escalas.vbprojResolveAssemblyReference.cache
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\Modulo 3 - Medidas y Escalas\Modulo 3 - Medidas y Escalas\obj\Debug\Modulo_3___Medidas_y_Escalas.Resources.resources
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\Modulo 3 - Medidas y Escalas\Modulo 3 - Medidas y Escalas\obj\Debug\Modulo 3 - Medidas y Escalas.vbproj.GenerateResource.Cache
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\Modulo 3 - Medidas y Escalas\Modulo 3 - Medidas y Escalas\obj\Debug\Modulo 3 - Medidas y Escalas.exe
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\Modulo 3 - Medidas y Escalas\Modulo 3 - Medidas y Escalas\obj\Debug\Modulo 3 - Medidas y Escalas.xml
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\Modulo 3 - Medidas y Escalas\Modulo 3 - Medidas y Escalas\obj\Debug\Modulo 3 - Medidas y Escalas.pdb
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\Modulo 3 - Medidas y Escalas\Modulo 3 - Medidas y Escalas\obj\Debug\Modulo_3___Medidas_y_Escalas.Esca_Med.resources
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\Modulo 3 - Medidas y Escalas\Modulo 3 - Medidas y Escalas\bin\Debug\MySql.Data.dll
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\Modulo 3 - Medidas y Escalas\Modulo 3 - Medidas y Escalas\obj\Debug\Modulo_3___Medidas_y_Escalas.Advertencia.resources
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 3 - Medidas y Escalas\Modulo 3 - Medidas y Escalas\obj\Debug\Modulo_3___Medidas_y_Escalas.Ven_Err.resources
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 3 - Medidas y Escalas\Modulo 3 - Medidas y Escalas\obj\Debug\Modulo_3___Medidas_y_Escalas.Info.resources

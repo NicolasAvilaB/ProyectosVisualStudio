@@ -1,0 +1,27 @@
+C:\Users\Nicolas Avila B\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nicolas Avila B\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Nicolas Avila B\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Nicolas Avila B\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Nicolas Avila B\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Nicolas Avila B\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Nicolas Avila B\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Nicolas Avila B\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Nicolas Avila B\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Nicolas Avila B\documents\visual studio 2010\Projects\Ejercicio C Sharp 1 (Windows Forms)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Nicolas Avila B\documents\visual studio 2010\Projects\Ejercicio C Sharp 1 (Windows Forms)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Nicolas Avila B\documents\visual studio 2010\Projects\Ejercicio C Sharp 1 (Windows Forms)\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nicolas Avila B\documents\visual studio 2010\Projects\Ejercicio C Sharp 1 (Windows Forms)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Nicolas Avila B\documents\visual studio 2010\Projects\Ejercicio C Sharp 1 (Windows Forms)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Nicolas Avila B\documents\visual studio 2010\Projects\Ejercicio C Sharp 1 (Windows Forms)\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Nicolas Avila B\documents\visual studio 2010\Projects\Ejercicio C Sharp 1 (Windows Forms)\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Nicolas Avila B\documents\visual studio 2010\Projects\Ejercicio C Sharp 1 (Windows Forms)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Nicolas Avila B\documents\visual studio 2010\Projects\Ejercicio C Sharp 1 (Windows Forms)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Nicolas Avila B\Desktop\Ejercicios Guia C# (Windows Forms)\Ejercicio C Sharp 1 (Windows Forms)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Nicolas Avila B\Desktop\Ejercicios Guia C# (Windows Forms)\Ejercicio C Sharp 1 (Windows Forms)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Nicolas Avila B\Desktop\Ejercicios Guia C# (Windows Forms)\Ejercicio C Sharp 1 (Windows Forms)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Nicolas Avila B\Desktop\Ejercicios Guia C# (Windows Forms)\Ejercicio C Sharp 1 (Windows Forms)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Nicolas Avila B\Desktop\Ejercicios Guia C# (Windows Forms)\Ejercicio C Sharp 1 (Windows Forms)\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nicolas Avila B\Desktop\Ejercicios Guia C# (Windows Forms)\Ejercicio C Sharp 1 (Windows Forms)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Nicolas Avila B\Desktop\Ejercicios Guia C# (Windows Forms)\Ejercicio C Sharp 1 (Windows Forms)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Nicolas Avila B\Desktop\Ejercicios Guia C# (Windows Forms)\Ejercicio C Sharp 1 (Windows Forms)\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Nicolas Avila B\Desktop\Ejercicios Guia C# (Windows Forms)\Ejercicio C Sharp 1 (Windows Forms)\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,9 @@
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\ParesImparesCSharp (Grafico)\ParesImparesCSharp (Grafico)\bin\Debug\ParesImparesCSharp (Grafico).exe.config
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\ParesImparesCSharp (Grafico)\ParesImparesCSharp (Grafico)\bin\Debug\ParesImparesCSharp (Grafico).exe
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\ParesImparesCSharp (Grafico)\ParesImparesCSharp (Grafico)\bin\Debug\ParesImparesCSharp (Grafico).pdb
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\ParesImparesCSharp (Grafico)\ParesImparesCSharp (Grafico)\obj\Debug\ParesImparesCSharp (Grafico).csprojResolveAssemblyReference.cache
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\ParesImparesCSharp (Grafico)\ParesImparesCSharp (Grafico)\obj\Debug\ParesImparesCSharp__Grafico_.Form1.resources
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\ParesImparesCSharp (Grafico)\ParesImparesCSharp (Grafico)\obj\Debug\ParesImparesCSharp__Grafico_.Properties.Resources.resources
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\ParesImparesCSharp (Grafico)\ParesImparesCSharp (Grafico)\obj\Debug\ParesImparesCSharp (Grafico).csproj.GenerateResource.Cache
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\ParesImparesCSharp (Grafico)\ParesImparesCSharp (Grafico)\obj\Debug\ParesImparesCSharp (Grafico).exe
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\ParesImparesCSharp (Grafico)\ParesImparesCSharp (Grafico)\obj\Debug\ParesImparesCSharp (Grafico).pdb

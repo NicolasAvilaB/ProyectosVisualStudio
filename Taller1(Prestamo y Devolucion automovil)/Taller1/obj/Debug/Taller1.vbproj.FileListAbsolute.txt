@@ -1,0 +1,19 @@
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Taller1\Taller1\bin\Debug\Taller1.exe.config
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Taller1\Taller1\bin\Debug\Taller1.exe
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Taller1\Taller1\bin\Debug\Taller1.pdb
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Taller1\Taller1\bin\Debug\Taller1.xml
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Taller1\Taller1\obj\Debug\Taller1.Form1.resources
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Taller1\Taller1\obj\Debug\Taller1.Resources.resources
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Taller1\Taller1\obj\Debug\Taller1.vbproj.GenerateResource.Cache
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Taller1\Taller1\obj\Debug\Taller1.exe
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Taller1\Taller1\obj\Debug\Taller1.xml
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Taller1\Taller1\obj\Debug\Taller1.pdb
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Taller1\Taller1\obj\Debug\Taller1.Form2.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\Taller1\Taller1\bin\Debug\Taller1.exe.config
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\Taller1\Taller1\obj\Debug\Taller1.exe
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\Taller1\Taller1\obj\Debug\Taller1.xml
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\Taller1\Taller1\obj\Debug\Taller1.pdb
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Taller1(Prestamo y Devolucion automovil)\Taller1\bin\Debug\Taller1.exe.config
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Taller1(Prestamo y Devolucion automovil)\Taller1\obj\Debug\Taller1.exe
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Taller1(Prestamo y Devolucion automovil)\Taller1\obj\Debug\Taller1.xml
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Taller1(Prestamo y Devolucion automovil)\Taller1\obj\Debug\Taller1.pdb

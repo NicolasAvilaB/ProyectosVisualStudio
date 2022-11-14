@@ -1,0 +1,37 @@
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 17 Asp ReservasLibro con Image\Ejemplo 17 Asp ReservasLibro con Image\bin\ApplicationInsights.config
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 17 Asp ReservasLibro con Image\Ejemplo 17 Asp ReservasLibro con Image\bin\roslyn\csc.exe
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 17 Asp ReservasLibro con Image\Ejemplo 17 Asp ReservasLibro con Image\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 17 Asp ReservasLibro con Image\Ejemplo 17 Asp ReservasLibro con Image\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 17 Asp ReservasLibro con Image\Ejemplo 17 Asp ReservasLibro con Image\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 17 Asp ReservasLibro con Image\Ejemplo 17 Asp ReservasLibro con Image\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 17 Asp ReservasLibro con Image\Ejemplo 17 Asp ReservasLibro con Image\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 17 Asp ReservasLibro con Image\Ejemplo 17 Asp ReservasLibro con Image\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 17 Asp ReservasLibro con Image\Ejemplo 17 Asp ReservasLibro con Image\bin\roslyn\System.Collections.Immutable.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 17 Asp ReservasLibro con Image\Ejemplo 17 Asp ReservasLibro con Image\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 17 Asp ReservasLibro con Image\Ejemplo 17 Asp ReservasLibro con Image\bin\roslyn\vbc.exe
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 17 Asp ReservasLibro con Image\Ejemplo 17 Asp ReservasLibro con Image\bin\roslyn\VBCSCompiler.exe
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 17 Asp ReservasLibro con Image\Ejemplo 17 Asp ReservasLibro con Image\bin\roslyn\VBCSCompiler.exe.config
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 17 Asp ReservasLibro con Image\Ejemplo 17 Asp ReservasLibro con Image\bin\Ejemplo 17 Asp ReservasLibro con Image.dll.config
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 17 Asp ReservasLibro con Image\Ejemplo 17 Asp ReservasLibro con Image\bin\Ejemplo 17 Asp ReservasLibro con Image.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 17 Asp ReservasLibro con Image\Ejemplo 17 Asp ReservasLibro con Image\bin\Ejemplo 17 Asp ReservasLibro con Image.pdb
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 17 Asp ReservasLibro con Image\Ejemplo 17 Asp ReservasLibro con Image\bin\Ejemplo 17 Asp ReservasLibro con Image.xml
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 17 Asp ReservasLibro con Image\Ejemplo 17 Asp ReservasLibro con Image\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 17 Asp ReservasLibro con Image\Ejemplo 17 Asp ReservasLibro con Image\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 17 Asp ReservasLibro con Image\Ejemplo 17 Asp ReservasLibro con Image\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 17 Asp ReservasLibro con Image\Ejemplo 17 Asp ReservasLibro con Image\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 17 Asp ReservasLibro con Image\Ejemplo 17 Asp ReservasLibro con Image\bin\Microsoft.AI.Web.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 17 Asp ReservasLibro con Image\Ejemplo 17 Asp ReservasLibro con Image\bin\Microsoft.AI.WindowsServer.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 17 Asp ReservasLibro con Image\Ejemplo 17 Asp ReservasLibro con Image\bin\Microsoft.ApplicationInsights.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 17 Asp ReservasLibro con Image\Ejemplo 17 Asp ReservasLibro con Image\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 17 Asp ReservasLibro con Image\Ejemplo 17 Asp ReservasLibro con Image\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 17 Asp ReservasLibro con Image\Ejemplo 17 Asp ReservasLibro con Image\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 17 Asp ReservasLibro con Image\Ejemplo 17 Asp ReservasLibro con Image\bin\Microsoft.AI.Web.xml
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 17 Asp ReservasLibro con Image\Ejemplo 17 Asp ReservasLibro con Image\bin\Microsoft.AI.WindowsServer.xml
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 17 Asp ReservasLibro con Image\Ejemplo 17 Asp ReservasLibro con Image\bin\Microsoft.ApplicationInsights.xml
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 17 Asp ReservasLibro con Image\Ejemplo 17 Asp ReservasLibro con Image\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 17 Asp ReservasLibro con Image\Ejemplo 17 Asp ReservasLibro con Image\obj\Debug\Ejemplo 17 Asp ReservasLibro con Image.vbprojResolveAssemblyReference.cache
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 17 Asp ReservasLibro con Image\Ejemplo 17 Asp ReservasLibro con Image\obj\Debug\Ejemplo_17_Asp_ReservasLibro_con_Image.Resources.resources
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 17 Asp ReservasLibro con Image\Ejemplo 17 Asp ReservasLibro con Image\obj\Debug\Ejemplo 17 Asp ReservasLibro con Image.vbproj.GenerateResource.Cache
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 17 Asp ReservasLibro con Image\Ejemplo 17 Asp ReservasLibro con Image\obj\Debug\Ejemplo 17 Asp ReservasLibro con Image.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 17 Asp ReservasLibro con Image\Ejemplo 17 Asp ReservasLibro con Image\obj\Debug\Ejemplo 17 Asp ReservasLibro con Image.xml
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 17 Asp ReservasLibro con Image\Ejemplo 17 Asp ReservasLibro con Image\obj\Debug\Ejemplo 17 Asp ReservasLibro con Image.pdb

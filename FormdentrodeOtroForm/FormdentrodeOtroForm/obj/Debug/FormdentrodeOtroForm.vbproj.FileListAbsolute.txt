@@ -1,0 +1,12 @@
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\FormdentrodeOtroForm\FormdentrodeOtroForm\bin\Debug\FormdentrodeOtroForm.exe
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\FormdentrodeOtroForm\FormdentrodeOtroForm\bin\Debug\FormdentrodeOtroForm.pdb
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\FormdentrodeOtroForm\FormdentrodeOtroForm\bin\Debug\FormdentrodeOtroForm.xml
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\FormdentrodeOtroForm\FormdentrodeOtroForm\obj\Debug\FormdentrodeOtroForm.Form1.resources
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\FormdentrodeOtroForm\FormdentrodeOtroForm\obj\Debug\FormdentrodeOtroForm.Form2.resources
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\FormdentrodeOtroForm\FormdentrodeOtroForm\obj\Debug\FormdentrodeOtroForm.Resources.resources
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\FormdentrodeOtroForm\FormdentrodeOtroForm\obj\Debug\FormdentrodeOtroForm.vbproj.GenerateResource.Cache
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\FormdentrodeOtroForm\FormdentrodeOtroForm\obj\Debug\FormdentrodeOtroForm.exe
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\FormdentrodeOtroForm\FormdentrodeOtroForm\obj\Debug\FormdentrodeOtroForm.xml
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\FormdentrodeOtroForm\FormdentrodeOtroForm\obj\Debug\FormdentrodeOtroForm.pdb
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\FormdentrodeOtroForm\FormdentrodeOtroForm\obj\Debug\FormdentrodeOtroForm.vbprojAssemblyReference.cache
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\FormdentrodeOtroForm\FormdentrodeOtroForm\obj\Debug\FormdentrodeOtroForm.vbproj.CoreCompileInputs.cache

@@ -1,0 +1,22 @@
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.exe.config
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.exe
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.pdb
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.xml
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.vbprojResolveAssemblyReference.cache
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form1.resources
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Resources.resources
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.GenerateResource.Cache
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.exe
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.xml
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.pdb
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\Ocultar y Abrir Barra de Tareas\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.exe.config
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\Ocultar y Abrir Barra de Tareas\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.exe
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\Ocultar y Abrir Barra de Tareas\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.xml
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\Ocultar y Abrir Barra de Tareas\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.pdb
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\Ocultar y Abrir Barra de Tareas\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.exe
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\Ocultar y Abrir Barra de Tareas\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.pdb
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\Ocultar y Abrir Barra de Tareas\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.xml
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\Ocultar y Abrir Barra de Tareas\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.vbprojResolveAssemblyReference.cache
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\Ocultar y Abrir Barra de Tareas\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form1.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\Ocultar y Abrir Barra de Tareas\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Resources.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\Ocultar y Abrir Barra de Tareas\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.GenerateResource.Cache

@@ -1,0 +1,22 @@
+c:\users\nicolas\documents\visual studio 2010\Projects\TesteoPrueba\TesteoPrueba\bin\Debug\TesteoPrueba.exe
+c:\users\nicolas\documents\visual studio 2010\Projects\TesteoPrueba\TesteoPrueba\bin\Debug\TesteoPrueba.pdb
+c:\users\nicolas\documents\visual studio 2010\Projects\TesteoPrueba\TesteoPrueba\bin\Debug\TesteoPrueba.xml
+c:\users\nicolas\documents\visual studio 2010\Projects\TesteoPrueba\TesteoPrueba\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\nicolas\documents\visual studio 2010\Projects\TesteoPrueba\TesteoPrueba\obj\x86\Debug\TesteoPrueba.Form1.resources
+c:\users\nicolas\documents\visual studio 2010\Projects\TesteoPrueba\TesteoPrueba\obj\x86\Debug\TesteoPrueba.Resources.resources
+c:\users\nicolas\documents\visual studio 2010\Projects\TesteoPrueba\TesteoPrueba\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\nicolas\documents\visual studio 2010\Projects\TesteoPrueba\TesteoPrueba\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\nicolas\documents\visual studio 2010\Projects\TesteoPrueba\TesteoPrueba\obj\x86\Debug\TesteoPrueba.exe
+c:\users\nicolas\documents\visual studio 2010\Projects\TesteoPrueba\TesteoPrueba\obj\x86\Debug\TesteoPrueba.xml
+c:\users\nicolas\documents\visual studio 2010\Projects\TesteoPrueba\TesteoPrueba\obj\x86\Debug\TesteoPrueba.pdb
+C:\Users\Nicolas\Desktop\NICOLAS RODRIGO AVILA BISKUPOVIC\PRUEBA FUNDAMENTOS DE LENGUAJE DE PROGRAMACION\TesteoPrueba\TesteoPrueba\obj\x86\Debug\TesteoPrueba.exe
+C:\Users\Nicolas\Desktop\NICOLAS RODRIGO AVILA BISKUPOVIC\PRUEBA FUNDAMENTOS DE LENGUAJE DE PROGRAMACION\TesteoPrueba\TesteoPrueba\obj\x86\Debug\TesteoPrueba.xml
+C:\Users\Nicolas\Desktop\NICOLAS RODRIGO AVILA BISKUPOVIC\PRUEBA FUNDAMENTOS DE LENGUAJE DE PROGRAMACION\TesteoPrueba\TesteoPrueba\obj\x86\Debug\TesteoPrueba.pdb
+C:\Users\Nicolas\Desktop\NICOLAS RODRIGO AVILA BISKUPOVIC\PRUEBA FUNDAMENTOS DE LENGUAJE DE PROGRAMACION\TesteoPrueba\TesteoPrueba\bin\Debug\TesteoPrueba.exe
+C:\Users\Nicolas\Desktop\NICOLAS RODRIGO AVILA BISKUPOVIC\PRUEBA FUNDAMENTOS DE LENGUAJE DE PROGRAMACION\TesteoPrueba\TesteoPrueba\bin\Debug\TesteoPrueba.pdb
+C:\Users\Nicolas\Desktop\NICOLAS RODRIGO AVILA BISKUPOVIC\PRUEBA FUNDAMENTOS DE LENGUAJE DE PROGRAMACION\TesteoPrueba\TesteoPrueba\bin\Debug\TesteoPrueba.xml
+C:\Users\Nicolas\Desktop\NICOLAS RODRIGO AVILA BISKUPOVIC\PRUEBA FUNDAMENTOS DE LENGUAJE DE PROGRAMACION\TesteoPrueba\TesteoPrueba\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nicolas\Desktop\NICOLAS RODRIGO AVILA BISKUPOVIC\PRUEBA FUNDAMENTOS DE LENGUAJE DE PROGRAMACION\TesteoPrueba\TesteoPrueba\obj\x86\Debug\TesteoPrueba.Form1.resources
+C:\Users\Nicolas\Desktop\NICOLAS RODRIGO AVILA BISKUPOVIC\PRUEBA FUNDAMENTOS DE LENGUAJE DE PROGRAMACION\TesteoPrueba\TesteoPrueba\obj\x86\Debug\TesteoPrueba.Resources.resources
+C:\Users\Nicolas\Desktop\NICOLAS RODRIGO AVILA BISKUPOVIC\PRUEBA FUNDAMENTOS DE LENGUAJE DE PROGRAMACION\TesteoPrueba\TesteoPrueba\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Nicolas\Desktop\NICOLAS RODRIGO AVILA BISKUPOVIC\PRUEBA FUNDAMENTOS DE LENGUAJE DE PROGRAMACION\TesteoPrueba\TesteoPrueba\obj\x86\Debug\GenerateResource.write.1.tlog

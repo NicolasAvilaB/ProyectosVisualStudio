@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>D:\Users\Nicolas Avila Biskup\Desktop\xxx\|D:\Users\Nicolas Avila Biskup\Desktop\Programa Bodega\|D:\Users\Nicolas Avila Biskup\Desktop\Proyecto Titulo\Setup Proyecto Bodega\|D:\Users\Nicolas Avila Biskup\Desktop\Proyecto Bodega Final\Setup Proyecto Bodega\|D:\Users\Nicolas Avila Biskup\Desktop\Proyecto Titulo\Programa %28Proyecto de Titulo%29\Setup %28Instalación ProyBodega%29\</PublishUrlHistory>
+    <InstallUrlHistory />
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>es-ES</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ReferencePath>D:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\;C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\</ReferencePath>
+  </PropertyGroup>
+</Project>

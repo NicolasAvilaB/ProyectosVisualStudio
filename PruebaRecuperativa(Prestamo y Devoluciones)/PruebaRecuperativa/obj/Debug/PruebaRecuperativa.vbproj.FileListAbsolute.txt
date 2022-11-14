@@ -1,0 +1,32 @@
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\PruebaRecuperativa\PruebaRecuperativa\bin\Debug\PruebaRecuperativa.exe.config
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\PruebaRecuperativa\PruebaRecuperativa\bin\Debug\PruebaRecuperativa.exe
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\PruebaRecuperativa\PruebaRecuperativa\bin\Debug\PruebaRecuperativa.pdb
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\PruebaRecuperativa\PruebaRecuperativa\bin\Debug\PruebaRecuperativa.xml
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\PruebaRecuperativa\PruebaRecuperativa\bin\Debug\MySql.Data.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\PruebaRecuperativa\PruebaRecuperativa\obj\Debug\PruebaRecuperativa.vbprojResolveAssemblyReference.cache
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\PruebaRecuperativa\PruebaRecuperativa\obj\Debug\PruebaRecuperativa.Form1.resources
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\PruebaRecuperativa\PruebaRecuperativa\obj\Debug\PruebaRecuperativa.Resources.resources
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\PruebaRecuperativa\PruebaRecuperativa\obj\Debug\PruebaRecuperativa.vbproj.GenerateResource.Cache
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\PruebaRecuperativa\PruebaRecuperativa\obj\Debug\PruebaRecuperativa.exe
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\PruebaRecuperativa\PruebaRecuperativa\obj\Debug\PruebaRecuperativa.xml
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\PruebaRecuperativa\PruebaRecuperativa\obj\Debug\PruebaRecuperativa.pdb
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\PruebaRecuperativa(Prestamo y Devoluciones)\PruebaRecuperativa\bin\Debug\PruebaRecuperativa.exe.config
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\PruebaRecuperativa(Prestamo y Devoluciones)\PruebaRecuperativa\obj\Debug\PruebaRecuperativa.exe
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\PruebaRecuperativa(Prestamo y Devoluciones)\PruebaRecuperativa\obj\Debug\PruebaRecuperativa.xml
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\PruebaRecuperativa(Prestamo y Devoluciones)\PruebaRecuperativa\obj\Debug\PruebaRecuperativa.pdb
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\PruebaRecuperativa(Prestamo y Devoluciones)\PruebaRecuperativa\obj\Debug\PruebaRecuperativa.vbprojResolveAssemblyReference.cache
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\PruebaRecuperativa(Prestamo y Devoluciones)\PruebaRecuperativa\obj\Debug\PruebaRecuperativa.Form1.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\PruebaRecuperativa(Prestamo y Devoluciones)\PruebaRecuperativa\obj\Debug\PruebaRecuperativa.Resources.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\PruebaRecuperativa(Prestamo y Devoluciones)\PruebaRecuperativa\obj\Debug\PruebaRecuperativa.vbproj.GenerateResource.Cache
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\PruebaRecuperativa(Prestamo y Devoluciones)\PruebaRecuperativa\bin\Debug\PruebaRecuperativa.exe.manifest
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\PruebaRecuperativa(Prestamo y Devoluciones)\PruebaRecuperativa\bin\Debug\PruebaRecuperativa.application
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\PruebaRecuperativa(Prestamo y Devoluciones)\PruebaRecuperativa\bin\Debug\PruebaRecuperativa.exe
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\PruebaRecuperativa(Prestamo y Devoluciones)\PruebaRecuperativa\bin\Debug\PruebaRecuperativa.pdb
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\PruebaRecuperativa(Prestamo y Devoluciones)\PruebaRecuperativa\bin\Debug\PruebaRecuperativa.xml
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\PruebaRecuperativa(Prestamo y Devoluciones)\PruebaRecuperativa\bin\Debug\MySql.Data.dll
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\PruebaRecuperativa(Prestamo y Devoluciones)\PruebaRecuperativa\obj\Debug\PruebaRecuperativa.exe.manifest
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\PruebaRecuperativa(Prestamo y Devoluciones)\PruebaRecuperativa\obj\Debug\PruebaRecuperativa.application
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\PruebaRecuperativa(Prestamo y Devoluciones)\PruebaRecuperativa\bin\Debug\PruebaRecuperativa.exe.config
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\PruebaRecuperativa(Prestamo y Devoluciones)\PruebaRecuperativa\obj\Debug\PruebaRecuperativa.exe
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\PruebaRecuperativa(Prestamo y Devoluciones)\PruebaRecuperativa\obj\Debug\PruebaRecuperativa.xml
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\PruebaRecuperativa(Prestamo y Devoluciones)\PruebaRecuperativa\obj\Debug\PruebaRecuperativa.pdb

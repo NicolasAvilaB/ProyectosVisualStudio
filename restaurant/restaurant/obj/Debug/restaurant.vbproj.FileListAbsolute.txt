@@ -1,0 +1,44 @@
+C:\Users\sanfernando_lab3\Documents\Visual Studio 2013\Projects\restaurant\restaurant\bin\Debug\restaurant.exe.config
+C:\Users\sanfernando_lab3\Documents\Visual Studio 2013\Projects\restaurant\restaurant\bin\Debug\restaurant.exe
+C:\Users\sanfernando_lab3\Documents\Visual Studio 2013\Projects\restaurant\restaurant\bin\Debug\restaurant.pdb
+C:\Users\sanfernando_lab3\Documents\Visual Studio 2013\Projects\restaurant\restaurant\bin\Debug\restaurant.xml
+C:\Users\sanfernando_lab3\Documents\Visual Studio 2013\Projects\restaurant\restaurant\obj\Debug\restaurant.Form1.resources
+C:\Users\sanfernando_lab3\Documents\Visual Studio 2013\Projects\restaurant\restaurant\obj\Debug\restaurant.Resources.resources
+C:\Users\sanfernando_lab3\Documents\Visual Studio 2013\Projects\restaurant\restaurant\obj\Debug\restaurant.vbproj.GenerateResource.Cache
+C:\Users\sanfernando_lab3\Documents\Visual Studio 2013\Projects\restaurant\restaurant\obj\Debug\restaurant.exe
+C:\Users\sanfernando_lab3\Documents\Visual Studio 2013\Projects\restaurant\restaurant\obj\Debug\restaurant.xml
+C:\Users\sanfernando_lab3\Documents\Visual Studio 2013\Projects\restaurant\restaurant\obj\Debug\restaurant.pdb
+C:\Users\DanielGonzalezRojas\Documents\Visual Studio 2015\Projects\restaurant\restaurant\bin\Debug\restaurant.exe.config
+C:\Users\DanielGonzalezRojas\Documents\Visual Studio 2015\Projects\restaurant\restaurant\obj\Debug\restaurant.exe
+C:\Users\DanielGonzalezRojas\Documents\Visual Studio 2015\Projects\restaurant\restaurant\obj\Debug\restaurant.xml
+C:\Users\DanielGonzalezRojas\Documents\Visual Studio 2015\Projects\restaurant\restaurant\obj\Debug\restaurant.pdb
+C:\Users\DanielGonzalezRojas\Documents\Visual Studio 2015\Projects\restaurant\restaurant\bin\Debug\restaurant.exe
+C:\Users\DanielGonzalezRojas\Documents\Visual Studio 2015\Projects\restaurant\restaurant\bin\Debug\restaurant.pdb
+C:\Users\DanielGonzalezRojas\Documents\Visual Studio 2015\Projects\restaurant\restaurant\bin\Debug\restaurant.xml
+C:\Users\DanielGonzalezRojas\Documents\Visual Studio 2015\Projects\restaurant\restaurant\bin\Debug\MySql.Data.dll
+C:\Users\DanielGonzalezRojas\Documents\Visual Studio 2015\Projects\restaurant\restaurant\obj\Debug\restaurant.Form1.resources
+C:\Users\DanielGonzalezRojas\Documents\Visual Studio 2015\Projects\restaurant\restaurant\obj\Debug\restaurant.Resources.resources
+C:\Users\DanielGonzalezRojas\Documents\Visual Studio 2015\Projects\restaurant\restaurant\obj\Debug\restaurant.vbproj.GenerateResource.Cache
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\restaurant\restaurant\bin\Debug\restaurant.exe.config
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\restaurant\restaurant\obj\Debug\restaurant.exe
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\restaurant\restaurant\obj\Debug\restaurant.xml
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\restaurant\restaurant\obj\Debug\restaurant.pdb
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\restaurant\restaurant\obj\Debug\restaurant.Administrador.resources
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\restaurant\restaurant\obj\Debug\restaurant.Form1.resources
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\restaurant\restaurant\obj\Debug\restaurant.MantenedorUsuarios.resources
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\restaurant\restaurant\obj\Debug\restaurant.MenuMesas.resources
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\restaurant\restaurant\obj\Debug\restaurant.Resources.resources
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\restaurant\restaurant\obj\Debug\restaurant.Transacciones.resources
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\restaurant\restaurant\obj\Debug\restaurant.vbproj.GenerateResource.Cache
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\restaurant\restaurant\bin\Debug\restaurant.exe
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\restaurant\restaurant\bin\Debug\restaurant.pdb
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\restaurant\restaurant\bin\Debug\restaurant.xml
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\restaurant\restaurant\bin\Debug\MySql.Data.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\restaurant\restaurant\obj\Debug\restaurant.Ayuda_Dinamica.resources
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\restaurant\restaurant\obj\Debug\restaurant.MantenedorMesas.resources
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\restaurant\restaurant\obj\Debug\restaurant.MantenedorTrabajadores.resources
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\restaurant\restaurant\obj\Debug\restaurant.MantenedorPlatos.resources
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\restaurant\restaurant\obj\Debug\restaurant.MantenedorBebestibles.resources
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\restaurant\restaurant\obj\Debug\restaurant.Concretar_Ventas.resources
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\restaurant\restaurant\obj\Debug\restaurant.vbprojResolveAssemblyReference.cache
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\restaurant\restaurant\obj\Debug\restaurant.Historial_Pedidos.resources

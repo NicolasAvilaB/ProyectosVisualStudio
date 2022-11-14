@@ -1,0 +1,66 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+RegistroNiñosJuguetesNavidad
+</name>
+</assembly>
+<members>
+<member name="T:RegistroNiñosJuguetesNavidad.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:RegistroNiñosJuguetesNavidad.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:RegistroNiñosJuguetesNavidad.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="T:RegistroNiñosJuguetesNavidad.DsFichas">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:RegistroNiñosJuguetesNavidad.DsFichas.DtFichasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:RegistroNiñosJuguetesNavidad.DsFichas.DtFichasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:RegistroNiñosJuguetesNavidad.DsFichas.DtFichasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:RegistroNiñosJuguetesNavidad.DsHistorial">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:RegistroNiñosJuguetesNavidad.DsHistorial.DtHistorialDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:RegistroNiñosJuguetesNavidad.DsHistorial.DtHistorialRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:RegistroNiñosJuguetesNavidad.DsHistorial.DtHistorialRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+</members>
+</doc>

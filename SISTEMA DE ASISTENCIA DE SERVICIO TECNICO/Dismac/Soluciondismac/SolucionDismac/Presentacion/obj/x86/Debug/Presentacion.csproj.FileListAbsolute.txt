@@ -1,0 +1,210 @@
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\Presentacion.exe.config
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\Presentacion.exe
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\Presentacion.pdb
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\crdb_adoplus.dll
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\Dal.dll
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\Negocio.dll
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\Reporte.dll
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\Utilitario.dll
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\Dal.pdb
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\Negocio.pdb
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\Reporte.pdb
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\Utilitario.pdb
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistrarProducto.resources
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistraLinea.resources
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistrarModelo.resources
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistrarMarca.resources
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistrarUsuario.resources
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmCambioContraseña.resources
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.AboutBox1.resources
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmAnularGarantia.resources
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistrarGarantia.resources
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmReporteComprobante.resources
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmControlGarantia.resources
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmReporte.resources
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistrarInformeFinal.resources
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.frmRegistrarOrdenTrabajo.resources
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistrarServicio.resources
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistarRepuesto.resources
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistraInforme.resources
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistrarAsignacion.resources
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.Inicio.FrmLogin.resources
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.Inicio.FrmPrincipal.resources
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.exe
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.pdb
+D:\ray ultimo sabado a las 734\SolucionDismac\Presentacion\bin\Debug\Presentacion.exe.config
+D:\ray ultimo sabado a las 734\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.exe
+D:\ray ultimo sabado a las 734\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.pdb
+D:\ray ultimo sabado a las 734\SolucionDismac\Presentacion\bin\Debug\Presentacion.exe
+D:\ray ultimo sabado a las 734\SolucionDismac\Presentacion\bin\Debug\Presentacion.pdb
+D:\ray ultimo sabado a las 734\SolucionDismac\Presentacion\bin\Debug\crdb_adoplus.dll
+D:\ray ultimo sabado a las 734\SolucionDismac\Presentacion\bin\Debug\Dal.dll
+D:\ray ultimo sabado a las 734\SolucionDismac\Presentacion\bin\Debug\Negocio.dll
+D:\ray ultimo sabado a las 734\SolucionDismac\Presentacion\bin\Debug\Reporte.dll
+D:\ray ultimo sabado a las 734\SolucionDismac\Presentacion\bin\Debug\Utilitario.dll
+D:\ray ultimo sabado a las 734\SolucionDismac\Presentacion\bin\Debug\Dal.pdb
+D:\ray ultimo sabado a las 734\SolucionDismac\Presentacion\bin\Debug\Negocio.pdb
+D:\ray ultimo sabado a las 734\SolucionDismac\Presentacion\bin\Debug\Reporte.pdb
+D:\ray ultimo sabado a las 734\SolucionDismac\Presentacion\bin\Debug\Utilitario.pdb
+D:\ray ultimo sabado a las 734\SolucionDismac\Presentacion\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ray ultimo sabado a las 734\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistrarProducto.resources
+D:\ray ultimo sabado a las 734\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistraLinea.resources
+D:\ray ultimo sabado a las 734\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistrarModelo.resources
+D:\ray ultimo sabado a las 734\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistrarMarca.resources
+D:\ray ultimo sabado a las 734\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistrarUsuario.resources
+D:\ray ultimo sabado a las 734\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmCambioContraseña.resources
+D:\ray ultimo sabado a las 734\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.AboutBox1.resources
+D:\ray ultimo sabado a las 734\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmAnularGarantia.resources
+D:\ray ultimo sabado a las 734\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistrarGarantia.resources
+D:\ray ultimo sabado a las 734\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmReporteComprobante.resources
+D:\ray ultimo sabado a las 734\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmControlGarantia.resources
+D:\ray ultimo sabado a las 734\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmReporte.resources
+D:\ray ultimo sabado a las 734\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistrarInformeFinal.resources
+D:\ray ultimo sabado a las 734\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.frmRegistrarOrdenTrabajo.resources
+D:\ray ultimo sabado a las 734\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistrarServicio.resources
+D:\ray ultimo sabado a las 734\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistarRepuesto.resources
+D:\ray ultimo sabado a las 734\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistraInforme.resources
+D:\ray ultimo sabado a las 734\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistrarAsignacion.resources
+D:\ray ultimo sabado a las 734\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.Inicio.FrmLogin.resources
+D:\ray ultimo sabado a las 734\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.Inicio.FrmPrincipal.resources
+D:\ray ultimo sabado a las 734\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+D:\ray ultimo sabado a las 734\SolucionDismac\Presentacion\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ray ultimo sabado a las 734\SolucionDismac\Presentacion\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmPrincipal2.resources
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.Form1.resources
+D:\PROYECTOS\APLICACIONES\Dismac Oscar Baldivieso\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\Presentacion.exe.config
+D:\PROYECTOS\APLICACIONES\Dismac Oscar Baldivieso\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.exe
+D:\PROYECTOS\APLICACIONES\Dismac Oscar Baldivieso\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.pdb
+D:\PROYECTOS\APLICACIONES\Dismac Oscar Baldivieso\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\Presentacion.exe
+D:\PROYECTOS\APLICACIONES\Dismac Oscar Baldivieso\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\Presentacion.pdb
+D:\PROYECTOS\APLICACIONES\Dismac Oscar Baldivieso\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\crdb_adoplus.dll
+D:\PROYECTOS\APLICACIONES\Dismac Oscar Baldivieso\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\Dal.dll
+D:\PROYECTOS\APLICACIONES\Dismac Oscar Baldivieso\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\Negocio.dll
+D:\PROYECTOS\APLICACIONES\Dismac Oscar Baldivieso\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\Reporte.dll
+D:\PROYECTOS\APLICACIONES\Dismac Oscar Baldivieso\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\Utilitario.dll
+D:\PROYECTOS\APLICACIONES\Dismac Oscar Baldivieso\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\Dal.pdb
+D:\PROYECTOS\APLICACIONES\Dismac Oscar Baldivieso\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\Negocio.pdb
+D:\PROYECTOS\APLICACIONES\Dismac Oscar Baldivieso\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\Reporte.pdb
+D:\PROYECTOS\APLICACIONES\Dismac Oscar Baldivieso\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\Utilitario.pdb
+D:\PROYECTOS\APLICACIONES\Dismac Oscar Baldivieso\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PROYECTOS\APLICACIONES\Dismac Oscar Baldivieso\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistrarProducto.resources
+D:\PROYECTOS\APLICACIONES\Dismac Oscar Baldivieso\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistraLinea.resources
+D:\PROYECTOS\APLICACIONES\Dismac Oscar Baldivieso\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistrarModelo.resources
+D:\PROYECTOS\APLICACIONES\Dismac Oscar Baldivieso\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistrarMarca.resources
+D:\PROYECTOS\APLICACIONES\Dismac Oscar Baldivieso\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistrarUsuario.resources
+D:\PROYECTOS\APLICACIONES\Dismac Oscar Baldivieso\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmCambioContraseña.resources
+D:\PROYECTOS\APLICACIONES\Dismac Oscar Baldivieso\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.AboutBox1.resources
+D:\PROYECTOS\APLICACIONES\Dismac Oscar Baldivieso\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmAnularGarantia.resources
+D:\PROYECTOS\APLICACIONES\Dismac Oscar Baldivieso\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistrarGarantia.resources
+D:\PROYECTOS\APLICACIONES\Dismac Oscar Baldivieso\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmReporteComprobante.resources
+D:\PROYECTOS\APLICACIONES\Dismac Oscar Baldivieso\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmControlGarantia.resources
+D:\PROYECTOS\APLICACIONES\Dismac Oscar Baldivieso\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmReporte.resources
+D:\PROYECTOS\APLICACIONES\Dismac Oscar Baldivieso\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistrarInformeFinal.resources
+D:\PROYECTOS\APLICACIONES\Dismac Oscar Baldivieso\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.frmRegistrarOrdenTrabajo.resources
+D:\PROYECTOS\APLICACIONES\Dismac Oscar Baldivieso\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistrarServicio.resources
+D:\PROYECTOS\APLICACIONES\Dismac Oscar Baldivieso\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistarRepuesto.resources
+D:\PROYECTOS\APLICACIONES\Dismac Oscar Baldivieso\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistraInforme.resources
+D:\PROYECTOS\APLICACIONES\Dismac Oscar Baldivieso\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistrarAsignacion.resources
+D:\PROYECTOS\APLICACIONES\Dismac Oscar Baldivieso\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.Inicio.FrmLogin.resources
+D:\PROYECTOS\APLICACIONES\Dismac Oscar Baldivieso\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.Inicio.FrmPrincipal.resources
+D:\PROYECTOS\APLICACIONES\Dismac Oscar Baldivieso\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+D:\PROYECTOS\APLICACIONES\Dismac Oscar Baldivieso\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\PROYECTOS\APLICACIONES\Dismac Oscar Baldivieso\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\Presentacion.exe.config
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.exe
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.pdb
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\Presentacion.exe
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\Presentacion.pdb
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\crdb_adoplus.dll
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\Dal.dll
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\Negocio.dll
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\Reporte.dll
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\Utilitario.dll
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\Dal.pdb
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\Negocio.pdb
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\Reporte.pdb
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\Utilitario.pdb
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistrarProducto.resources
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistraLinea.resources
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistrarModelo.resources
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistrarMarca.resources
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistrarUsuario.resources
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmCambioContraseña.resources
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.AboutBox1.resources
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmAnularGarantia.resources
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistrarGarantia.resources
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmReporteComprobante.resources
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmControlGarantia.resources
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmReporte.resources
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistrarInformeFinal.resources
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.frmRegistrarOrdenTrabajo.resources
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistrarServicio.resources
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistarRepuesto.resources
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistraInforme.resources
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistrarAsignacion.resources
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.Inicio.FrmLogin.resources
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.Inicio.FrmPrincipal.resources
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\Presentacion.exe.config
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\Presentacion.exe
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\Presentacion.pdb
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\CrystalDecisions.ReportSource.dll
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\CrystalDecisions.Shared.dll
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\Dal.dll
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\FlashControlV71.dll
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\Negocio.dll
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\Reporte.dll
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\Utilitario.dll
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\EnvDTE.dll
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\ShockwaveFlashObjects.dll
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\stdole.dll
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\Dal.pdb
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\Negocio.pdb
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\Reporte.pdb
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\bin\Debug\Utilitario.pdb
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.csprojResolveAssemblyReference.cache
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistrarProducto.resources
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistraLinea.resources
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistrarModelo.resources
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistrarMarca.resources
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistrarUsuario.resources
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmCambioContraseña.resources
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.AboutBox1.resources
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmAnularGarantia.resources
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistrarGarantia.resources
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmReporteComprobante.resources
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmControlGarantia.resources
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmReporte.resources
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistrarInformeFinal.resources
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.frmRegistrarOrdenTrabajo.resources
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistrarServicio.resources
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistarRepuesto.resources
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistraInforme.resources
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.FrmRegistrarAsignacion.resources
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.Inicio.FrmLogin.resources
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.Inicio.FrmPrincipal.resources
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.csproj.GenerateResource.Cache
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.exe
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Presentacion\obj\x86\Debug\Presentacion.pdb

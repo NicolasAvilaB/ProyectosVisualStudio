@@ -1,0 +1,15 @@
+c:\users\nicolas\documents\visual studio 2010\Projects\Ejercicio 2\Ejercicio 2\bin\Debug\Ejercicio 2.exe
+c:\users\nicolas\documents\visual studio 2010\Projects\Ejercicio 2\Ejercicio 2\bin\Debug\Ejercicio 2.pdb
+c:\users\nicolas\documents\visual studio 2010\Projects\Ejercicio 2\Ejercicio 2\bin\Debug\Ejercicio 2.xml
+c:\users\nicolas\documents\visual studio 2010\Projects\Ejercicio 2\Ejercicio 2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\nicolas\documents\visual studio 2010\Projects\Ejercicio 2\Ejercicio 2\obj\x86\Debug\Ejercicio_2.Form1.resources
+c:\users\nicolas\documents\visual studio 2010\Projects\Ejercicio 2\Ejercicio 2\obj\x86\Debug\Ejercicio_2.Resources.resources
+c:\users\nicolas\documents\visual studio 2010\Projects\Ejercicio 2\Ejercicio 2\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\nicolas\documents\visual studio 2010\Projects\Ejercicio 2\Ejercicio 2\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\nicolas\documents\visual studio 2010\Projects\Ejercicio 2\Ejercicio 2\obj\x86\Debug\Ejercicio 2.exe
+c:\users\nicolas\documents\visual studio 2010\Projects\Ejercicio 2\Ejercicio 2\obj\x86\Debug\Ejercicio 2.xml
+c:\users\nicolas\documents\visual studio 2010\Projects\Ejercicio 2\Ejercicio 2\obj\x86\Debug\Ejercicio 2.pdb
+c:\users\nicolas\documents\visual studio 2010\Projects\Ejercicio 2\Ejercicio 2\obj\x86\Debug\Ejercicio_2.Form2.resources
+C:\Users\Nicolas\Documents\Visual Studio 2010\Projects\Visual Basic\Ejercicio 2\Ejercicio 2\obj\x86\Debug\Ejercicio 2.exe
+C:\Users\Nicolas\Documents\Visual Studio 2010\Projects\Visual Basic\Ejercicio 2\Ejercicio 2\obj\x86\Debug\Ejercicio 2.xml
+C:\Users\Nicolas\Documents\Visual Studio 2010\Projects\Visual Basic\Ejercicio 2\Ejercicio 2\obj\x86\Debug\Ejercicio 2.pdb

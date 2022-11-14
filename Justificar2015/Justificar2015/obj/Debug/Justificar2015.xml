@@ -1,0 +1,86 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Justificar2015
+</name>
+</assembly>
+<members>
+<member name="M:Justificar2015.Form1.AdvRichTextBox.BeginUpdate">
+ <summary>
+ Maintains performance while updating.
+ </summary>
+ <remarks>
+ <para>
+ It is recommended to call this method before doing
+ any major updates that you do not wish the user to
+ see. Remember to call EndUpdate when you are finished
+ with the update. Nested calls are supported.
+ </para>
+ <para>
+ Calling this method will prevent redrawing. It will
+ also setup the event mask of the underlying richedit
+ control so that no events are sent.
+ </para>
+ </remarks>
+</member>
+<member name="P:Justificar2015.Form1.AdvRichTextBox.SelectionAlignment">
+ <summary>
+ Gets or sets the alignment to apply to the current
+ selection or insertion point.
+ </summary>
+ <remarks>
+ Replaces the SelectionAlignment from
+ <see cref="T:System.Windows.Forms.RichTextBox"/>.
+ </remarks>
+</member>
+<member name="M:Justificar2015.Form1.AdvRichTextBox.OnHandleCreated(System.EventArgs)">
+ <summary>
+ This member overrides
+ <see cref="T:System.Windows.Forms.Control"/>.OnHandleCreated.
+ </summary>
+</member>
+<member name="T:Justificar2015.TextAlign">
+ <summary>
+ Specifies how text in a <see cref="T:System.Windows.Forms.RichTextBox"/> is
+ horizontally aligned.
+ </summary>
+</member>
+<member name="F:Justificar2015.TextAlign.Left">
+ <summary>
+ The text is aligned to the left.
+ </summary>
+</member>
+<member name="F:Justificar2015.TextAlign.Right">
+ <summary>
+ The text is aligned to the right.
+ </summary>
+</member>
+<member name="F:Justificar2015.TextAlign.Center">
+ <summary>
+ The text is aligned in the center.
+ </summary>
+</member>
+<member name="F:Justificar2015.TextAlign.Justify">
+ <summary>
+ The text is justified.
+ </summary>
+</member>
+<member name="T:Justificar2015.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Justificar2015.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Justificar2015.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+</members>
+</doc>

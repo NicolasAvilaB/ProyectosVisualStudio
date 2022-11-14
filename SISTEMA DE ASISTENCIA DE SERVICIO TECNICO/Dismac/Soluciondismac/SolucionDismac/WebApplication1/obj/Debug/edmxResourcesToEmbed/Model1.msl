@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="urn:schemas-microsoft-com:windows:storage:mapping:CS">
+  <EntityContainerMapping StorageEntityContainer="SATModelStoreContainer" CdmEntityContainer="SATEntities1">
+    <EntitySetMapping Name="OrdenTrabajo">
+      <EntityTypeMapping TypeName="SATModel.OrdenTrabajo">
+        <MappingFragment StoreEntitySet="OrdenTrabajo">
+          <ScalarProperty Name="idOrdenTrabajo" ColumnName="idOrdenTrabajo" />
+          <ScalarProperty Name="fechaOrdenTrabajo" ColumnName="fechaOrdenTrabajo" />
+          <ScalarProperty Name="estadoOrdenTrabajo" ColumnName="estadoOrdenTrabajo" />
+          <ScalarProperty Name="descOrdenTrabajo" ColumnName="descOrdenTrabajo" />
+          <ScalarProperty Name="iConcurrenciaOrdenTrabajo" ColumnName="iConcurrenciaOrdenTrabajo" />
+          <ScalarProperty Name="idUsuario" ColumnName="idUsuario" />
+          <ScalarProperty Name="idGarantia" ColumnName="idGarantia" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Precio">
+      <EntityTypeMapping TypeName="SATModel.Precio">
+        <MappingFragment StoreEntitySet="Precio">
+          <ScalarProperty Name="idPrecio" ColumnName="idPrecio" />
+          <ScalarProperty Name="montoPrecio" ColumnName="montoPrecio" />
+          <ScalarProperty Name="fechaPrecio" ColumnName="fechaPrecio" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PrecioRepuesto">
+      <EntityTypeMapping TypeName="SATModel.PrecioRepuesto">
+        <MappingFragment StoreEntitySet="PrecioRepuesto">
+          <ScalarProperty Name="idPrecioRepuesto" ColumnName="idPrecioRepuesto" />
+          <ScalarProperty Name="fechaPrecioRepuesto" ColumnName="fechaPrecioRepuesto" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PrecioServicio">
+      <EntityTypeMapping TypeName="SATModel.PrecioServicio">
+        <MappingFragment StoreEntitySet="PrecioServicio">
+          <ScalarProperty Name="idPrecioServicio" ColumnName="idPrecioServicio" />
+          <ScalarProperty Name="fechaPrecioServicio" ColumnName="fechaPrecioServicio" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Repuesto">
+      <EntityTypeMapping TypeName="SATModel.Repuesto">
+        <MappingFragment StoreEntitySet="Repuesto">
+          <ScalarProperty Name="idRepuesto" ColumnName="idRepuesto" />
+          <ScalarProperty Name="descRepuesto" ColumnName="descRepuesto" />
+          <ScalarProperty Name="iConcurrenciaRepuesto" ColumnName="iConcurrenciaRepuesto" />
+          <ScalarProperty Name="idMarca" ColumnName="idMarca" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RepuestoOrden">
+      <EntityTypeMapping TypeName="SATModel.RepuestoOrden">
+        <MappingFragment StoreEntitySet="RepuestoOrden">
+          <ScalarProperty Name="idRepuestoOrden" ColumnName="idRepuestoOrden" />
+          <ScalarProperty Name="cantidadRepuestoOrden" ColumnName="cantidadRepuestoOrden" />
+          <ScalarProperty Name="fechaRepuesto" ColumnName="fechaRepuesto" />
+          <ScalarProperty Name="iConcurrenciaRepuestoOrden" ColumnName="iConcurrenciaRepuestoOrden" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Servicio">
+      <EntityTypeMapping TypeName="SATModel.Servicio">
+        <MappingFragment StoreEntitySet="Servicio">
+          <ScalarProperty Name="idServicio" ColumnName="idServicio" />
+          <ScalarProperty Name="nombreServicio" ColumnName="nombreServicio" />
+          <ScalarProperty Name="iConcurrenciaServicio" ColumnName="iConcurrenciaServicio" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ServiciosOrden">
+      <EntityTypeMapping TypeName="SATModel.ServiciosOrden">
+        <MappingFragment StoreEntitySet="ServiciosOrden">
+          <ScalarProperty Name="idServiciosOrden" ColumnName="idServiciosOrden" />
+          <ScalarProperty Name="cantidadServicio" ColumnName="cantidadServicio" />
+          <ScalarProperty Name="fechaServicio" ColumnName="fechaServicio" />
+          <ScalarProperty Name="objServicio" ColumnName="objServicio" />
+          <ScalarProperty Name="iConcurrenciaServicioOrden" ColumnName="iConcurrenciaServicioOrden" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="FK__RepuestoO__idOrd__2FCF1A8A" TypeName="SATModel.FK__RepuestoO__idOrd__2FCF1A8A" StoreEntitySet="RepuestoOrden">
+      <EndProperty Name="OrdenTrabajo">
+        <ScalarProperty Name="idOrdenTrabajo" ColumnName="idOrdenTrabajo" />
+      </EndProperty>
+      <EndProperty Name="RepuestoOrden">
+        <ScalarProperty Name="idRepuestoOrden" ColumnName="idRepuestoOrden" />
+      </EndProperty>
+      <Condition ColumnName="idOrdenTrabajo" IsNull="false" />
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="FK__Servicios__idOrd__19DFD96B" TypeName="SATModel.FK__Servicios__idOrd__19DFD96B" StoreEntitySet="ServiciosOrden">
+      <EndProperty Name="OrdenTrabajo">
+        <ScalarProperty Name="idOrdenTrabajo" ColumnName="idOrdenTrabajo" />
+      </EndProperty>
+      <EndProperty Name="ServiciosOrden">
+        <ScalarProperty Name="idServiciosOrden" ColumnName="idServiciosOrden" />
+      </EndProperty>
+      <Condition ColumnName="idOrdenTrabajo" IsNull="false" />
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="FK__PrecioRep__idPre__3CF40B7E" TypeName="SATModel.FK__PrecioRep__idPre__3CF40B7E" StoreEntitySet="PrecioRepuesto">
+      <EndProperty Name="Precio">
+        <ScalarProperty Name="idPrecio" ColumnName="idPrecio" />
+      </EndProperty>
+      <EndProperty Name="PrecioRepuesto">
+        <ScalarProperty Name="idPrecioRepuesto" ColumnName="idPrecioRepuesto" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="FK__PrecioSer__idPre__308E3499" TypeName="SATModel.FK__PrecioSer__idPre__308E3499" StoreEntitySet="PrecioServicio">
+      <EndProperty Name="Precio">
+        <ScalarProperty Name="idPrecio" ColumnName="idPrecio" />
+      </EndProperty>
+      <EndProperty Name="PrecioServicio">
+        <ScalarProperty Name="idPrecioServicio" ColumnName="idPrecioServicio" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="FK__PrecioRep__idRep__3DE82FB7" TypeName="SATModel.FK__PrecioRep__idRep__3DE82FB7" StoreEntitySet="PrecioRepuesto">
+      <EndProperty Name="Repuesto">
+        <ScalarProperty Name="idRepuesto" ColumnName="idRepuesto" />
+      </EndProperty>
+      <EndProperty Name="PrecioRepuesto">
+        <ScalarProperty Name="idPrecioRepuesto" ColumnName="idPrecioRepuesto" />
+      </EndProperty>
+      <Condition ColumnName="idRepuesto" IsNull="false" />
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="FK__RepuestoO__idPre__3EDC53F0" TypeName="SATModel.FK__RepuestoO__idPre__3EDC53F0" StoreEntitySet="RepuestoOrden">
+      <EndProperty Name="PrecioRepuesto">
+        <ScalarProperty Name="idPrecioRepuesto" ColumnName="idPrecioRepuesto" />
+      </EndProperty>
+      <EndProperty Name="RepuestoOrden">
+        <ScalarProperty Name="idRepuestoOrden" ColumnName="idRepuestoOrden" />
+      </EndProperty>
+      <Condition ColumnName="idPrecioRepuesto" IsNull="false" />
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="FK__PrecioSer__idSer__318258D2" TypeName="SATModel.FK__PrecioSer__idSer__318258D2" StoreEntitySet="PrecioServicio">
+      <EndProperty Name="Servicio">
+        <ScalarProperty Name="idServicio" ColumnName="idServicio" />
+      </EndProperty>
+      <EndProperty Name="PrecioServicio">
+        <ScalarProperty Name="idPrecioServicio" ColumnName="idPrecioServicio" />
+      </EndProperty>
+      <Condition ColumnName="idServicio" IsNull="false" />
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="FK__Servicios__idPre__336AA144" TypeName="SATModel.FK__Servicios__idPre__336AA144" StoreEntitySet="ServiciosOrden">
+      <EndProperty Name="PrecioServicio">
+        <ScalarProperty Name="idPrecioServicio" ColumnName="idPrecioServicio" />
+      </EndProperty>
+      <EndProperty Name="ServiciosOrden">
+        <ScalarProperty Name="idServiciosOrden" ColumnName="idServiciosOrden" />
+      </EndProperty>
+      <Condition ColumnName="idPrecioServicio" IsNull="false" />
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping>

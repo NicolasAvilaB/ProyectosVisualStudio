@@ -1,0 +1,11 @@
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\restaurant2\restaurant2\bin\restaurant2.dll.config
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\restaurant2\restaurant2\bin\restaurant2.dll
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\restaurant2\restaurant2\bin\restaurant2.pdb
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\restaurant2\restaurant2\bin\restaurant2.xml
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\restaurant2\restaurant2\bin\MySql.Data.dll
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\restaurant2\restaurant2\obj\Debug\restaurant2.vbprojResolveAssemblyReference.cache
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\restaurant2\restaurant2\obj\Debug\restaurant2.Resources.resources
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\restaurant2\restaurant2\obj\Debug\restaurant2.vbproj.GenerateResource.Cache
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\restaurant2\restaurant2\obj\Debug\restaurant2.dll
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\restaurant2\restaurant2\obj\Debug\restaurant2.xml
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\restaurant2\restaurant2\obj\Debug\restaurant2.pdb

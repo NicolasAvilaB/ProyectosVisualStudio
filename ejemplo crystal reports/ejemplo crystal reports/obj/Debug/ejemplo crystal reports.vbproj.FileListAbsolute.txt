@@ -1,0 +1,16 @@
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\ejemplo crystal reports\ejemplo crystal reports\bin\Debug\ejemplo crystal reports.exe.config
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\ejemplo crystal reports\ejemplo crystal reports\bin\Debug\ejemplo crystal reports.exe
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\ejemplo crystal reports\ejemplo crystal reports\bin\Debug\ejemplo crystal reports.pdb
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\ejemplo crystal reports\ejemplo crystal reports\bin\Debug\ejemplo crystal reports.xml
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\ejemplo crystal reports\ejemplo crystal reports\obj\Debug\ejemplo crystal reports.vbprojResolveAssemblyReference.cache
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\ejemplo crystal reports\ejemplo crystal reports\obj\Debug\ejemplo_crystal_reports.Form1.resources
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\ejemplo crystal reports\ejemplo crystal reports\obj\Debug\ejemplo_crystal_reports.Form2.resources
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\ejemplo crystal reports\ejemplo crystal reports\obj\Debug\ejemplo_crystal_reports.Resources.resources
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\ejemplo crystal reports\ejemplo crystal reports\obj\Debug\ejemplo crystal reports.vbproj.GenerateResource.Cache
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\ejemplo crystal reports\ejemplo crystal reports\obj\Debug\ejemplo crystal reports.exe
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\ejemplo crystal reports\ejemplo crystal reports\obj\Debug\ejemplo crystal reports.xml
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\ejemplo crystal reports\ejemplo crystal reports\obj\Debug\ejemplo crystal reports.pdb
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\ejemplo crystal reports\ejemplo crystal reports\bin\Debug\ejemplo crystal reports.exe.config
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\ejemplo crystal reports\ejemplo crystal reports\obj\Debug\ejemplo crystal reports.exe
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\ejemplo crystal reports\ejemplo crystal reports\obj\Debug\ejemplo crystal reports.xml
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\ejemplo crystal reports\ejemplo crystal reports\obj\Debug\ejemplo crystal reports.pdb

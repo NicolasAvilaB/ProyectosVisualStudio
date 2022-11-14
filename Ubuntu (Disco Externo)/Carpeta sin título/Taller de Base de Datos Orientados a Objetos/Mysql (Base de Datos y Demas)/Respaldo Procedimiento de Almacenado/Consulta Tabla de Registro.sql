@@ -1,0 +1,1 @@
+select * from BD240316.categorias;

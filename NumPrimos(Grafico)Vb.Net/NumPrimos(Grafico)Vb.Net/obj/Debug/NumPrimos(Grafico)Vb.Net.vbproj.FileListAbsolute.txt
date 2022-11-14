@@ -1,0 +1,11 @@
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\NumPrimos(Grafico)Vb.Net\NumPrimos(Grafico)Vb.Net\bin\Debug\NumPrimos(Grafico)Vb.Net.exe.config
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\NumPrimos(Grafico)Vb.Net\NumPrimos(Grafico)Vb.Net\bin\Debug\NumPrimos(Grafico)Vb.Net.exe
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\NumPrimos(Grafico)Vb.Net\NumPrimos(Grafico)Vb.Net\bin\Debug\NumPrimos(Grafico)Vb.Net.pdb
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\NumPrimos(Grafico)Vb.Net\NumPrimos(Grafico)Vb.Net\bin\Debug\NumPrimos(Grafico)Vb.Net.xml
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\NumPrimos(Grafico)Vb.Net\NumPrimos(Grafico)Vb.Net\obj\Debug\NumPrimos(Grafico)Vb.Net.vbprojResolveAssemblyReference.cache
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\NumPrimos(Grafico)Vb.Net\NumPrimos(Grafico)Vb.Net\obj\Debug\NumPrimos_Grafico_Vb.Net.Form1.resources
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\NumPrimos(Grafico)Vb.Net\NumPrimos(Grafico)Vb.Net\obj\Debug\NumPrimos_Grafico_Vb.Net.Resources.resources
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\NumPrimos(Grafico)Vb.Net\NumPrimos(Grafico)Vb.Net\obj\Debug\NumPrimos(Grafico)Vb.Net.vbproj.GenerateResource.Cache
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\NumPrimos(Grafico)Vb.Net\NumPrimos(Grafico)Vb.Net\obj\Debug\NumPrimos(Grafico)Vb.Net.exe
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\NumPrimos(Grafico)Vb.Net\NumPrimos(Grafico)Vb.Net\obj\Debug\NumPrimos(Grafico)Vb.Net.xml
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\NumPrimos(Grafico)Vb.Net\NumPrimos(Grafico)Vb.Net\obj\Debug\NumPrimos(Grafico)Vb.Net.pdb

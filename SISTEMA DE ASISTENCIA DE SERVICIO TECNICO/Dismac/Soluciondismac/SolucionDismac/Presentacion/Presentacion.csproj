@@ -1,0 +1,317 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3379C8A7-6A3D-43D4-89E4-D9B119D5C590}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Presentacion</RootNamespace>
+    <AssemblyName>Presentacion</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="crdb_adoplus">
+      <HintPath>C:\Archivos de programa\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\crdb_adoplus.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Parametros\FrmRegistrarProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametros\FrmRegistrarProducto.Designer.cs">
+      <DependentUpon>FrmRegistrarProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parametros\FrmRegistraLinea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametros\FrmRegistraLinea.Designer.cs">
+      <DependentUpon>FrmRegistraLinea.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parametros\FrmRegistrarModelo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametros\FrmRegistrarModelo.Designer.cs">
+      <DependentUpon>FrmRegistrarModelo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parametros\FrmRegistrarMarca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametros\FrmRegistrarMarca.Designer.cs">
+      <DependentUpon>FrmRegistrarMarca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Permisos\FrmRegistrarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Permisos\FrmRegistrarUsuario.Designer.cs">
+      <DependentUpon>FrmRegistrarUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inicio\AboutBox1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio\AboutBox1.Designer.cs">
+      <DependentUpon>AboutBox1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Permisos\FrmCambioContraseña.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Permisos\FrmCambioContraseña.Designer.cs">
+      <DependentUpon>FrmCambioContraseña.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Garantia\FrmAnularGarantia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Garantia\FrmAnularGarantia.Designer.cs">
+      <DependentUpon>FrmAnularGarantia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Garantia\FrmRegistrarGarantia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Garantia\FrmRegistrarGarantia.Designer.cs">
+      <DependentUpon>FrmRegistrarGarantia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\FrmReporteComprobante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\FrmReporteComprobante.Designer.cs">
+      <DependentUpon>FrmReporteComprobante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Garantia\FrmControlGarantia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Garantia\FrmControlGarantia.Designer.cs">
+      <DependentUpon>FrmControlGarantia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\FrmReporteGarantia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\FrmReporteGarantia.Designer.cs">
+      <DependentUpon>FrmReporteGarantia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Servicio\FrmRegistarRepuesto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Servicio\FrmRegistarRepuesto.Designer.cs">
+      <DependentUpon>FrmRegistarRepuesto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Servicio\FrmRegistraInforme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Servicio\FrmRegistraInforme.Designer.cs">
+      <DependentUpon>FrmRegistraInforme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Servicio\FrmRegistrarAsignacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Servicio\FrmRegistrarAsignacion.Designer.cs">
+      <DependentUpon>FrmRegistrarAsignacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Servicio\FrmRegistrarInformeFinal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Servicio\FrmRegistrarInformeFinal.Designer.cs">
+      <DependentUpon>FrmRegistrarInformeFinal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Servicio\frmRegistrarOrdenTrabajo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Servicio\frmRegistrarOrdenTrabajo.Designer.cs">
+      <DependentUpon>frmRegistrarOrdenTrabajo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Servicio\FrmRegistrarServicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Servicio\FrmRegistrarServicio.Designer.cs">
+      <DependentUpon>FrmRegistrarServicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inicio\FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio\FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inicio\FrmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio\FrmPrincipal.Designer.cs">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Parametros\FrmRegistrarProducto.resx">
+      <DependentUpon>FrmRegistrarProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parametros\FrmRegistraLinea.resx">
+      <DependentUpon>FrmRegistraLinea.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parametros\FrmRegistrarModelo.resx">
+      <DependentUpon>FrmRegistrarModelo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parametros\FrmRegistrarMarca.resx">
+      <DependentUpon>FrmRegistrarMarca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Permisos\FrmRegistrarUsuario.resx">
+      <DependentUpon>FrmRegistrarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Permisos\FrmCambioContraseña.resx">
+      <DependentUpon>FrmCambioContraseña.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio\AboutBox1.resx">
+      <DependentUpon>AboutBox1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Garantia\FrmAnularGarantia.resx">
+      <DependentUpon>FrmAnularGarantia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Garantia\FrmRegistrarGarantia.resx">
+      <DependentUpon>FrmRegistrarGarantia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\FrmReporteComprobante.resx">
+      <DependentUpon>FrmReporteComprobante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Garantia\FrmControlGarantia.resx">
+      <DependentUpon>FrmControlGarantia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\FrmReporteGarantia.resx">
+      <DependentUpon>FrmReporteGarantia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Servicio\FrmRegistrarInformeFinal.resx">
+      <DependentUpon>FrmRegistrarInformeFinal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Servicio\frmRegistrarOrdenTrabajo.resx">
+      <DependentUpon>frmRegistrarOrdenTrabajo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Servicio\FrmRegistrarServicio.resx">
+      <DependentUpon>FrmRegistrarServicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Servicio\FrmRegistarRepuesto.resx">
+      <DependentUpon>FrmRegistarRepuesto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Servicio\FrmRegistraInforme.resx">
+      <DependentUpon>FrmRegistraInforme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Servicio\FrmRegistrarAsignacion.resx">
+      <DependentUpon>FrmRegistrarAsignacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio\FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio\FrmPrincipal.resx">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Dal\Dal.csproj">
+      <Project>{2F9C9C96-7DA3-49E4-9E87-E83C1FADEB3A}</Project>
+      <Name>Dal %28Dal\Dal%29</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Negocio\Negocio.csproj">
+      <Project>{21464454-32B5-428D-B4F7-988913DCAB06}</Project>
+      <Name>Negocio %28Negocio\Negocio%29</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Reporte\Reporte.csproj">
+      <Project>{DE445B01-7407-4E2A-B8DD-8DACF89C56B7}</Project>
+      <Name>Reporte</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Utilitario\Utilitario.csproj">
+      <Project>{767D182D-5F04-46B2-8CA4-9030DC638CA7}</Project>
+      <Name>Utilitario %28Utilitario\Utilitario%29</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\application-pgp-signature.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\206.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\generar.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancelar.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\untitled.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Listados\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

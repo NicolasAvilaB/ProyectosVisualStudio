@@ -1,0 +1,7 @@
+C:\Users\Nicolas Avila B\Desktop\Windows Form with Aero glass style (VBWinFormExAeroToClient)\VB\Debug\VBWinFormExAeroToClient.exe
+C:\Users\Nicolas Avila B\Desktop\Windows Form with Aero glass style (VBWinFormExAeroToClient)\VB\Debug\VBWinFormExAeroToClient.pdb
+C:\Users\Nicolas Avila B\Desktop\Windows Form with Aero glass style (VBWinFormExAeroToClient)\VB\VBWinFormExAeroToClient\obj\Debug\VBWinFormExAeroToClient.vbprojResolveAssemblyReference.cache
+C:\Users\Nicolas Avila B\Desktop\Windows Form with Aero glass style (VBWinFormExAeroToClient)\VB\VBWinFormExAeroToClient\obj\Debug\VBWinFormExAeroToClient.MainForm.resources
+C:\Users\Nicolas Avila B\Desktop\Windows Form with Aero glass style (VBWinFormExAeroToClient)\VB\VBWinFormExAeroToClient\obj\Debug\VBWinFormExAeroToClient.vbproj.GenerateResource.Cache
+C:\Users\Nicolas Avila B\Desktop\Windows Form with Aero glass style (VBWinFormExAeroToClient)\VB\VBWinFormExAeroToClient\obj\Debug\VBWinFormExAeroToClient.exe
+C:\Users\Nicolas Avila B\Desktop\Windows Form with Aero glass style (VBWinFormExAeroToClient)\VB\VBWinFormExAeroToClient\obj\Debug\VBWinFormExAeroToClient.pdb

@@ -1,0 +1,107 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+RTB JUSTIFICAR
+</name>
+</assembly>
+<members>
+<member name="T:RTB_JUSTIFICAR.AdvRichTextBox">
+ <summary>
+ Represents a standard <see cref="T:System.Windows.Forms.RichTextBox"/> with some
+ minor added functionality.
+ </summary>
+ <remarks>
+ AdvRichTextBox provides methods to maintain performance
+ while it is being updated. Additional formatting features
+ have also been added.
+ </remarks>
+</member>
+<member name="M:RTB_JUSTIFICAR.AdvRichTextBox.BeginUpdate">
+ <summary>
+ Maintains performance while updating.
+ </summary>
+ <remarks>
+ <para>
+ It is recommended to call this method before doing
+ any major updates that you do not wish the user to
+ see. Remember to call EndUpdate when you are finished
+ with the update. Nested calls are supported.
+ </para>
+ <para>
+ Calling this method will prevent redrawing. It will
+ also setup the event mask of the underlying richedit
+ control so that no events are sent.
+ </para>
+ </remarks>
+</member>
+<member name="M:RTB_JUSTIFICAR.AdvRichTextBox.EndUpdate">
+ <summary>
+ Resumes drawing and event handling.
+ </summary>
+ <remarks>
+ This method should be called every time a call is made
+ made to BeginUpdate. It resets the event mask to it's
+ original value and enables redrawing of the control.
+ </remarks>
+</member>
+<member name="P:RTB_JUSTIFICAR.AdvRichTextBox.SelectionAlignment">
+ <summary>
+ Gets or sets the alignment to apply to the current
+ selection or insertion point.
+ </summary>
+ <remarks>
+ Replaces the SelectionAlignment from
+ <see cref="T:System.Windows.Forms.RichTextBox"/>.
+ </remarks>
+</member>
+<member name="M:RTB_JUSTIFICAR.AdvRichTextBox.OnHandleCreated(System.EventArgs)">
+ <summary>
+ This member overrides
+ <see cref="T:System.Windows.Forms.Control"/>.OnHandleCreated.
+ </summary>
+</member>
+<member name="T:RTB_JUSTIFICAR.TextAlign">
+ <summary>
+ Specifies how text in a <see cref="T:RTB_JUSTIFICAR.AdvRichTextBox"/> is
+ horizontally aligned.
+ </summary>
+</member>
+<member name="F:RTB_JUSTIFICAR.TextAlign.Left">
+ <summary>
+ The text is aligned to the left.
+ </summary>
+</member>
+<member name="F:RTB_JUSTIFICAR.TextAlign.Right">
+ <summary>
+ The text is aligned to the right.
+ </summary>
+</member>
+<member name="F:RTB_JUSTIFICAR.TextAlign.Center">
+ <summary>
+ The text is aligned in the center.
+ </summary>
+</member>
+<member name="F:RTB_JUSTIFICAR.TextAlign.Justify">
+ <summary>
+ The text is justified.
+ </summary>
+</member>
+<member name="T:RTB_JUSTIFICAR.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:RTB_JUSTIFICAR.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:RTB_JUSTIFICAR.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+</members>
+</doc>

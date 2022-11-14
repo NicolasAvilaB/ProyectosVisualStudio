@@ -1,0 +1,9 @@
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\ConexionMysqlCsharp\ConexionMysqlCsharp\bin\Debug\ConexionMysqlCsharp.exe
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\ConexionMysqlCsharp\ConexionMysqlCsharp\bin\Debug\ConexionMysqlCsharp.pdb
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\ConexionMysqlCsharp\ConexionMysqlCsharp\obj\Debug\ConexionMysqlCsharp.csprojResolveAssemblyReference.cache
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\ConexionMysqlCsharp\ConexionMysqlCsharp\obj\Debug\ConexionMysqlCsharp.Form1.resources
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\ConexionMysqlCsharp\ConexionMysqlCsharp\obj\Debug\ConexionMysqlCsharp.Properties.Resources.resources
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\ConexionMysqlCsharp\ConexionMysqlCsharp\obj\Debug\ConexionMysqlCsharp.csproj.GenerateResource.Cache
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\ConexionMysqlCsharp\ConexionMysqlCsharp\obj\Debug\ConexionMysqlCsharp.exe
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\ConexionMysqlCsharp\ConexionMysqlCsharp\obj\Debug\ConexionMysqlCsharp.pdb
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\ConexionMysqlCsharp\ConexionMysqlCsharp\bin\Debug\MySql.Data.dll

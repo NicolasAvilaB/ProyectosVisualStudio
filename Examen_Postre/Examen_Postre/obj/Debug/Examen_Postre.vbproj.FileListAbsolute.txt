@@ -1,0 +1,15 @@
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Examen_Postre\Examen_Postre\bin\Debug\Examen_Postre.exe.config
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Examen_Postre\Examen_Postre\bin\Debug\Examen_Postre.exe
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Examen_Postre\Examen_Postre\bin\Debug\Examen_Postre.pdb
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Examen_Postre\Examen_Postre\bin\Debug\Examen_Postre.xml
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Examen_Postre\Examen_Postre\obj\Debug\Examen_Postre.vbprojResolveAssemblyReference.cache
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Examen_Postre\Examen_Postre\obj\Debug\Examen_Postre.Resources.resources
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Examen_Postre\Examen_Postre\obj\Debug\Examen_Postre.vbproj.GenerateResource.Cache
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Examen_Postre\Examen_Postre\obj\Debug\Examen_Postre.exe
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Examen_Postre\Examen_Postre\obj\Debug\Examen_Postre.xml
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Examen_Postre\Examen_Postre\obj\Debug\Examen_Postre.pdb
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Examen_Postre\Examen_Postre\obj\Debug\Examen_Postre.Ingreso.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Examen_Postre\Examen_Postre\obj\Debug\Examen_Postre.Acceso.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Examen_Postre\Examen_Postre\obj\Debug\Examen_Postre.Clientes.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Examen_Postre\Examen_Postre\obj\Debug\Examen_Postre.Principal.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Examen_Postre\Examen_Postre\obj\Debug\Examen_Postre.Usuarios.resources

@@ -1,0 +1,28 @@
+C:\Users\luis\AppData\Local\Temporary Projects\SQLITEgrijalvaRomero\bin\Debug\SQLITEgrijalvaRomero.exe.config
+C:\Users\luis\AppData\Local\Temporary Projects\SQLITEgrijalvaRomero\bin\Debug\SQLITEgrijalvaRomero.exe
+C:\Users\luis\AppData\Local\Temporary Projects\SQLITEgrijalvaRomero\bin\Debug\SQLITEgrijalvaRomero.pdb
+C:\Users\luis\AppData\Local\Temporary Projects\SQLITEgrijalvaRomero\bin\Debug\SQLITEgrijalvaRomero.xml
+C:\Users\luis\AppData\Local\Temporary Projects\SQLITEgrijalvaRomero\bin\Debug\SQLite.NET.dll
+C:\Users\luis\AppData\Local\Temporary Projects\SQLITEgrijalvaRomero\obj\Debug\SQLITEgrijalvaRomero.vbprojResolveAssemblyReference.cache
+C:\Users\luis\AppData\Local\Temporary Projects\SQLITEgrijalvaRomero\obj\Debug\SQLITEgrijalvaRomero.Form1.resources
+C:\Users\luis\AppData\Local\Temporary Projects\SQLITEgrijalvaRomero\obj\Debug\SQLITEgrijalvaRomero.Resources.resources
+C:\Users\luis\AppData\Local\Temporary Projects\SQLITEgrijalvaRomero\obj\Debug\SQLITEgrijalvaRomero.vbproj.GenerateResource.Cache
+C:\Users\luis\AppData\Local\Temporary Projects\SQLITEgrijalvaRomero\obj\Debug\SQLITEgrijalvaRomero.exe
+C:\Users\luis\AppData\Local\Temporary Projects\SQLITEgrijalvaRomero\obj\Debug\SQLITEgrijalvaRomero.xml
+C:\Users\luis\AppData\Local\Temporary Projects\SQLITEgrijalvaRomero\obj\Debug\SQLITEgrijalvaRomero.pdb
+C:\Users\luis\Documents\visual\SQLITEgrijalvaRomero\SQLITEgrijalvaRomero\bin\Debug\SQLITEgrijalvaRomero.exe.config
+C:\Users\luis\Documents\visual\SQLITEgrijalvaRomero\SQLITEgrijalvaRomero\obj\Debug\SQLITEgrijalvaRomero.exe
+C:\Users\luis\Documents\visual\SQLITEgrijalvaRomero\SQLITEgrijalvaRomero\obj\Debug\SQLITEgrijalvaRomero.xml
+C:\Users\luis\Documents\visual\SQLITEgrijalvaRomero\SQLITEgrijalvaRomero\obj\Debug\SQLITEgrijalvaRomero.pdb
+C:\Users\luis\Documents\visual\SQLITEgrijalvaRomero\SQLITEgrijalvaRomero\bin\Debug\SQLITEgrijalvaRomero.exe
+C:\Users\luis\Documents\visual\SQLITEgrijalvaRomero\SQLITEgrijalvaRomero\bin\Debug\SQLITEgrijalvaRomero.pdb
+C:\Users\luis\Documents\visual\SQLITEgrijalvaRomero\SQLITEgrijalvaRomero\bin\Debug\SQLITEgrijalvaRomero.xml
+C:\Users\luis\Documents\visual\SQLITEgrijalvaRomero\SQLITEgrijalvaRomero\bin\Debug\SQLite.NET.dll
+C:\Users\luis\Documents\visual\SQLITEgrijalvaRomero\SQLITEgrijalvaRomero\obj\Debug\SQLITEgrijalvaRomero.vbprojResolveAssemblyReference.cache
+C:\Users\luis\Documents\visual\SQLITEgrijalvaRomero\SQLITEgrijalvaRomero\obj\Debug\SQLITEgrijalvaRomero.Form1.resources
+C:\Users\luis\Documents\visual\SQLITEgrijalvaRomero\SQLITEgrijalvaRomero\obj\Debug\SQLITEgrijalvaRomero.Resources.resources
+C:\Users\luis\Documents\visual\SQLITEgrijalvaRomero\SQLITEgrijalvaRomero\obj\Debug\SQLITEgrijalvaRomero.vbproj.GenerateResource.Cache
+C:\Users\Nicolas Avila B\Downloads\Conexion SQLite VBNET\SQLITEgrijalvaRomero\SQLITEgrijalvaRomero\bin\Debug\SQLITEgrijalvaRomero.exe.config
+C:\Users\Nicolas Avila B\Downloads\Conexion SQLite VBNET\SQLITEgrijalvaRomero\SQLITEgrijalvaRomero\obj\Debug\SQLITEgrijalvaRomero.exe
+C:\Users\Nicolas Avila B\Downloads\Conexion SQLite VBNET\SQLITEgrijalvaRomero\SQLITEgrijalvaRomero\obj\Debug\SQLITEgrijalvaRomero.xml
+C:\Users\Nicolas Avila B\Downloads\Conexion SQLite VBNET\SQLITEgrijalvaRomero\SQLITEgrijalvaRomero\obj\Debug\SQLITEgrijalvaRomero.pdb

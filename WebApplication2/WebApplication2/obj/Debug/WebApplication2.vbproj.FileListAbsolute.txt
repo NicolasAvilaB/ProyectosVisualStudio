@@ -1,0 +1,77 @@
+c:\users\darkz\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\ApplicationInsights.config
+c:\users\darkz\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+c:\users\darkz\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\darkz\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\darkz\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\darkz\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\darkz\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\darkz\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\darkz\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+c:\users\darkz\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\darkz\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+c:\users\darkz\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+c:\users\darkz\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+c:\users\darkz\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+c:\users\darkz\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\WebApplication2.dll
+c:\users\darkz\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+c:\users\darkz\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\WebApplication2.xml
+c:\users\darkz\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\darkz\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\darkz\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\darkz\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\darkz\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.Web.dll
+c:\users\darkz\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.WindowsServer.dll
+c:\users\darkz\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.ApplicationInsights.dll
+c:\users\darkz\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\darkz\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\darkz\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\darkz\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.Web.xml
+c:\users\darkz\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.WindowsServer.xml
+c:\users\darkz\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.ApplicationInsights.xml
+c:\users\darkz\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\darkz\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.vbprojResolveAssemblyReference.cache
+c:\users\darkz\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Resources.resources
+c:\users\darkz\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.vbproj.GenerateResource.Cache
+c:\users\darkz\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+c:\users\darkz\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.xml
+c:\users\darkz\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\darkz\Documents\Visual Studio 2015\Projects\WebApplication2\WebApplication2\bin\MySql.Data.dll
+C:\Users\darkz\Documents\Visual Studio 2015\Projects\WebApplication2\WebApplication2\bin\MySql.Data.xml
+C:\Users\Manuel\Desktop\WebApplication2\WebApplication2\bin\ApplicationInsights.config
+C:\Users\Manuel\Desktop\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+C:\Users\Manuel\Desktop\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Manuel\Desktop\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Manuel\Desktop\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Manuel\Desktop\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Manuel\Desktop\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Manuel\Desktop\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Manuel\Desktop\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Manuel\Desktop\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Manuel\Desktop\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+C:\Users\Manuel\Desktop\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Manuel\Desktop\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Manuel\Desktop\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\Manuel\Desktop\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\Manuel\Desktop\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\Manuel\Desktop\WebApplication2\WebApplication2\bin\WebApplication2.xml
+C:\Users\Manuel\Desktop\WebApplication2\WebApplication2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Manuel\Desktop\WebApplication2\WebApplication2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Manuel\Desktop\WebApplication2\WebApplication2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Manuel\Desktop\WebApplication2\WebApplication2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Manuel\Desktop\WebApplication2\WebApplication2\bin\Microsoft.AI.Web.dll
+C:\Users\Manuel\Desktop\WebApplication2\WebApplication2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Manuel\Desktop\WebApplication2\WebApplication2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Manuel\Desktop\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Manuel\Desktop\WebApplication2\WebApplication2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Manuel\Desktop\WebApplication2\WebApplication2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Manuel\Desktop\WebApplication2\WebApplication2\bin\Microsoft.AI.Web.xml
+C:\Users\Manuel\Desktop\WebApplication2\WebApplication2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Manuel\Desktop\WebApplication2\WebApplication2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Manuel\Desktop\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Manuel\Desktop\WebApplication2\WebApplication2\bin\MySql.Data.xml
+C:\Users\Manuel\Desktop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.vbprojResolveAssemblyReference.cache
+C:\Users\Manuel\Desktop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Resources.resources
+C:\Users\Manuel\Desktop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.vbproj.GenerateResource.Cache
+C:\Users\Manuel\Desktop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\Manuel\Desktop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.xml
+C:\Users\Manuel\Desktop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb

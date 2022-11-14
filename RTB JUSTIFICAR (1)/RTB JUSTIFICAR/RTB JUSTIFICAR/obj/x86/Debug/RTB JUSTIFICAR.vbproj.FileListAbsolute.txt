@@ -1,0 +1,19 @@
+C:\Users\SALVADOR\Desktop\RTB JUSTIFICAR\RTB JUSTIFICAR\bin\Debug\RTB JUSTIFICAR.exe
+C:\Users\SALVADOR\Desktop\RTB JUSTIFICAR\RTB JUSTIFICAR\bin\Debug\RTB JUSTIFICAR.pdb
+C:\Users\SALVADOR\Desktop\RTB JUSTIFICAR\RTB JUSTIFICAR\bin\Debug\RTB JUSTIFICAR.xml
+C:\Users\SALVADOR\Desktop\RTB JUSTIFICAR\RTB JUSTIFICAR\obj\x86\Debug\RTB_JUSTIFICAR.Resources.resources
+C:\Users\SALVADOR\Desktop\RTB JUSTIFICAR\RTB JUSTIFICAR\obj\x86\Debug\RTB JUSTIFICAR.vbproj.GenerateResource.Cache
+C:\Users\SALVADOR\Desktop\RTB JUSTIFICAR\RTB JUSTIFICAR\obj\x86\Debug\RTB JUSTIFICAR.exe
+C:\Users\SALVADOR\Desktop\RTB JUSTIFICAR\RTB JUSTIFICAR\obj\x86\Debug\RTB JUSTIFICAR.xml
+C:\Users\SALVADOR\Desktop\RTB JUSTIFICAR\RTB JUSTIFICAR\obj\x86\Debug\RTB JUSTIFICAR.pdb
+C:\Users\SALVADOR\Desktop\RTB JUSTIFICAR\RTB JUSTIFICAR\obj\x86\Debug\RTB_JUSTIFICAR.Form1.resources
+D:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\RTB JUSTIFICAR (1)\RTB JUSTIFICAR\RTB JUSTIFICAR\obj\x86\Debug\RTB JUSTIFICAR.exe
+D:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\RTB JUSTIFICAR (1)\RTB JUSTIFICAR\RTB JUSTIFICAR\obj\x86\Debug\RTB JUSTIFICAR.xml
+D:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\RTB JUSTIFICAR (1)\RTB JUSTIFICAR\RTB JUSTIFICAR\obj\x86\Debug\RTB JUSTIFICAR.pdb
+D:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\RTB JUSTIFICAR (1)\RTB JUSTIFICAR\RTB JUSTIFICAR\bin\Debug\RTB JUSTIFICAR.exe
+D:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\RTB JUSTIFICAR (1)\RTB JUSTIFICAR\RTB JUSTIFICAR\bin\Debug\RTB JUSTIFICAR.pdb
+D:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\RTB JUSTIFICAR (1)\RTB JUSTIFICAR\RTB JUSTIFICAR\bin\Debug\RTB JUSTIFICAR.xml
+D:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\RTB JUSTIFICAR (1)\RTB JUSTIFICAR\RTB JUSTIFICAR\obj\x86\Debug\RTB JUSTIFICAR.vbprojResolveAssemblyReference.cache
+D:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\RTB JUSTIFICAR (1)\RTB JUSTIFICAR\RTB JUSTIFICAR\obj\x86\Debug\RTB_JUSTIFICAR.Form1.resources
+D:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\RTB JUSTIFICAR (1)\RTB JUSTIFICAR\RTB JUSTIFICAR\obj\x86\Debug\RTB_JUSTIFICAR.Resources.resources
+D:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\RTB JUSTIFICAR (1)\RTB JUSTIFICAR\RTB JUSTIFICAR\obj\x86\Debug\RTB JUSTIFICAR.vbproj.GenerateResource.Cache

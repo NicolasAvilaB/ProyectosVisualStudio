@@ -1,0 +1,23 @@
+C:\Users\sanfernando_lab3\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\sanfernando_lab3\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\sanfernando_lab3\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\sanfernando_lab3\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\sanfernando_lab3\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\sanfernando_lab3\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\sanfernando_lab3\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\sanfernando_lab3\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\sanfernando_lab3\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\sanfernando_lab3\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\sanfernando_lab3\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.form3.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Conexion Oracle (Visual Basic)\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Conexion Oracle (Visual Basic)\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Conexion Oracle (Visual Basic)\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Conexion Oracle (Visual Basic)\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Conexion Oracle (Visual Basic)\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Conexion Oracle (Visual Basic)\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Conexion Oracle (Visual Basic)\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Conexion Oracle (Visual Basic)\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Conexion Oracle (Visual Basic)\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Conexion Oracle (Visual Basic)\WindowsApplication1\obj\x86\Debug\WindowsApplication1.form3.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Conexion Oracle (Visual Basic)\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Conexion Oracle (Visual Basic)\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache

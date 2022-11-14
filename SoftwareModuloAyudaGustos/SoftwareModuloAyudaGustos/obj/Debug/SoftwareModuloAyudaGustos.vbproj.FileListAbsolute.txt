@@ -1,0 +1,10 @@
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\SoftwareModuloAyudaGustos\SoftwareModuloAyudaGustos\obj\Debug\SoftwareModuloAyudaGustos.vbprojResolveAssemblyReference.cache
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\SoftwareModuloAyudaGustos\SoftwareModuloAyudaGustos\obj\Debug\SoftwareModuloAyudaGustos.Principal.resources
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\SoftwareModuloAyudaGustos\SoftwareModuloAyudaGustos\obj\Debug\SoftwareModuloAyudaGustos.Resources.resources
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\SoftwareModuloAyudaGustos\SoftwareModuloAyudaGustos\obj\Debug\SoftwareModuloAyudaGustos.vbproj.GenerateResource.Cache
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\SoftwareModuloAyudaGustos\SoftwareModuloAyudaGustos\obj\Debug\SoftwareModuloAyudaGustos.xml
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\SoftwareModuloAyudaGustos\SoftwareModuloAyudaGustos\bin\Debug\SoftwareModuloAyudaGustos.exe
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\SoftwareModuloAyudaGustos\SoftwareModuloAyudaGustos\bin\Debug\SoftwareModuloAyudaGustos.pdb
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\SoftwareModuloAyudaGustos\SoftwareModuloAyudaGustos\bin\Debug\SoftwareModuloAyudaGustos.xml
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\SoftwareModuloAyudaGustos\SoftwareModuloAyudaGustos\obj\Debug\SoftwareModuloAyudaGustos.exe
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\SoftwareModuloAyudaGustos\SoftwareModuloAyudaGustos\obj\Debug\SoftwareModuloAyudaGustos.pdb

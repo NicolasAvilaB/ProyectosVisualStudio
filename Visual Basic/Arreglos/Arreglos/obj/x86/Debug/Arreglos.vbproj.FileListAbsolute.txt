@@ -1,0 +1,14 @@
+c:\users\nicolas\documents\visual studio 2010\Projects\Arreglos\Arreglos\bin\Debug\Arreglos.exe
+c:\users\nicolas\documents\visual studio 2010\Projects\Arreglos\Arreglos\bin\Debug\Arreglos.pdb
+c:\users\nicolas\documents\visual studio 2010\Projects\Arreglos\Arreglos\bin\Debug\Arreglos.xml
+c:\users\nicolas\documents\visual studio 2010\Projects\Arreglos\Arreglos\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\nicolas\documents\visual studio 2010\Projects\Arreglos\Arreglos\obj\x86\Debug\Arreglos.Form1.resources
+c:\users\nicolas\documents\visual studio 2010\Projects\Arreglos\Arreglos\obj\x86\Debug\Arreglos.Resources.resources
+c:\users\nicolas\documents\visual studio 2010\Projects\Arreglos\Arreglos\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\nicolas\documents\visual studio 2010\Projects\Arreglos\Arreglos\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\nicolas\documents\visual studio 2010\Projects\Arreglos\Arreglos\obj\x86\Debug\Arreglos.exe
+c:\users\nicolas\documents\visual studio 2010\Projects\Arreglos\Arreglos\obj\x86\Debug\Arreglos.xml
+c:\users\nicolas\documents\visual studio 2010\Projects\Arreglos\Arreglos\obj\x86\Debug\Arreglos.pdb
+c:\users\nicolas\documents\visual studio 2010\Projects\Arreglos\Arreglos\obj\x86\Debug\Arreglos.Form2.resources
+c:\users\nicolas\documents\visual studio 2010\Projects\Arreglos\Arreglos\obj\x86\Debug\Arreglos.Form3.resources
+c:\users\nicolas\documents\visual studio 2010\Projects\Arreglos\Arreglos\obj\x86\Debug\Arreglos.Form4.resources

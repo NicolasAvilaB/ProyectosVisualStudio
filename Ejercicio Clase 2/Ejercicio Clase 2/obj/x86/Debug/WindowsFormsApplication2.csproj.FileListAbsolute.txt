@@ -1,0 +1,7 @@
+C:\Users\sanfernando_lab3\AppData\Local\Temporary Projects\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\sanfernando_lab3\AppData\Local\Temporary Projects\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\sanfernando_lab3\AppData\Local\Temporary Projects\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\sanfernando_lab3\AppData\Local\Temporary Projects\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\sanfernando_lab3\AppData\Local\Temporary Projects\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\sanfernando_lab3\AppData\Local\Temporary Projects\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Users\sanfernando_lab3\AppData\Local\Temporary Projects\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb

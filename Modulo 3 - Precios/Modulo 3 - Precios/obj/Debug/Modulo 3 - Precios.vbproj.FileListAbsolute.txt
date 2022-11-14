@@ -1,0 +1,36 @@
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 3 - Precios\Modulo 3 - Precios\obj\Debug\Modulo_3___Precios.Cotizador.resources
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 3 - Precios\Modulo 3 - Precios\obj\Debug\Modulo_3___Precios.Resources.resources
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 3 - Precios\Modulo 3 - Precios\obj\Debug\Modulo 3 - Precios.vbproj.GenerateResource.Cache
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 3 - Precios\Modulo 3 - Precios\obj\Debug\Modulo 3 - Precios.xml
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 3 - Precios\Modulo 3 - Precios\bin\Debug\Modulo 3 - Precios.exe
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 3 - Precios\Modulo 3 - Precios\bin\Debug\Modulo 3 - Precios.pdb
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 3 - Precios\Modulo 3 - Precios\bin\Debug\Modulo 3 - Precios.xml
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 3 - Precios\Modulo 3 - Precios\bin\Debug\MySql.Data.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 3 - Precios\Modulo 3 - Precios\obj\Debug\Modulo 3 - Precios.exe
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 3 - Precios\Modulo 3 - Precios\obj\Debug\Modulo 3 - Precios.pdb
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 3 - Precios\Modulo 3 - Precios\bin\Debug\CircularProgressBar.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 3 - Precios\Modulo 3 - Precios\bin\Debug\WinFormAnimation.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 3 - Precios\Modulo 3 - Precios\bin\Debug\CircularProgressBar.xml
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 3 - Precios\Modulo 3 - Precios\bin\Debug\WinFormAnimation.xml
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 3 - Precios\Modulo 3 - Precios\obj\Debug\Modulo_3___Precios.Cargar.resources
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 3 - Precios\Modulo 3 - Precios\obj\Debug\Modulo_3___Precios.Busq.resources
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 3 - Precios\Modulo 3 - Precios\obj\Debug\Modulo_3___Precios.Advertencia.resources
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 3 - Precios\Modulo 3 - Precios\obj\Debug\Modulo_3___Precios.Ven_Err.resources
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 3 - Precios\Modulo 3 - Precios\obj\Debug\Modulo_3___Precios.Menus.resources
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 3 - Precios\Modulo 3 - Precios\obj\Debug\Modulo_3___Precios.Admisn.resources
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 3 - Precios\Modulo 3 - Precios\obj\Debug\Modulo_3___Precios.Escalas_Precios.resources
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 3 - Precios\Modulo 3 - Precios\obj\Debug\Modulo_3___Precios.Confirmacion_Mensaje.resources
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 3 - Precios\Modulo 3 - Precios\obj\Debug\Modulo_3___Precios.Comprobante_Creacion_Informe.resources
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 3 - Precios\Modulo 3 - Precios\obj\Debug\Modulo_3___Precios.Reporte.resources
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 3 - Precios\Modulo 3 - Precios\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 3 - Precios\Modulo 3 - Precios\obj\Debug\Modulo_3___Precios.Traspaso_Datos.resources
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 3 - Precios\Modulo 3 - Precios\obj\Debug\Modulo_3___Precios.Carga_Datos.resources
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 3 - Precios\Modulo 3 - Precios\bin\Debug\Modulo 3 - Precios.exe.manifest
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 3 - Precios\Modulo 3 - Precios\bin\Debug\Modulo 3 - Precios.application
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 3 - Precios\Modulo 3 - Precios\obj\Debug\Modulo 3 - Precios.TrustInfo.xml
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 3 - Precios\Modulo 3 - Precios\obj\Debug\Modulo 3 - Precios.exe.manifest
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 3 - Precios\Modulo 3 - Precios\obj\Debug\Modulo 3 - Precios.application
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 3 - Precios\Modulo 3 - Precios\obj\Debug\Modulo_3___Precios.Admin_Mod.resources
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 3 - Precios\Modulo 3 - Precios\obj\Debug\Modulo 3 - Precios.vbprojAssemblyReference.cache
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 3 - Precios\Modulo 3 - Precios\obj\Debug\Modulo 3 - Precios.vbproj.CoreCompileInputs.cache
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 3 - Precios\Modulo 3 - Precios\obj\Debug\Modulo 3 - Precios.vbproj.CopyComplete

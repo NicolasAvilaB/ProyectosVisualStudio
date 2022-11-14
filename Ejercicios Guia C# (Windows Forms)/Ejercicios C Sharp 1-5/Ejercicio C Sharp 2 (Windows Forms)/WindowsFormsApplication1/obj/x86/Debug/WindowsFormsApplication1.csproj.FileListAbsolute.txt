@@ -1,0 +1,21 @@
+C:\Users\sanfernando_lab3\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\sanfernando_lab3\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\sanfernando_lab3\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\sanfernando_lab3\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\sanfernando_lab3\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\sanfernando_lab3\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\sanfernando_lab3\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\sanfernando_lab3\Documents\Ejercicio C Sharp 2 (Windows Forms)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\sanfernando_lab3\Documents\Ejercicio C Sharp 2 (Windows Forms)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\sanfernando_lab3\Desktop\Ejercicios Guia C# (Windows Forms)\Ejercicio C Sharp 2 (Windows Forms)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\sanfernando_lab3\Desktop\Ejercicios Guia C# (Windows Forms)\Ejercicio C Sharp 2 (Windows Forms)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\sanfernando_lab3\Desktop\Ejercicios Guia C# (Windows Forms)\Ejercicio C Sharp 2 (Windows Forms)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\sanfernando_lab3\Desktop\Ejercicios Guia C# (Windows Forms)\Ejercicio C Sharp 2 (Windows Forms)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\sanfernando_lab3\Desktop\Ejercicios Guia C# (Windows Forms)\Ejercicio C Sharp 2 (Windows Forms)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\sanfernando_lab3\Desktop\Ejercicios Guia C# (Windows Forms)\Ejercicio C Sharp 2 (Windows Forms)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\sanfernando_lab3\Desktop\Ejercicios Guia C# (Windows Forms)\Ejercicio C Sharp 2 (Windows Forms)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\sanfernando_lab3\Desktop\Ejercicios Guia C# (Windows Forms)\Ejercicio C Sharp 2 (Windows Forms)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Nicolas Avila B\Desktop\Ejercicios Guia C# (Windows Forms)\Ejercicio C Sharp 2 (Windows Forms)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Nicolas Avila B\Desktop\Ejercicios Guia C# (Windows Forms)\Ejercicio C Sharp 2 (Windows Forms)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Ejercicios Guia C# (Windows Forms)\Ejercicios C Sharp 1-5\Ejercicio C Sharp 2 (Windows Forms)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Ejercicios Guia C# (Windows Forms)\Ejercicios C Sharp 1-5\Ejercicio C Sharp 2 (Windows Forms)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb

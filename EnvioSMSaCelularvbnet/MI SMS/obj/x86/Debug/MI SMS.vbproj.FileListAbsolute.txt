@@ -1,0 +1,37 @@
+C:\Users\SALVADOR\Desktop\MI SMS\MI SMS\bin\Debug\MI SMS.exe
+C:\Users\SALVADOR\Desktop\MI SMS\MI SMS\bin\Debug\MI SMS.pdb
+C:\Users\SALVADOR\Desktop\MI SMS\MI SMS\bin\Debug\MI SMS.xml
+C:\Users\SALVADOR\Desktop\MI SMS\MI SMS\obj\x86\Debug\MI_SMS.Form1.resources
+C:\Users\SALVADOR\Desktop\MI SMS\MI SMS\obj\x86\Debug\MI_SMS.Resources.resources
+C:\Users\SALVADOR\Desktop\MI SMS\MI SMS\obj\x86\Debug\MI SMS.vbproj.GenerateResource.Cache
+C:\Users\SALVADOR\Desktop\MI SMS\MI SMS\obj\x86\Debug\MI SMS.exe
+C:\Users\SALVADOR\Desktop\MI SMS\MI SMS\obj\x86\Debug\MI SMS.xml
+C:\Users\SALVADOR\Desktop\MI SMS\MI SMS\obj\x86\Debug\MI SMS.pdb
+C:\Users\SALVADOR\Desktop\REPASAR\TELEFONIA\MI SMS\MI SMS\obj\x86\Debug\MI SMS.exe
+C:\Users\SALVADOR\Desktop\REPASAR\TELEFONIA\MI SMS\MI SMS\obj\x86\Debug\MI SMS.xml
+C:\Users\SALVADOR\Desktop\REPASAR\TELEFONIA\MI SMS\MI SMS\obj\x86\Debug\MI SMS.pdb
+C:\Users\SALVADOR\Desktop\REPASAR\TELEFONIA\MI SMS\MI SMS\bin\Debug\MI SMS.exe
+C:\Users\SALVADOR\Desktop\REPASAR\TELEFONIA\MI SMS\MI SMS\bin\Debug\MI SMS.pdb
+C:\Users\SALVADOR\Desktop\REPASAR\TELEFONIA\MI SMS\MI SMS\bin\Debug\MI SMS.xml
+C:\Users\SALVADOR\Desktop\REPASAR\TELEFONIA\MI SMS\MI SMS\obj\x86\Debug\MI_SMS.Form1.resources
+C:\Users\SALVADOR\Desktop\REPASAR\TELEFONIA\MI SMS\MI SMS\obj\x86\Debug\MI_SMS.Resources.resources
+C:\Users\SALVADOR\Desktop\REPASAR\TELEFONIA\MI SMS\MI SMS\obj\x86\Debug\MI SMS.vbproj.GenerateResource.Cache
+C:\Users\SALVADOR\Desktop\MI SMS  2\MI SMS\obj\x86\Debug\MI SMS.exe
+C:\Users\SALVADOR\Desktop\MI SMS  2\MI SMS\obj\x86\Debug\MI SMS.xml
+C:\Users\SALVADOR\Desktop\MI SMS  2\MI SMS\obj\x86\Debug\MI SMS.pdb
+C:\Users\SALVADOR\Desktop\MI SMS  2\MI SMS\bin\Debug\MI SMS.exe
+C:\Users\SALVADOR\Desktop\MI SMS  2\MI SMS\bin\Debug\MI SMS.pdb
+C:\Users\SALVADOR\Desktop\MI SMS  2\MI SMS\bin\Debug\MI SMS.xml
+C:\Users\SALVADOR\Desktop\MI SMS  2\MI SMS\obj\x86\Debug\MI_SMS.Form1.resources
+C:\Users\SALVADOR\Desktop\MI SMS  2\MI SMS\obj\x86\Debug\MI_SMS.Resources.resources
+C:\Users\SALVADOR\Desktop\MI SMS  2\MI SMS\obj\x86\Debug\MI SMS.vbproj.GenerateResource.Cache
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\EnvioSMSaCelularvbnet\MI SMS\obj\x86\Debug\MI SMS.exe
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\EnvioSMSaCelularvbnet\MI SMS\obj\x86\Debug\MI SMS.xml
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\EnvioSMSaCelularvbnet\MI SMS\obj\x86\Debug\MI SMS.pdb
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\EnvioSMSaCelularvbnet\MI SMS\bin\Debug\MI SMS.exe
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\EnvioSMSaCelularvbnet\MI SMS\bin\Debug\MI SMS.pdb
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\EnvioSMSaCelularvbnet\MI SMS\bin\Debug\MI SMS.xml
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\EnvioSMSaCelularvbnet\MI SMS\obj\x86\Debug\MI SMS.vbprojResolveAssemblyReference.cache
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\EnvioSMSaCelularvbnet\MI SMS\obj\x86\Debug\MI_SMS.Form1.resources
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\EnvioSMSaCelularvbnet\MI SMS\obj\x86\Debug\MI_SMS.Resources.resources
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\EnvioSMSaCelularvbnet\MI SMS\obj\x86\Debug\MI SMS.vbproj.GenerateResource.Cache

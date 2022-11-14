@@ -1,0 +1,164 @@
+D:\Users\Nicolas Avila Bisk\source\repos\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\Modulo 2 - Nota Venta PYM.exe
+D:\Users\Nicolas Avila Bisk\source\repos\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\Modulo 2 - Nota Venta PYM.pdb
+D:\Users\Nicolas Avila Bisk\source\repos\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\Modulo 2 - Nota Venta PYM.xml
+D:\Users\Nicolas Avila Bisk\source\repos\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\obj\Debug\Modulo 2 - Nota Venta PYM.vbprojAssemblyReference.cache
+D:\Users\Nicolas Avila Bisk\source\repos\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\obj\Debug\Modulo_2___Nota_Venta_PYM.Nota_Venta.resources
+D:\Users\Nicolas Avila Bisk\source\repos\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\obj\Debug\Modulo_2___Nota_Venta_PYM.Resources.resources
+D:\Users\Nicolas Avila Bisk\source\repos\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\obj\Debug\Modulo 2 - Nota Venta PYM.vbproj.GenerateResource.cache
+D:\Users\Nicolas Avila Bisk\source\repos\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\obj\Debug\Modulo 2 - Nota Venta PYM.vbproj.CoreCompileInputs.cache
+D:\Users\Nicolas Avila Bisk\source\repos\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\obj\Debug\Modulo 2 - Nota Venta PYM.exe
+D:\Users\Nicolas Avila Bisk\source\repos\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\obj\Debug\Modulo 2 - Nota Venta PYM.xml
+D:\Users\Nicolas Avila Bisk\source\repos\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\obj\Debug\Modulo 2 - Nota Venta PYM.pdb
+D:\Users\Nicolas Avila Bisk\source\repos\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\obj\Debug\Modulo_2___Nota_Venta_PYM.Menu.resources
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\Modulo 2 - Nota Venta PYM.exe
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\Modulo 2 - Nota Venta PYM.pdb
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\Modulo 2 - Nota Venta PYM.xml
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\obj\Debug\Modulo 2 - Nota Venta PYM.vbprojAssemblyReference.cache
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\obj\Debug\Modulo_2___Nota_Venta_PYM.Resources.resources
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\obj\Debug\Modulo 2 - Nota Venta PYM.vbproj.GenerateResource.cache
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\obj\Debug\Modulo 2 - Nota Venta PYM.vbproj.CoreCompileInputs.cache
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\obj\Debug\Modulo 2 - Nota Venta PYM.exe
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\obj\Debug\Modulo 2 - Nota Venta PYM.xml
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\obj\Debug\Modulo 2 - Nota Venta PYM.pdb
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\obj\Debug\Modulo_2___Nota_Venta_PYM.Cotizacion.resources
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\obj\Debug\Modulo_2___Nota_Venta_PYM.NotaVenta.resources
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\EnvDTE.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\stdole.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\EnvDTE.xml
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\obj\Debug\Modulo 2 - Nota Venta PYM.vbproj.CopyComplete
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\MySql.Data.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\obj\Debug\Modulo_2___Nota_Venta_PYM.Menus.resources
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2017\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\obj\Debug\Modulo_2___Nota_Venta_PYM.Sacar_Reporte_Nota_Venta.resources
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\obj\Debug\Modulo_2___Nota_Venta_PYM.Buscar_Nota_Cotizacion.resources
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\obj\Debug\Modulo_2___Nota_Venta_PYM.Comprobante_Busqueda_Datos.resources
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\obj\Debug\Modulo_2___Nota_Venta_PYM.Comprobante_Creacion_Informe.resources
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\obj\Debug\Modulo_2___Nota_Venta_PYM.Cotizaciones.resources
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\obj\Debug\Modulo_2___Nota_Venta_PYM.Menus.resources
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\obj\Debug\Modulo_2___Nota_Venta_PYM.NotaVenta.resources
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\obj\Debug\Modulo_2___Nota_Venta_PYM.Resources.resources
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\obj\Debug\Modulo_2___Nota_Venta_PYM.Sacar_Reporte_Cotizaciones.resources
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\obj\Debug\Modulo_2___Nota_Venta_PYM.Sacar_Reporte_Nota_Venta.resources
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\obj\Debug\Modulo 2 - Nota Venta PYM.vbproj.GenerateResource.Cache
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\obj\Debug\Modulo 2 - Nota Venta PYM.xml
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\Modulo 2 - Nota Venta PYM.exe
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\Modulo 2 - Nota Venta PYM.pdb
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\Modulo 2 - Nota Venta PYM.xml
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\MySql.Data.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\obj\Debug\Modulo 2 - Nota Venta PYM.exe
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\obj\Debug\Modulo 2 - Nota Venta PYM.pdb
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\obj\Debug\Modulo_2___Nota_Venta_PYM.Comprobante_Traspaso_Datos.resources
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\EnvDTE.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\stdole.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\EnvDTE.xml
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\obj\Debug\Modulo 2 - Nota Venta PYM.vbprojAssemblyReference.cache
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\obj\Debug\Modulo 2 - Nota Venta PYM.vbproj.CoreCompileInputs.cache
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 2 - Nota Venta PYM\Modulo 2 - Nota Venta PYM\obj\Debug\Modulo 2 - Nota Venta PYM.vbproj.CopyComplete

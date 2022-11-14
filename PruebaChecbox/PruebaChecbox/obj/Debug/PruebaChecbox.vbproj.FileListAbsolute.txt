@@ -1,0 +1,14 @@
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\PruebaChecbox\PruebaChecbox\bin\Debug\PruebaChecbox.exe.config
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\PruebaChecbox\PruebaChecbox\bin\Debug\PruebaChecbox.exe
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\PruebaChecbox\PruebaChecbox\bin\Debug\PruebaChecbox.pdb
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\PruebaChecbox\PruebaChecbox\bin\Debug\PruebaChecbox.xml
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\PruebaChecbox\PruebaChecbox\obj\Debug\PruebaChecbox.Form1.resources
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\PruebaChecbox\PruebaChecbox\obj\Debug\PruebaChecbox.Resources.resources
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\PruebaChecbox\PruebaChecbox\obj\Debug\PruebaChecbox.vbproj.GenerateResource.Cache
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\PruebaChecbox\PruebaChecbox\obj\Debug\PruebaChecbox.exe
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\PruebaChecbox\PruebaChecbox\obj\Debug\PruebaChecbox.xml
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\PruebaChecbox\PruebaChecbox\obj\Debug\PruebaChecbox.pdb
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\PruebaChecbox\PruebaChecbox\bin\Debug\PruebaChecbox.exe.config
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\PruebaChecbox\PruebaChecbox\obj\Debug\PruebaChecbox.exe
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\PruebaChecbox\PruebaChecbox\obj\Debug\PruebaChecbox.xml
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\PruebaChecbox\PruebaChecbox\obj\Debug\PruebaChecbox.pdb

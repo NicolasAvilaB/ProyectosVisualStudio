@@ -1,0 +1,11 @@
+C:\Documents and Settings\user\mis documentos\visual studio 2010\Projects\ConvertirCelsiusFar\ConvertirCelsiusFar\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\mis documentos\visual studio 2010\Projects\ConvertirCelsiusFar\ConvertirCelsiusFar\obj\x86\Debug\ConvertirCelsiusFar.Form1.resources
+C:\Documents and Settings\user\mis documentos\visual studio 2010\Projects\ConvertirCelsiusFar\ConvertirCelsiusFar\obj\x86\Debug\ConvertirCelsiusFar.Resources.resources
+C:\Documents and Settings\user\mis documentos\visual studio 2010\Projects\ConvertirCelsiusFar\ConvertirCelsiusFar\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\user\mis documentos\visual studio 2010\Projects\ConvertirCelsiusFar\ConvertirCelsiusFar\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\user\mis documentos\visual studio 2010\Projects\ConvertirCelsiusFar\ConvertirCelsiusFar\bin\Debug\ConvertirCelsiusFar.exe
+C:\Documents and Settings\user\mis documentos\visual studio 2010\Projects\ConvertirCelsiusFar\ConvertirCelsiusFar\bin\Debug\ConvertirCelsiusFar.pdb
+C:\Documents and Settings\user\mis documentos\visual studio 2010\Projects\ConvertirCelsiusFar\ConvertirCelsiusFar\bin\Debug\ConvertirCelsiusFar.xml
+C:\Documents and Settings\user\mis documentos\visual studio 2010\Projects\ConvertirCelsiusFar\ConvertirCelsiusFar\obj\x86\Debug\ConvertirCelsiusFar.exe
+C:\Documents and Settings\user\mis documentos\visual studio 2010\Projects\ConvertirCelsiusFar\ConvertirCelsiusFar\obj\x86\Debug\ConvertirCelsiusFar.xml
+C:\Documents and Settings\user\mis documentos\visual studio 2010\Projects\ConvertirCelsiusFar\ConvertirCelsiusFar\obj\x86\Debug\ConvertirCelsiusFar.pdb

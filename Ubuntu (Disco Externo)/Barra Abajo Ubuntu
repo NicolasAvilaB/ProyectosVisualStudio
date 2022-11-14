@@ -1,0 +1,7 @@
+Barra Unity Abajo
+
+gsettings set com.canonical.Unity.Launcher launcher-position Bottom
+
+Barra Unity a la Izquierda
+
+gsettings set com.canonical.Unity.Launcher launcher-position Left

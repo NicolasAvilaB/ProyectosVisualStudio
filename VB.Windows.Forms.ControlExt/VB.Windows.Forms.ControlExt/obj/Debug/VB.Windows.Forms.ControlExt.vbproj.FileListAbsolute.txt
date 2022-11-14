@@ -1,0 +1,18 @@
+C:\Users\mpineda\Documents\Visual Studio 2008\Projects\MSDN Forums\VB\VB.Windows.Forms.ControlExt\bin\Debug\VB.Windows.Forms.ControlExt.dll
+C:\Users\mpineda\Documents\Visual Studio 2008\Projects\MSDN Forums\VB\VB.Windows.Forms.ControlExt\bin\Debug\VB.Windows.Forms.ControlExt.pdb
+C:\Users\mpineda\Documents\Visual Studio 2008\Projects\MSDN Forums\VB\VB.Windows.Forms.ControlExt\bin\Debug\VB.Windows.Forms.ControlExt.xml
+C:\Users\mpineda\Documents\Visual Studio 2008\Projects\MSDN Forums\VB\VB.Windows.Forms.ControlExt\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mpineda\Documents\Visual Studio 2008\Projects\MSDN Forums\VB\VB.Windows.Forms.ControlExt\obj\Debug\VB.Windows.Forms.ControlExt.Resources.resources
+C:\Users\mpineda\Documents\Visual Studio 2008\Projects\MSDN Forums\VB\VB.Windows.Forms.ControlExt\obj\Debug\VB.Windows.Forms.ControlExt.vbproj.GenerateResource.Cache
+C:\Users\mpineda\Documents\Visual Studio 2008\Projects\MSDN Forums\VB\VB.Windows.Forms.ControlExt\obj\Debug\VB.Windows.Forms.ControlExt.dll
+C:\Users\mpineda\Documents\Visual Studio 2008\Projects\MSDN Forums\VB\VB.Windows.Forms.ControlExt\obj\Debug\VB.Windows.Forms.ControlExt.xml
+C:\Users\mpineda\Documents\Visual Studio 2008\Projects\MSDN Forums\VB\VB.Windows.Forms.ControlExt\obj\Debug\VB.Windows.Forms.ControlExt.pdb
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\VB.Windows.Forms.ControlExt\VB.Windows.Forms.ControlExt\bin\Debug\VB.Windows.Forms.ControlExt.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\VB.Windows.Forms.ControlExt\VB.Windows.Forms.ControlExt\bin\Debug\VB.Windows.Forms.ControlExt.pdb
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\VB.Windows.Forms.ControlExt\VB.Windows.Forms.ControlExt\bin\Debug\VB.Windows.Forms.ControlExt.xml
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\VB.Windows.Forms.ControlExt\VB.Windows.Forms.ControlExt\obj\Debug\VB.Windows.Forms.ControlExt.vbprojResolveAssemblyReference.cache
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\VB.Windows.Forms.ControlExt\VB.Windows.Forms.ControlExt\obj\Debug\VB.Windows.Forms.ControlExt.Resources.resources
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\VB.Windows.Forms.ControlExt\VB.Windows.Forms.ControlExt\obj\Debug\VB.Windows.Forms.ControlExt.vbproj.GenerateResource.Cache
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\VB.Windows.Forms.ControlExt\VB.Windows.Forms.ControlExt\obj\Debug\VB.Windows.Forms.ControlExt.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\VB.Windows.Forms.ControlExt\VB.Windows.Forms.ControlExt\obj\Debug\VB.Windows.Forms.ControlExt.xml
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\VB.Windows.Forms.ControlExt\VB.Windows.Forms.ControlExt\obj\Debug\VB.Windows.Forms.ControlExt.pdb

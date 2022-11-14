@@ -1,0 +1,10 @@
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\1a100\1a100\bin\Debug\1a100.exe.config
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\1a100\1a100\bin\Debug\1a100.exe
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\1a100\1a100\bin\Debug\1a100.pdb
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\1a100\1a100\bin\Debug\1a100.xml
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\1a100\1a100\obj\Debug\1a100.vbprojResolveAssemblyReference.cache
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\1a100\1a100\obj\Debug\_1a100.Resources.resources
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\1a100\1a100\obj\Debug\1a100.vbproj.GenerateResource.Cache
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\1a100\1a100\obj\Debug\1a100.exe
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\1a100\1a100\obj\Debug\1a100.xml
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\1a100\1a100\obj\Debug\1a100.pdb

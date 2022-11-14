@@ -1,0 +1,15 @@
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Utilitario\bin\Debug\Utilitario.dll
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Utilitario\bin\Debug\Utilitario.pdb
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Utilitario\obj\Debug\ResolveAssemblyReference.cache
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Utilitario\obj\Debug\Utilitario.dll
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Utilitario\obj\Debug\Utilitario.pdb
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Utilitario\bin\Debug\Utilitario.dll
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Utilitario\bin\Debug\Utilitario.pdb
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Utilitario\obj\Debug\ResolveAssemblyReference.cache
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Utilitario\obj\Debug\Utilitario.dll
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Utilitario\obj\Debug\Utilitario.pdb
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Utilitario\bin\Debug\Utilitario.dll
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Utilitario\bin\Debug\Utilitario.pdb
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Utilitario\obj\Debug\Utilitario.csprojResolveAssemblyReference.cache
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Utilitario\obj\Debug\Utilitario.dll
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Utilitario\obj\Debug\Utilitario.pdb

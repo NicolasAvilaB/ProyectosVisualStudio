@@ -1,0 +1,17 @@
+c:\users\nicolas\documents\visual studio 2010\Projects\Visual Basic 1\Visual Basic 1\bin\Debug\Visual Basic 1.exe
+c:\users\nicolas\documents\visual studio 2010\Projects\Visual Basic 1\Visual Basic 1\bin\Debug\Visual Basic 1.pdb
+c:\users\nicolas\documents\visual studio 2010\Projects\Visual Basic 1\Visual Basic 1\bin\Debug\Visual Basic 1.xml
+c:\users\nicolas\documents\visual studio 2010\Projects\Visual Basic 1\Visual Basic 1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\nicolas\documents\visual studio 2010\Projects\Visual Basic 1\Visual Basic 1\obj\x86\Debug\Visual_Basic_1.Form1.resources
+c:\users\nicolas\documents\visual studio 2010\Projects\Visual Basic 1\Visual Basic 1\obj\x86\Debug\Visual_Basic_1.Resources.resources
+c:\users\nicolas\documents\visual studio 2010\Projects\Visual Basic 1\Visual Basic 1\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\nicolas\documents\visual studio 2010\Projects\Visual Basic 1\Visual Basic 1\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\nicolas\documents\visual studio 2010\Projects\Visual Basic 1\Visual Basic 1\obj\x86\Debug\Visual Basic 1.exe
+c:\users\nicolas\documents\visual studio 2010\Projects\Visual Basic 1\Visual Basic 1\obj\x86\Debug\Visual Basic 1.xml
+c:\users\nicolas\documents\visual studio 2010\Projects\Visual Basic 1\Visual Basic 1\obj\x86\Debug\Visual Basic 1.pdb
+C:\Users\Nicolas\Documents\Visual Studio 2010\Projects\Visual Basic\Visual Basic 1\Visual Basic 1\obj\x86\Debug\Visual Basic 1.exe
+C:\Users\Nicolas\Documents\Visual Studio 2010\Projects\Visual Basic\Visual Basic 1\Visual Basic 1\obj\x86\Debug\Visual Basic 1.xml
+C:\Users\Nicolas\Documents\Visual Studio 2010\Projects\Visual Basic\Visual Basic 1\Visual Basic 1\obj\x86\Debug\Visual Basic 1.pdb
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Visual Basic\Visual Basic 1\Visual Basic 1\obj\x86\Debug\Visual Basic 1.exe
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Visual Basic\Visual Basic 1\Visual Basic 1\obj\x86\Debug\Visual Basic 1.xml
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Visual Basic\Visual Basic 1\Visual Basic 1\obj\x86\Debug\Visual Basic 1.pdb

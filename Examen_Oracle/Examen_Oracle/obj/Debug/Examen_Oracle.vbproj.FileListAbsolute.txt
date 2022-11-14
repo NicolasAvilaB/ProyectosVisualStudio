@@ -1,0 +1,15 @@
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Examen_Oracle\Examen_Oracle\bin\Debug\Examen_Oracle.exe.config
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Examen_Oracle\Examen_Oracle\bin\Debug\Examen_Oracle.exe
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Examen_Oracle\Examen_Oracle\bin\Debug\Examen_Oracle.pdb
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Examen_Oracle\Examen_Oracle\bin\Debug\Examen_Oracle.xml
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Examen_Oracle\Examen_Oracle\obj\Debug\Examen_Oracle.Bienvenido.resources
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Examen_Oracle\Examen_Oracle\obj\Debug\Examen_Oracle.Resources.resources
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Examen_Oracle\Examen_Oracle\obj\Debug\Examen_Oracle.vbproj.GenerateResource.Cache
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Examen_Oracle\Examen_Oracle\obj\Debug\Examen_Oracle.exe
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Examen_Oracle\Examen_Oracle\obj\Debug\Examen_Oracle.xml
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Examen_Oracle\Examen_Oracle\obj\Debug\Examen_Oracle.pdb
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Examen_Oracle\Examen_Oracle\obj\Debug\Examen_Oracle.Clientes1.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Examen_Oracle\Examen_Oracle\obj\Debug\Examen_Oracle.Principal.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Examen_Oracle\Examen_Oracle\obj\Debug\Examen_Oracle.Detalle_Ventas.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Examen_Oracle\Examen_Oracle\obj\Debug\Examen_Oracle.Ventas.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Examen_Oracle\Examen_Oracle\obj\Debug\Examen_Oracle.Productos1.resources

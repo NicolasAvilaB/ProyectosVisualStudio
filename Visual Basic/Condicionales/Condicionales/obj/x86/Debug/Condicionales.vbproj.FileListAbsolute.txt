@@ -1,0 +1,13 @@
+c:\users\nicolas\documents\visual studio 2010\Projects\Condicionales\Condicionales\bin\Debug\Condicionales.exe
+c:\users\nicolas\documents\visual studio 2010\Projects\Condicionales\Condicionales\bin\Debug\Condicionales.pdb
+c:\users\nicolas\documents\visual studio 2010\Projects\Condicionales\Condicionales\bin\Debug\Condicionales.xml
+c:\users\nicolas\documents\visual studio 2010\Projects\Condicionales\Condicionales\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\nicolas\documents\visual studio 2010\Projects\Condicionales\Condicionales\obj\x86\Debug\Condicionales.Resources.resources
+c:\users\nicolas\documents\visual studio 2010\Projects\Condicionales\Condicionales\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\nicolas\documents\visual studio 2010\Projects\Condicionales\Condicionales\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\nicolas\documents\visual studio 2010\Projects\Condicionales\Condicionales\obj\x86\Debug\Condicionales.exe
+c:\users\nicolas\documents\visual studio 2010\Projects\Condicionales\Condicionales\obj\x86\Debug\Condicionales.xml
+c:\users\nicolas\documents\visual studio 2010\Projects\Condicionales\Condicionales\obj\x86\Debug\Condicionales.pdb
+C:\Users\Nicolas\Documents\Visual Studio 2010\Projects\Visual Basic\Condicionales\Condicionales\obj\x86\Debug\Condicionales.exe
+C:\Users\Nicolas\Documents\Visual Studio 2010\Projects\Visual Basic\Condicionales\Condicionales\obj\x86\Debug\Condicionales.xml
+C:\Users\Nicolas\Documents\Visual Studio 2010\Projects\Visual Basic\Condicionales\Condicionales\obj\x86\Debug\Condicionales.pdb

@@ -1,0 +1,14 @@
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Examen_Sqlserver\Examen_Sqlserver\bin\Debug\Examen_Sqlserver.exe.config
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Examen_Sqlserver\Examen_Sqlserver\bin\Debug\Examen_Sqlserver.exe
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Examen_Sqlserver\Examen_Sqlserver\bin\Debug\Examen_Sqlserver.pdb
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Examen_Sqlserver\Examen_Sqlserver\bin\Debug\Examen_Sqlserver.xml
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Examen_Sqlserver\Examen_Sqlserver\obj\Debug\Examen_Sqlserver.Bienvenido.resources
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Examen_Sqlserver\Examen_Sqlserver\obj\Debug\Examen_Sqlserver.Clientes.resources
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Examen_Sqlserver\Examen_Sqlserver\obj\Debug\Examen_Sqlserver.Resources.resources
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Examen_Sqlserver\Examen_Sqlserver\obj\Debug\Examen_Sqlserver.vbproj.GenerateResource.Cache
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Examen_Sqlserver\Examen_Sqlserver\obj\Debug\Examen_Sqlserver.exe
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Examen_Sqlserver\Examen_Sqlserver\obj\Debug\Examen_Sqlserver.xml
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Examen_Sqlserver\Examen_Sqlserver\obj\Debug\Examen_Sqlserver.pdb
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Examen_Sqlserver\Examen_Sqlserver\obj\Debug\Examen_Sqlserver.Principal.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Examen_Sqlserver\Examen_Sqlserver\obj\Debug\Examen_Sqlserver.Productos.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Examen_Sqlserver\Examen_Sqlserver\obj\Debug\Examen_Sqlserver.Ventas.resources

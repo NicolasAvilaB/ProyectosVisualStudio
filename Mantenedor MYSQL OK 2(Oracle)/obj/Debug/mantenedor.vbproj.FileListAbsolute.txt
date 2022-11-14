@@ -1,0 +1,103 @@
+D:\AIEP\2011\Semestre II\Remedial Visual .net\mantenedor\bin\Debug\mantenedor.exe
+D:\AIEP\2011\Semestre II\Remedial Visual .net\mantenedor\bin\Debug\mantenedor.pdb
+D:\AIEP\2011\Semestre II\Remedial Visual .net\mantenedor\bin\Debug\mantenedor.xml
+D:\AIEP\2011\Semestre II\Remedial Visual .net\mantenedor\obj\Debug\ResolveAssemblyReference.cache
+D:\AIEP\2011\Semestre II\Remedial Visual .net\mantenedor\obj\Debug\mantenedor.Form_clientes.resources
+D:\AIEP\2011\Semestre II\Remedial Visual .net\mantenedor\obj\Debug\mantenedor.Form_menu.resources
+D:\AIEP\2011\Semestre II\Remedial Visual .net\mantenedor\obj\Debug\mantenedor.Resources.resources
+D:\AIEP\2011\Semestre II\Remedial Visual .net\mantenedor\obj\Debug\mantenedor.vbproj.GenerateResource.Cache
+D:\AIEP\2011\Semestre II\Remedial Visual .net\mantenedor\obj\Debug\mantenedor.exe
+D:\AIEP\2011\Semestre II\Remedial Visual .net\mantenedor\obj\Debug\mantenedor.xml
+D:\AIEP\2011\Semestre II\Remedial Visual .net\mantenedor\obj\Debug\mantenedor.pdb
+D:\AIEP\2012\Semestre II\Fundamentos de Lenguajes de Programacion\mantenedor\obj\Debug\mantenedor.exe
+D:\AIEP\2012\Semestre II\Fundamentos de Lenguajes de Programacion\mantenedor\obj\Debug\mantenedor.xml
+D:\AIEP\2012\Semestre II\Fundamentos de Lenguajes de Programacion\mantenedor\obj\Debug\mantenedor.pdb
+D:\AIEP\2012\Semestre II\Fundamentos de Lenguajes de Programacion\mantenedor\bin\Debug\mantenedor.exe
+D:\AIEP\2012\Semestre II\Fundamentos de Lenguajes de Programacion\mantenedor\bin\Debug\mantenedor.pdb
+D:\AIEP\2012\Semestre II\Fundamentos de Lenguajes de Programacion\mantenedor\bin\Debug\mantenedor.xml
+D:\AIEP\2012\Semestre II\Fundamentos de Lenguajes de Programacion\mantenedor\obj\Debug\ResolveAssemblyReference.cache
+D:\AIEP\2012\Semestre II\Fundamentos de Lenguajes de Programacion\mantenedor\obj\Debug\mantenedor.Form_clientes.resources
+D:\AIEP\2012\Semestre II\Fundamentos de Lenguajes de Programacion\mantenedor\obj\Debug\mantenedor.Form_ingreso.resources
+D:\AIEP\2012\Semestre II\Fundamentos de Lenguajes de Programacion\mantenedor\obj\Debug\mantenedor.Form_menu.resources
+D:\AIEP\2012\Semestre II\Fundamentos de Lenguajes de Programacion\mantenedor\obj\Debug\mantenedor.Resources.resources
+D:\AIEP\2012\Semestre II\Fundamentos de Lenguajes de Programacion\mantenedor\obj\Debug\mantenedor.vbproj.GenerateResource.Cache
+D:\AIEP\2012\Semestre II\Fundamentos de Lenguajes de Programacion\mantenedor\bin\Debug\BASEDATOS1PEV.sdf
+D:\AIEP\2012\Semestre II\Fundamentos de Lenguajes de Programacion\mantenedor\obj\Debug\mantenedor.Form1.resources
+D:\AIEP\2013\Semestre II\Fundamentos de Lenguajes de Programacion\mantenedor\obj\Debug\mantenedor.exe
+D:\AIEP\2013\Semestre II\Fundamentos de Lenguajes de Programacion\mantenedor\obj\Debug\mantenedor.xml
+D:\AIEP\2013\Semestre II\Fundamentos de Lenguajes de Programacion\mantenedor\obj\Debug\mantenedor.pdb
+D:\AIEP\2013\Semestre II\Fundamentos de Lenguajes de Programacion\mantenedor\bin\Debug\mantenedor.exe
+D:\AIEP\2013\Semestre II\Fundamentos de Lenguajes de Programacion\mantenedor\bin\Debug\mantenedor.pdb
+D:\AIEP\2013\Semestre II\Fundamentos de Lenguajes de Programacion\mantenedor\bin\Debug\mantenedor.xml
+D:\AIEP\2013\Semestre II\Fundamentos de Lenguajes de Programacion\mantenedor\obj\Debug\ResolveAssemblyReference.cache
+D:\AIEP\2013\Semestre II\Fundamentos de Lenguajes de Programacion\mantenedor\obj\Debug\mantenedor.Form1.resources
+D:\AIEP\2013\Semestre II\Fundamentos de Lenguajes de Programacion\mantenedor\obj\Debug\mantenedor.Form_clientes.resources
+D:\AIEP\2013\Semestre II\Fundamentos de Lenguajes de Programacion\mantenedor\obj\Debug\mantenedor.Form_ingreso.resources
+D:\AIEP\2013\Semestre II\Fundamentos de Lenguajes de Programacion\mantenedor\obj\Debug\mantenedor.Form_menu.resources
+D:\AIEP\2013\Semestre II\Fundamentos de Lenguajes de Programacion\mantenedor\obj\Debug\mantenedor.Resources.resources
+D:\AIEP\2013\Semestre II\Fundamentos de Lenguajes de Programacion\mantenedor\obj\Debug\mantenedor.vbproj.GenerateResource.Cache
+C:\mantenedor\obj\Debug\mantenedor.exe
+C:\mantenedor\obj\Debug\mantenedor.xml
+C:\mantenedor\obj\Debug\mantenedor.pdb
+C:\mantenedor\bin\Debug\mantenedor.exe
+C:\mantenedor\bin\Debug\mantenedor.pdb
+C:\mantenedor\bin\Debug\mantenedor.xml
+C:\mantenedor\obj\Debug\ResolveAssemblyReference.cache
+C:\mantenedor\obj\Debug\mantenedor.Form1.resources
+C:\mantenedor\obj\Debug\mantenedor.Form_clientes.resources
+C:\mantenedor\obj\Debug\mantenedor.Form_ingreso.resources
+C:\mantenedor\obj\Debug\mantenedor.Form_menu.resources
+C:\mantenedor\obj\Debug\mantenedor.Resources.resources
+C:\mantenedor\obj\Debug\ResGen.read.1.tlog
+C:\mantenedor\obj\Debug\ResGen.write.1.tlog
+C:\mantenedor - SQL Server\obj\Debug\mantenedor.exe
+C:\mantenedor - SQL Server\obj\Debug\mantenedor.xml
+C:\mantenedor - SQL Server\obj\Debug\mantenedor.pdb
+C:\mantenedor - SQL Server\bin\Debug\mantenedor.exe
+C:\mantenedor - SQL Server\bin\Debug\mantenedor.pdb
+C:\mantenedor - SQL Server\bin\Debug\mantenedor.xml
+C:\mantenedor - SQL Server\obj\Debug\ResolveAssemblyReference.cache
+C:\mantenedor - SQL Server\obj\Debug\mantenedor.Form1.resources
+C:\mantenedor - SQL Server\obj\Debug\mantenedor.Form_clientes.resources
+C:\mantenedor - SQL Server\obj\Debug\mantenedor.Form_ingreso.resources
+C:\mantenedor - SQL Server\obj\Debug\mantenedor.Form_menu.resources
+C:\mantenedor - SQL Server\obj\Debug\mantenedor.Resources.resources
+C:\mantenedor - SQL Server\obj\Debug\ResGen.read.1.tlog
+C:\mantenedor - SQL Server\obj\Debug\ResGen.write.1.tlog
+C:\mantenedor - SQL Server\obj\Debug\mantenedor.Form2.resources
+C:\mantenedor - SQL Server - OK\obj\Debug\mantenedor.exe
+C:\mantenedor - SQL Server - OK\obj\Debug\mantenedor.xml
+C:\mantenedor - SQL Server - OK\obj\Debug\mantenedor.pdb
+C:\mantenedor - SQL Server - OK\bin\Debug\mantenedor.exe
+C:\mantenedor - SQL Server - OK\bin\Debug\mantenedor.pdb
+C:\mantenedor - SQL Server - OK\bin\Debug\mantenedor.xml
+C:\mantenedor - SQL Server - OK\obj\Debug\ResolveAssemblyReference.cache
+C:\mantenedor - SQL Server - OK\obj\Debug\mantenedor.Form_clientes.resources
+C:\mantenedor - SQL Server - OK\obj\Debug\mantenedor.Form_ingreso.resources
+C:\mantenedor - SQL Server - OK\obj\Debug\mantenedor.Form_menu.resources
+C:\mantenedor - SQL Server - OK\obj\Debug\mantenedor.Resources.resources
+C:\mantenedor - SQL Server - OK\obj\Debug\ResGen.read.1.tlog
+C:\mantenedor - SQL Server - OK\obj\Debug\ResGen.write.1.tlog
+C:\Mantenedor MYSQL OK\obj\Debug\mantenedor.exe
+C:\Mantenedor MYSQL OK\obj\Debug\mantenedor.xml
+C:\Mantenedor MYSQL OK\obj\Debug\mantenedor.pdb
+G:\Mantenedor MYSQL OK 2\obj\Debug\mantenedor.exe
+G:\Mantenedor MYSQL OK 2\obj\Debug\mantenedor.xml
+G:\Mantenedor MYSQL OK 2\obj\Debug\mantenedor.pdb
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\Mantenedor MYSQL OK 2\obj\Debug\mantenedor.exe
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\Mantenedor MYSQL OK 2\obj\Debug\mantenedor.xml
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\Mantenedor MYSQL OK 2\obj\Debug\mantenedor.pdb
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\Mantenedor MYSQL OK 2\bin\Debug\mantenedor.exe
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\Mantenedor MYSQL OK 2\bin\Debug\mantenedor.pdb
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\Mantenedor MYSQL OK 2\bin\Debug\mantenedor.xml
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\Mantenedor MYSQL OK 2\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\Mantenedor MYSQL OK 2\obj\Debug\mantenedor.vbprojResolveAssemblyReference.cache
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\Mantenedor MYSQL OK 2\obj\Debug\mantenedor.Form_clientes.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\Mantenedor MYSQL OK 2\obj\Debug\mantenedor.Form_ingreso.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\Mantenedor MYSQL OK 2\obj\Debug\mantenedor.Form_menu.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\Mantenedor MYSQL OK 2\obj\Debug\mantenedor.Resources.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\Mantenedor MYSQL OK 2\obj\Debug\mantenedor.vbproj.GenerateResource.Cache
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Mantenedor MYSQL OK 2(Oracle)\bin\Debug\mantenedor.exe.config
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Mantenedor MYSQL OK 2(Oracle)\obj\Debug\mantenedor.exe
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Mantenedor MYSQL OK 2(Oracle)\obj\Debug\mantenedor.xml
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Mantenedor MYSQL OK 2(Oracle)\obj\Debug\mantenedor.pdb

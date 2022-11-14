@@ -1,0 +1,12 @@
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Ventas Sistematicas\Ventas Sistematicas\bin\Debug\Ventas Sistematicas.exe.config
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Ventas Sistematicas\Ventas Sistematicas\bin\Debug\Ventas Sistematicas.exe
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Ventas Sistematicas\Ventas Sistematicas\bin\Debug\Ventas Sistematicas.pdb
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Ventas Sistematicas\Ventas Sistematicas\bin\Debug\Ventas Sistematicas.xml
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Ventas Sistematicas\Ventas Sistematicas\obj\Debug\Ventas_Sistematicas.Inicio.resources
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Ventas Sistematicas\Ventas Sistematicas\obj\Debug\Ventas_Sistematicas.Resources.resources
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Ventas Sistematicas\Ventas Sistematicas\obj\Debug\Ventas Sistematicas.vbproj.GenerateResource.Cache
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Ventas Sistematicas\Ventas Sistematicas\obj\Debug\Ventas Sistematicas.exe
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Ventas Sistematicas\Ventas Sistematicas\obj\Debug\Ventas Sistematicas.xml
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Ventas Sistematicas\Ventas Sistematicas\obj\Debug\Ventas Sistematicas.pdb
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Ventas Sistematicas\Ventas Sistematicas\obj\Debug\Ventas_Sistematicas.Menu1.resources
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Ventas Sistematicas\Ventas Sistematicas\obj\Debug\Ventas_Sistematicas.Ventas1.resources

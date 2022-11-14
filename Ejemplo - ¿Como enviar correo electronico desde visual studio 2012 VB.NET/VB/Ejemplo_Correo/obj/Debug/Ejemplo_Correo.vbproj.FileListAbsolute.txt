@@ -1,0 +1,9 @@
+C:\Users\Josue\Documents\Visual Studio 2012\Projects\Ejemplo_Correo\Ejemplo_Correo\bin\Debug\Ejemplo_Correo.exe
+C:\Users\Josue\Documents\Visual Studio 2012\Projects\Ejemplo_Correo\Ejemplo_Correo\bin\Debug\Ejemplo_Correo.pdb
+C:\Users\Josue\Documents\Visual Studio 2012\Projects\Ejemplo_Correo\Ejemplo_Correo\bin\Debug\Ejemplo_Correo.xml
+C:\Users\Josue\Documents\Visual Studio 2012\Projects\Ejemplo_Correo\Ejemplo_Correo\obj\Debug\Ejemplo_Correo.FormEnviarCorreo.resources
+C:\Users\Josue\Documents\Visual Studio 2012\Projects\Ejemplo_Correo\Ejemplo_Correo\obj\Debug\Ejemplo_Correo.Resources.resources
+C:\Users\Josue\Documents\Visual Studio 2012\Projects\Ejemplo_Correo\Ejemplo_Correo\obj\Debug\Ejemplo_Correo.vbproj.GenerateResource.Cache
+C:\Users\Josue\Documents\Visual Studio 2012\Projects\Ejemplo_Correo\Ejemplo_Correo\obj\Debug\Ejemplo_Correo.exe
+C:\Users\Josue\Documents\Visual Studio 2012\Projects\Ejemplo_Correo\Ejemplo_Correo\obj\Debug\Ejemplo_Correo.xml
+C:\Users\Josue\Documents\Visual Studio 2012\Projects\Ejemplo_Correo\Ejemplo_Correo\obj\Debug\Ejemplo_Correo.pdb

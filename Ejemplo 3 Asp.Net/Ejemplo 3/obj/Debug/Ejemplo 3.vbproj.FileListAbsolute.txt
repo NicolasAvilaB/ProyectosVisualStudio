@@ -1,0 +1,18 @@
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Ejemplo 3\Ejemplo 3\bin\Ejemplo 3.dll.config
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Ejemplo 3\Ejemplo 3\bin\Ejemplo 3.dll
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Ejemplo 3\Ejemplo 3\bin\Ejemplo 3.pdb
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Ejemplo 3\Ejemplo 3\bin\Ejemplo 3.xml
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Ejemplo 3\Ejemplo 3\obj\Debug\Ejemplo_3.Resources.resources
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Ejemplo 3\Ejemplo 3\obj\Debug\Ejemplo 3.vbproj.GenerateResource.Cache
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Ejemplo 3\Ejemplo 3\obj\Debug\Ejemplo 3.dll
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Ejemplo 3\Ejemplo 3\obj\Debug\Ejemplo 3.xml
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Ejemplo 3\Ejemplo 3\obj\Debug\Ejemplo 3.pdb
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Ejemplo 3 Asp.Net\Ejemplo 3\bin\Ejemplo 3.dll.config
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Ejemplo 3 Asp.Net\Ejemplo 3\bin\Ejemplo 3.dll
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Ejemplo 3 Asp.Net\Ejemplo 3\bin\Ejemplo 3.pdb
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Ejemplo 3 Asp.Net\Ejemplo 3\bin\Ejemplo 3.xml
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Ejemplo 3 Asp.Net\Ejemplo 3\obj\Debug\Ejemplo_3.Resources.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Ejemplo 3 Asp.Net\Ejemplo 3\obj\Debug\Ejemplo 3.vbproj.GenerateResource.Cache
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Ejemplo 3 Asp.Net\Ejemplo 3\obj\Debug\Ejemplo 3.dll
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Ejemplo 3 Asp.Net\Ejemplo 3\obj\Debug\Ejemplo 3.xml
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Ejemplo 3 Asp.Net\Ejemplo 3\obj\Debug\Ejemplo 3.pdb

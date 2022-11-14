@@ -1,0 +1,38 @@
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 15 Asp DropdownlistconGridview\Ejemplo 15 Asp DropdownlistconGridview\bin\ApplicationInsights.config
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 15 Asp DropdownlistconGridview\Ejemplo 15 Asp DropdownlistconGridview\bin\roslyn\csc.exe
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 15 Asp DropdownlistconGridview\Ejemplo 15 Asp DropdownlistconGridview\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 15 Asp DropdownlistconGridview\Ejemplo 15 Asp DropdownlistconGridview\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 15 Asp DropdownlistconGridview\Ejemplo 15 Asp DropdownlistconGridview\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 15 Asp DropdownlistconGridview\Ejemplo 15 Asp DropdownlistconGridview\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 15 Asp DropdownlistconGridview\Ejemplo 15 Asp DropdownlistconGridview\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 15 Asp DropdownlistconGridview\Ejemplo 15 Asp DropdownlistconGridview\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 15 Asp DropdownlistconGridview\Ejemplo 15 Asp DropdownlistconGridview\bin\roslyn\System.Collections.Immutable.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 15 Asp DropdownlistconGridview\Ejemplo 15 Asp DropdownlistconGridview\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 15 Asp DropdownlistconGridview\Ejemplo 15 Asp DropdownlistconGridview\bin\roslyn\vbc.exe
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 15 Asp DropdownlistconGridview\Ejemplo 15 Asp DropdownlistconGridview\bin\roslyn\VBCSCompiler.exe
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 15 Asp DropdownlistconGridview\Ejemplo 15 Asp DropdownlistconGridview\bin\roslyn\VBCSCompiler.exe.config
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 15 Asp DropdownlistconGridview\Ejemplo 15 Asp DropdownlistconGridview\bin\Ejemplo 15 Asp DropdownlistconGridview.dll.config
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 15 Asp DropdownlistconGridview\Ejemplo 15 Asp DropdownlistconGridview\bin\Ejemplo 15 Asp DropdownlistconGridview.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 15 Asp DropdownlistconGridview\Ejemplo 15 Asp DropdownlistconGridview\bin\Ejemplo 15 Asp DropdownlistconGridview.pdb
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 15 Asp DropdownlistconGridview\Ejemplo 15 Asp DropdownlistconGridview\bin\Ejemplo 15 Asp DropdownlistconGridview.xml
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 15 Asp DropdownlistconGridview\Ejemplo 15 Asp DropdownlistconGridview\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 15 Asp DropdownlistconGridview\Ejemplo 15 Asp DropdownlistconGridview\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 15 Asp DropdownlistconGridview\Ejemplo 15 Asp DropdownlistconGridview\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 15 Asp DropdownlistconGridview\Ejemplo 15 Asp DropdownlistconGridview\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 15 Asp DropdownlistconGridview\Ejemplo 15 Asp DropdownlistconGridview\bin\Microsoft.AI.Web.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 15 Asp DropdownlistconGridview\Ejemplo 15 Asp DropdownlistconGridview\bin\Microsoft.AI.WindowsServer.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 15 Asp DropdownlistconGridview\Ejemplo 15 Asp DropdownlistconGridview\bin\Microsoft.ApplicationInsights.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 15 Asp DropdownlistconGridview\Ejemplo 15 Asp DropdownlistconGridview\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 15 Asp DropdownlistconGridview\Ejemplo 15 Asp DropdownlistconGridview\bin\MySql.Data.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 15 Asp DropdownlistconGridview\Ejemplo 15 Asp DropdownlistconGridview\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 15 Asp DropdownlistconGridview\Ejemplo 15 Asp DropdownlistconGridview\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 15 Asp DropdownlistconGridview\Ejemplo 15 Asp DropdownlistconGridview\bin\Microsoft.AI.Web.xml
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 15 Asp DropdownlistconGridview\Ejemplo 15 Asp DropdownlistconGridview\bin\Microsoft.AI.WindowsServer.xml
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 15 Asp DropdownlistconGridview\Ejemplo 15 Asp DropdownlistconGridview\bin\Microsoft.ApplicationInsights.xml
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 15 Asp DropdownlistconGridview\Ejemplo 15 Asp DropdownlistconGridview\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 15 Asp DropdownlistconGridview\Ejemplo 15 Asp DropdownlistconGridview\obj\Debug\Ejemplo 15 Asp DropdownlistconGridview.vbprojResolveAssemblyReference.cache
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 15 Asp DropdownlistconGridview\Ejemplo 15 Asp DropdownlistconGridview\obj\Debug\Ejemplo_15_Asp_DropdownlistconGridview.Resources.resources
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 15 Asp DropdownlistconGridview\Ejemplo 15 Asp DropdownlistconGridview\obj\Debug\Ejemplo 15 Asp DropdownlistconGridview.vbproj.GenerateResource.Cache
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 15 Asp DropdownlistconGridview\Ejemplo 15 Asp DropdownlistconGridview\obj\Debug\Ejemplo 15 Asp DropdownlistconGridview.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 15 Asp DropdownlistconGridview\Ejemplo 15 Asp DropdownlistconGridview\obj\Debug\Ejemplo 15 Asp DropdownlistconGridview.xml
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 15 Asp DropdownlistconGridview\Ejemplo 15 Asp DropdownlistconGridview\obj\Debug\Ejemplo 15 Asp DropdownlistconGridview.pdb

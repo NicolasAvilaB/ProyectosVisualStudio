@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SATModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2006/04/edm">
+  <EntityContainer Name="SATEntities1">
+    <EntitySet Name="OrdenTrabajo" EntityType="SATModel.OrdenTrabajo" />
+    <EntitySet Name="Precio" EntityType="SATModel.Precio" />
+    <EntitySet Name="PrecioRepuesto" EntityType="SATModel.PrecioRepuesto" />
+    <EntitySet Name="PrecioServicio" EntityType="SATModel.PrecioServicio" />
+    <EntitySet Name="Repuesto" EntityType="SATModel.Repuesto" />
+    <EntitySet Name="RepuestoOrden" EntityType="SATModel.RepuestoOrden" />
+    <EntitySet Name="Servicio" EntityType="SATModel.Servicio" />
+    <EntitySet Name="ServiciosOrden" EntityType="SATModel.ServiciosOrden" />
+    <AssociationSet Name="FK__RepuestoO__idOrd__2FCF1A8A" Association="SATModel.FK__RepuestoO__idOrd__2FCF1A8A">
+      <End Role="OrdenTrabajo" EntitySet="OrdenTrabajo" />
+      <End Role="RepuestoOrden" EntitySet="RepuestoOrden" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Servicios__idOrd__19DFD96B" Association="SATModel.FK__Servicios__idOrd__19DFD96B">
+      <End Role="OrdenTrabajo" EntitySet="OrdenTrabajo" />
+      <End Role="ServiciosOrden" EntitySet="ServiciosOrden" />
+    </AssociationSet>
+    <AssociationSet Name="FK__PrecioRep__idPre__3CF40B7E" Association="SATModel.FK__PrecioRep__idPre__3CF40B7E">
+      <End Role="Precio" EntitySet="Precio" />
+      <End Role="PrecioRepuesto" EntitySet="PrecioRepuesto" />
+    </AssociationSet>
+    <AssociationSet Name="FK__PrecioSer__idPre__308E3499" Association="SATModel.FK__PrecioSer__idPre__308E3499">
+      <End Role="Precio" EntitySet="Precio" />
+      <End Role="PrecioServicio" EntitySet="PrecioServicio" />
+    </AssociationSet>
+    <AssociationSet Name="FK__PrecioRep__idRep__3DE82FB7" Association="SATModel.FK__PrecioRep__idRep__3DE82FB7">
+      <End Role="Repuesto" EntitySet="Repuesto" />
+      <End Role="PrecioRepuesto" EntitySet="PrecioRepuesto" />
+    </AssociationSet>
+    <AssociationSet Name="FK__RepuestoO__idPre__3EDC53F0" Association="SATModel.FK__RepuestoO__idPre__3EDC53F0">
+      <End Role="PrecioRepuesto" EntitySet="PrecioRepuesto" />
+      <End Role="RepuestoOrden" EntitySet="RepuestoOrden" />
+    </AssociationSet>
+    <AssociationSet Name="FK__PrecioSer__idSer__318258D2" Association="SATModel.FK__PrecioSer__idSer__318258D2">
+      <End Role="Servicio" EntitySet="Servicio" />
+      <End Role="PrecioServicio" EntitySet="PrecioServicio" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Servicios__idPre__336AA144" Association="SATModel.FK__Servicios__idPre__336AA144">
+      <End Role="PrecioServicio" EntitySet="PrecioServicio" />
+      <End Role="ServiciosOrden" EntitySet="ServiciosOrden" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="OrdenTrabajo">
+    <Key>
+      <PropertyRef Name="idOrdenTrabajo" />
+    </Key>
+    <Property Name="idOrdenTrabajo" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="fechaOrdenTrabajo" Type="DateTime" />
+    <Property Name="estadoOrdenTrabajo" Type="Byte" Nullable="false" />
+    <Property Name="descOrdenTrabajo" Type="String" MaxLength="500" Unicode="true" FixedLength="false" />
+    <Property Name="iConcurrenciaOrdenTrabajo" Type="Int32" />
+    <Property Name="idUsuario" Type="Int64" Nullable="false" />
+    <Property Name="idGarantia" Type="Int64" Nullable="false" />
+    <NavigationProperty Name="RepuestoOrden" Relationship="SATModel.FK__RepuestoO__idOrd__2FCF1A8A" FromRole="OrdenTrabajo" ToRole="RepuestoOrden" />
+    <NavigationProperty Name="ServiciosOrden" Relationship="SATModel.FK__Servicios__idOrd__19DFD96B" FromRole="OrdenTrabajo" ToRole="ServiciosOrden" />
+  </EntityType>
+  <EntityType Name="Precio">
+    <Key>
+      <PropertyRef Name="idPrecio" />
+    </Key>
+    <Property Name="idPrecio" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="montoPrecio" Type="Double" Nullable="false" />
+    <Property Name="fechaPrecio" Type="DateTime" Nullable="false" />
+    <NavigationProperty Name="PrecioRepuesto" Relationship="SATModel.FK__PrecioRep__idPre__3CF40B7E" FromRole="Precio" ToRole="PrecioRepuesto" />
+    <NavigationProperty Name="PrecioServicio" Relationship="SATModel.FK__PrecioSer__idPre__308E3499" FromRole="Precio" ToRole="PrecioServicio" />
+  </EntityType>
+  <EntityType Name="PrecioRepuesto">
+    <Key>
+      <PropertyRef Name="idPrecioRepuesto" />
+    </Key>
+    <Property Name="idPrecioRepuesto" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="fechaPrecioRepuesto" Type="DateTime" Nullable="false" />
+    <NavigationProperty Name="Precio" Relationship="SATModel.FK__PrecioRep__idPre__3CF40B7E" FromRole="PrecioRepuesto" ToRole="Precio" />
+    <NavigationProperty Name="Repuesto" Relationship="SATModel.FK__PrecioRep__idRep__3DE82FB7" FromRole="PrecioRepuesto" ToRole="Repuesto" />
+    <NavigationProperty Name="RepuestoOrden" Relationship="SATModel.FK__RepuestoO__idPre__3EDC53F0" FromRole="PrecioRepuesto" ToRole="RepuestoOrden" />
+  </EntityType>
+  <EntityType Name="PrecioServicio">
+    <Key>
+      <PropertyRef Name="idPrecioServicio" />
+    </Key>
+    <Property Name="idPrecioServicio" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="fechaPrecioServicio" Type="DateTime" Nullable="false" />
+    <NavigationProperty Name="Precio" Relationship="SATModel.FK__PrecioSer__idPre__308E3499" FromRole="PrecioServicio" ToRole="Precio" />
+    <NavigationProperty Name="Servicio" Relationship="SATModel.FK__PrecioSer__idSer__318258D2" FromRole="PrecioServicio" ToRole="Servicio" />
+    <NavigationProperty Name="ServiciosOrden" Relationship="SATModel.FK__Servicios__idPre__336AA144" FromRole="PrecioServicio" ToRole="ServiciosOrden" />
+  </EntityType>
+  <EntityType Name="Repuesto">
+    <Key>
+      <PropertyRef Name="idRepuesto" />
+    </Key>
+    <Property Name="idRepuesto" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="descRepuesto" Type="String" Nullable="false" MaxLength="100" Unicode="true" FixedLength="false" />
+    <Property Name="iConcurrenciaRepuesto" Type="Int32" />
+    <Property Name="idMarca" Type="Int64" />
+    <NavigationProperty Name="PrecioRepuesto" Relationship="SATModel.FK__PrecioRep__idRep__3DE82FB7" FromRole="Repuesto" ToRole="PrecioRepuesto" />
+  </EntityType>
+  <EntityType Name="RepuestoOrden">
+    <Key>
+      <PropertyRef Name="idRepuestoOrden" />
+    </Key>
+    <Property Name="idRepuestoOrden" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="cantidadRepuestoOrden" Type="Int32" Nullable="false" />
+    <Property Name="fechaRepuesto" Type="DateTime" Nullable="false" />
+    <Property Name="iConcurrenciaRepuestoOrden" Type="Int32" />
+    <NavigationProperty Name="OrdenTrabajo" Relationship="SATModel.FK__RepuestoO__idOrd__2FCF1A8A" FromRole="RepuestoOrden" ToRole="OrdenTrabajo" />
+    <NavigationProperty Name="PrecioRepuesto" Relationship="SATModel.FK__RepuestoO__idPre__3EDC53F0" FromRole="RepuestoOrden" ToRole="PrecioRepuesto" />
+  </EntityType>
+  <EntityType Name="Servicio">
+    <Key>
+      <PropertyRef Name="idServicio" />
+    </Key>
+    <Property Name="idServicio" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nombreServicio" Type="String" Nullable="false" MaxLength="200" Unicode="true" FixedLength="false" />
+    <Property Name="iConcurrenciaServicio" Type="Int32" />
+    <NavigationProperty Name="PrecioServicio" Relationship="SATModel.FK__PrecioSer__idSer__318258D2" FromRole="Servicio" ToRole="PrecioServicio" />
+  </EntityType>
+  <EntityType Name="ServiciosOrden">
+    <Key>
+      <PropertyRef Name="idServiciosOrden" />
+    </Key>
+    <Property Name="idServiciosOrden" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="cantidadServicio" Type="Int32" Nullable="false" />
+    <Property Name="fechaServicio" Type="DateTime" Nullable="false" />
+    <Property Name="objServicio" Type="String" MaxLength="300" Unicode="true" FixedLength="false" />
+    <Property Name="iConcurrenciaServicioOrden" Type="Int32" />
+    <NavigationProperty Name="OrdenTrabajo" Relationship="SATModel.FK__Servicios__idOrd__19DFD96B" FromRole="ServiciosOrden" ToRole="OrdenTrabajo" />
+    <NavigationProperty Name="PrecioServicio" Relationship="SATModel.FK__Servicios__idPre__336AA144" FromRole="ServiciosOrden" ToRole="PrecioServicio" />
+  </EntityType>
+  <Association Name="FK__RepuestoO__idOrd__2FCF1A8A">
+    <End Role="OrdenTrabajo" Type="SATModel.OrdenTrabajo" Multiplicity="0..1" />
+    <End Role="RepuestoOrden" Type="SATModel.RepuestoOrden" Multiplicity="*" />
+  </Association>
+  <Association Name="FK__Servicios__idOrd__19DFD96B">
+    <End Role="OrdenTrabajo" Type="SATModel.OrdenTrabajo" Multiplicity="0..1" />
+    <End Role="ServiciosOrden" Type="SATModel.ServiciosOrden" Multiplicity="*" />
+  </Association>
+  <Association Name="FK__PrecioRep__idPre__3CF40B7E">
+    <End Role="Precio" Type="SATModel.Precio" Multiplicity="1" />
+    <End Role="PrecioRepuesto" Type="SATModel.PrecioRepuesto" Multiplicity="*" />
+  </Association>
+  <Association Name="FK__PrecioSer__idPre__308E3499">
+    <End Role="Precio" Type="SATModel.Precio" Multiplicity="1" />
+    <End Role="PrecioServicio" Type="SATModel.PrecioServicio" Multiplicity="*" />
+  </Association>
+  <Association Name="FK__PrecioRep__idRep__3DE82FB7">
+    <End Role="Repuesto" Type="SATModel.Repuesto" Multiplicity="0..1" />
+    <End Role="PrecioRepuesto" Type="SATModel.PrecioRepuesto" Multiplicity="*" />
+  </Association>
+  <Association Name="FK__RepuestoO__idPre__3EDC53F0">
+    <End Role="PrecioRepuesto" Type="SATModel.PrecioRepuesto" Multiplicity="0..1" />
+    <End Role="RepuestoOrden" Type="SATModel.RepuestoOrden" Multiplicity="*" />
+  </Association>
+  <Association Name="FK__PrecioSer__idSer__318258D2">
+    <End Role="Servicio" Type="SATModel.Servicio" Multiplicity="0..1" />
+    <End Role="PrecioServicio" Type="SATModel.PrecioServicio" Multiplicity="*" />
+  </Association>
+  <Association Name="FK__Servicios__idPre__336AA144">
+    <End Role="PrecioServicio" Type="SATModel.PrecioServicio" Multiplicity="0..1" />
+    <End Role="ServiciosOrden" Type="SATModel.ServiciosOrden" Multiplicity="*" />
+  </Association>
+</Schema>

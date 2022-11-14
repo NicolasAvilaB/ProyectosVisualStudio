@@ -1,0 +1,10 @@
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\pruebalogindesplegable\pruebalogindesplegable\bin\Debug\pruebalogindesplegable.exe
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\pruebalogindesplegable\pruebalogindesplegable\bin\Debug\pruebalogindesplegable.pdb
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\pruebalogindesplegable\pruebalogindesplegable\bin\Debug\pruebalogindesplegable.xml
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\pruebalogindesplegable\pruebalogindesplegable\obj\Debug\pruebalogindesplegable.vbprojResolveAssemblyReference.cache
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\pruebalogindesplegable\pruebalogindesplegable\obj\Debug\pruebalogindesplegable.Form1.resources
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\pruebalogindesplegable\pruebalogindesplegable\obj\Debug\pruebalogindesplegable.Resources.resources
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\pruebalogindesplegable\pruebalogindesplegable\obj\Debug\pruebalogindesplegable.vbproj.GenerateResource.Cache
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\pruebalogindesplegable\pruebalogindesplegable\obj\Debug\pruebalogindesplegable.exe
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\pruebalogindesplegable\pruebalogindesplegable\obj\Debug\pruebalogindesplegable.xml
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\pruebalogindesplegable\pruebalogindesplegable\obj\Debug\pruebalogindesplegable.pdb

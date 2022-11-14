@@ -1,0 +1,14 @@
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\dfb\dfb\bin\Debug\dfb.exe.config
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\dfb\dfb\bin\Debug\dfb.exe
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\dfb\dfb\bin\Debug\dfb.pdb
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\dfb\dfb\bin\Debug\dfb.xml
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\dfb\dfb\obj\Debug\dfb.Form1.resources
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\dfb\dfb\obj\Debug\dfb.Resources.resources
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\dfb\dfb\obj\Debug\dfb.vbproj.GenerateResource.Cache
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\dfb\dfb\obj\Debug\dfb.exe
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\dfb\dfb\obj\Debug\dfb.xml
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\dfb\dfb\obj\Debug\dfb.pdb
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\dfb\dfb\bin\Debug\dfb.exe.config
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\dfb\dfb\obj\Debug\dfb.exe
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\dfb\dfb\obj\Debug\dfb.xml
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\dfb\dfb\obj\Debug\dfb.pdb

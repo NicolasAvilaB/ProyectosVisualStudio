@@ -1,0 +1,27 @@
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Sistema Ventas\Sistema Ventas\bin\Debug\Sistema Ventas.exe.config
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Sistema Ventas\Sistema Ventas\bin\Debug\Sistema Ventas.exe
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Sistema Ventas\Sistema Ventas\bin\Debug\Sistema Ventas.pdb
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Sistema Ventas\Sistema Ventas\bin\Debug\Sistema Ventas.xml
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Sistema Ventas\Sistema Ventas\obj\Debug\Sistema_Ventas.Entrada.resources
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Sistema Ventas\Sistema Ventas\obj\Debug\Sistema_Ventas.Resources.resources
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Sistema Ventas\Sistema Ventas\obj\Debug\Sistema Ventas.vbproj.GenerateResource.Cache
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Sistema Ventas\Sistema Ventas\obj\Debug\Sistema Ventas.exe
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Sistema Ventas\Sistema Ventas\obj\Debug\Sistema Ventas.xml
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Sistema Ventas\Sistema Ventas\obj\Debug\Sistema Ventas.pdb
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Sistema Ventas\Sistema Ventas\obj\Debug\Sistema_Ventas.Menu1.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Sistema Ventas\Sistema Ventas\obj\Debug\Sistema_Ventas.Busca_Productos.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Sistema Ventas\Sistema Ventas\obj\Debug\Sistema_Ventas.Busqueda_Clientes1.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Sistema Ventas\Sistema Ventas\obj\Debug\Sistema_Ventas.Ventas1.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Sistema Ventas\Sistema Ventas\obj\Debug\Sistema_Ventas.Productos1.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\Sistema Ventas\Sistema Ventas\bin\Debug\Sistema Ventas.exe.config
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\Sistema Ventas\Sistema Ventas\obj\Debug\Sistema Ventas.exe
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\Sistema Ventas\Sistema Ventas\obj\Debug\Sistema Ventas.xml
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\Sistema Ventas\Sistema Ventas\obj\Debug\Sistema Ventas.pdb
+D:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Sistema Ventas\Sistema Ventas\bin\Debug\Sistema Ventas.exe.config
+D:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Sistema Ventas\Sistema Ventas\obj\Debug\Sistema Ventas.exe
+D:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Sistema Ventas\Sistema Ventas\obj\Debug\Sistema Ventas.xml
+D:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Sistema Ventas\Sistema Ventas\obj\Debug\Sistema Ventas.pdb
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Sistema Ventas\Sistema Ventas\bin\Debug\Sistema Ventas.exe.config
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Sistema Ventas\Sistema Ventas\obj\Debug\Sistema Ventas.exe
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Sistema Ventas\Sistema Ventas\obj\Debug\Sistema Ventas.xml
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Sistema Ventas\Sistema Ventas\obj\Debug\Sistema Ventas.pdb

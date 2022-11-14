@@ -1,0 +1,40 @@
+﻿Imports MySql.Data.MySqlClient
+Module Modulo_Conexion
+    Friend Conexion As New MySqlConnection
+    Friend SC As New MySqlCommand
+    Friend DA As New MySqlDataAdapter
+    Friend DS As New DataSet()
+    Friend DT As New DataTable
+    Friend SC1 As New MySqlCommand
+    Friend DA1 As New MySqlDataAdapter
+    Friend DS1 As New DataSet()
+    Friend DT1 As New DataTable
+    Friend SC2 As New MySqlCommand
+    Friend DA2 As New MySqlDataAdapter
+    Friend DS2 As New DataSet()
+    Friend DT2 As New DataTable
+    Friend SC3 As New MySqlCommand
+    Friend DA3 As New MySqlDataAdapter
+    Friend DS3 As New DataSet()
+    Friend DT3 As New DataTable
+    Friend SC4 As New MySqlCommand
+    Friend DA4 As New MySqlDataAdapter
+    Friend DS4 As New DataSet()
+    Friend DT4 As New DataTable
+    Friend SC5 As New MySqlCommand
+    Friend DA5 As New MySqlDataAdapter
+    Friend DS5 As New DataSet()
+    Friend DT5 As New DataTable
+    Friend SC6 As New MySqlCommand
+    Friend DA6 As New MySqlDataAdapter
+    Friend DS6 As New DataSet()
+    Friend DT6 As New DataTable
+    Friend SC7 As New MySqlCommand
+    Friend DA7 As New MySqlDataAdapter
+    Friend DS7 As New DataSet()
+    Friend DT7 As New DataTable
+    Friend SC8 As New MySqlCommand
+    Friend DA8 As New MySqlDataAdapter
+    Friend DS8 As New DataSet()
+    Friend DT8 As New DataTable
+End Module

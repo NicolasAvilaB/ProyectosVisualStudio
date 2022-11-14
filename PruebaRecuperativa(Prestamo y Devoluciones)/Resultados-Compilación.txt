@@ -1,0 +1,11 @@
+﻿1>------ Operación Compilar iniciada: proyecto: PruebaRecuperativa, configuración: Debug Any CPU ------
+1>  PruebaRecuperativa -> C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\PruebaRecuperativa(Prestamo y Devoluciones)\PruebaRecuperativa\bin\Debug\PruebaRecuperativa.exe
+Compilando PruebaRecuperativa...
+2>------ Publicación iniciada: proyecto: PruebaRecuperativa, configuración: Debug Any CPU ------
+Conectando con 'ftp://ftp.super9.esy.es/home/u946226876/public_html/'...
+Publicando archivos...
+Publicación correcta.
+Advertencia: No se puede ver la aplicación publicada en http://desktop-pp436d6/PruebaRecuperativa/publish.htm.
+http://desktop-pp436d6/PruebaRecuperativa/publish.htm
+========== Compilar: 1 correctos, 0 incorrectos, 0 actualizados, 0 omitidos ==========
+========== Publicación: 1 procesados, 0 no procesados, 0 omitidos ==========

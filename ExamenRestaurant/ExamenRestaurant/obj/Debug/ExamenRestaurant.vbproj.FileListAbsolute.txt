@@ -1,0 +1,13 @@
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\ExamenRestaurant\ExamenRestaurant\obj\Debug\ExamenRestaurant.vbprojResolveAssemblyReference.cache
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\ExamenRestaurant\ExamenRestaurant\obj\Debug\ExamenRestaurant.MenuMesas.resources
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\ExamenRestaurant\ExamenRestaurant\obj\Debug\ExamenRestaurant.Resources.resources
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\ExamenRestaurant\ExamenRestaurant\obj\Debug\ExamenRestaurant.vbproj.GenerateResource.Cache
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\ExamenRestaurant\ExamenRestaurant\obj\Debug\ExamenRestaurant.xml
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\ExamenRestaurant\ExamenRestaurant\bin\Debug\ExamenRestaurant.exe
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\ExamenRestaurant\ExamenRestaurant\bin\Debug\ExamenRestaurant.pdb
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\ExamenRestaurant\ExamenRestaurant\bin\Debug\ExamenRestaurant.xml
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\ExamenRestaurant\ExamenRestaurant\obj\Debug\ExamenRestaurant.exe
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\ExamenRestaurant\ExamenRestaurant\obj\Debug\ExamenRestaurant.pdb
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\ExamenRestaurant\ExamenRestaurant\bin\Debug\MySql.Data.dll
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\ExamenRestaurant\ExamenRestaurant\obj\Debug\ExamenRestaurant.Administracion.resources
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\ExamenRestaurant\ExamenRestaurant\obj\Debug\ExamenRestaurant.Pedidos.resources

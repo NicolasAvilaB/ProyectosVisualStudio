@@ -1,0 +1,587 @@
+Enter password: ****
+Welcome to the MySQL monitor.  Commands end with ; or \g.
+Your MySQL connection id is 2
+Server version: 5.1.40-community MySQL Community Server (GPL)
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+mysql> show databases;
++--------------------+
+| Database           |
++--------------------+
+| information_schema |
+| bd_datos           |
+| bd_venta           |
+| mysql              |
+| test               |
++--------------------+
+5 rows in set (0.00 sec)
+
+mysql> create database db10/03/2016;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that
+corresponds to your MySQL server version for the right syntax to use near '/03/2
+016' at line 1
+mysql> create database db10032016;
+Query OK, 1 row affected (0.34 sec)
+
+mysql> show databases;
++--------------------+
+| Database           |
++--------------------+
+| information_schema |
+| bd_datos           |
+| bd_venta           |
+| db10032016         |
+| mysql              |
+| test               |
++--------------------+
+6 rows in set (0.00 sec)
+
+mysql> use db10032016;
+Database changed
+mysql> show tables
+    -> show tables;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that
+corresponds to your MySQL server version for the right syntax to use near 'show
+tables' at line 2
+mysql> show tables;
+Empty set (0.65 sec)
+
+mysql> create tables persona;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that
+corresponds to your MySQL server version for the right syntax to use near 'table
+s persona' at line 1
+mysql> create tables;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that
+corresponds to your MySQL server version for the right syntax to use near 'table
+s' at line 1
+mysql> create table personas;
+ERROR 1113 (42000): A table must have at least 1 column
+mysql> create table personas(rut varchar(10) primary key,
+    -> nombre varchar(50) not null,direccion varchar(50),
+    -> telefono int);
+Query OK, 0 rows affected (0.75 sec)
+
+mysql> show tables;
++----------------------+
+| Tables_in_db10032016 |
++----------------------+
+| personas             |
++----------------------+
+1 row in set (0.03 sec)
+
+mysql> show tables;
++----------------------+
+| Tables_in_db10032016 |
++----------------------+
+| personas             |
++----------------------+
+1 row in set (0.00 sec)
+
+mysql> show tables;
++----------------------+
+| Tables_in_db10032016 |
++----------------------+
+| personas             |
++----------------------+
+1 row in set (0.00 sec)
+
+mysql> show tables;
++----------------------+
+| Tables_in_db10032016 |
++----------------------+
+| personas             |
++----------------------+
+1 row in set (0.00 sec)
+
+mysql> describe personas;
++-----------+-------------+------+-----+---------+-------+
+| Field     | Type        | Null | Key | Default | Extra |
++-----------+-------------+------+-----+---------+-------+
+| rut       | varchar(10) | NO   | PRI | NULL    |       |
+| nombre    | varchar(50) | NO   |     | NULL    |       |
+| direccion | varchar(50) | YES  |     | NULL    |       |
+| telefono  | int(11)     | YES  |     | NULL    |       |
++-----------+-------------+------+-----+---------+-------+
+4 rows in set (0.14 sec)
+
+mysql> describe personas;
++-----------+-------------+------+-----+---------+-------+
+| Field     | Type        | Null | Key | Default | Extra |
++-----------+-------------+------+-----+---------+-------+
+| rut       | varchar(10) | NO   | PRI | NULL    |       |
+| nombre    | varchar(50) | NO   |     | NULL    |       |
+| direccion | varchar(50) | YES  |     | NULL    |       |
+| telefono  | int(11)     | YES  |     | NULL    |       |
++-----------+-------------+------+-----+---------+-------+
+4 rows in set (0.04 sec)
+
+mysql> create table productos(codigo int primary key ai,
+    -> nombre varchar(50) not null,
+    -> cantidad int, precio int, codigo_categoria int);
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that
+corresponds to your MySQL server version for the right syntax to use near 'ai,
+nombre varchar(50) not null,
+cantidad int, precio int, codigo_categoria in' at line 1
+mysql> create table productos(codigo int primary key ai,
+    -> cantidad int
+    -> precio int
+    -> codigo_categoria int);
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that
+corresponds to your MySQL server version for the right syntax to use near 'ai,
+cantidad int
+precio int
+codigo_categoria int)' at line 1
+mysql> create table productos(codigo int primary key ai,
+    -> nombre varchar(50) not null,
+    -> cantidad int,
+    -> precio int,
+    -> codigo_categoria int);
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that
+corresponds to your MySQL server version for the right syntax to use near 'ai,
+nombre varchar(50) not null,
+cantidad int,
+precio int,
+codigo_categoria int' at line 1
+mysql> create table productos(codigo int primary key ai,nombre varchar(50) not n
+ull,cantidad int,precio int,codigo_categoria int);
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that
+corresponds to your MySQL server version for the right syntax to use near 'ai,no
+mbre varchar(50) not null,cantidad int,precio int,codigo_categoria int)' at line
+ 1
+mysql> create table productos(codigo int primary key auto_increment,
+    -> nombre varchar(50) not null
+    -> cantidad int,
+    -> precio int,
+    -> codigo_categoria int);
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that
+corresponds to your MySQL server version for the right syntax to use near 'canti
+dad int,
+precio int,
+codigo_categoria int)' at line 3
+mysql> use db10032016
+Database changed
+mysql> create table productos(codigo int primary key auto_increment,
+    -> nombre varchar(50) not null
+    -> cantidad int,
+    -> precio int,
+    -> codigo_categoria int);
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that
+corresponds to your MySQL server version for the right syntax to use near 'canti
+dad int,
+precio int,
+codigo_categoria int)' at line 3
+mysql> create table productos(codigo int primary key auto_increment,
+    -> nombre varchar(50) not null,
+    -> cantidad int,
+    -> precio int,
+    -> codigo_categoria int);
+Query OK, 0 rows affected (0.09 sec)
+
+mysql> describe productos;
++------------------+-------------+------+-----+---------+----------------+
+| Field            | Type        | Null | Key | Default | Extra          |
++------------------+-------------+------+-----+---------+----------------+
+| codigo           | int(11)     | NO   | PRI | NULL    | auto_increment |
+| nombre           | varchar(50) | NO   |     | NULL    |                |
+| cantidad         | int(11)     | YES  |     | NULL    |                |
+| precio           | int(11)     | YES  |     | NULL    |                |
+| codigo_categoria | int(11)     | YES  |     | NULL    |                |
++------------------+-------------+------+-----+---------+----------------+
+5 rows in set (0.04 sec)
+
+mysql> use db10032016
+Database changed
+mysql> show tables;
++----------------------+
+| Tables_in_db10032016 |
++----------------------+
+| personas             |
+| productos            |
++----------------------+
+2 rows in set (0.00 sec)
+
+mysql> use db10032016
+Database changed
+mysql> create table categoria
+    ->
+    ->
+    ->
+    ->
+    -> ;
+ERROR 1113 (42000): A table must have at least 1 column
+mysql> create table categorias(codigo int primary key,
+    -> nombre varchar(50) not null,
+    -> descripcion varchar(50) default"sin descripcion");
+Query OK, 0 rows affected (0.10 sec)
+
+mysql> show tables
+    -> so
+    -> dfg
+    -> ;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that
+corresponds to your MySQL server version for the right syntax to use near 'so
+dfg' at line 2
+mysql> use db10032016
+Database changed
+mysql> show tables
+    -> show tables;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that
+corresponds to your MySQL server version for the right syntax to use near 'show
+tables' at line 2
+mysql> use db10032016
+Database changed
+mysql> show tables;
++----------------------+
+| Tables_in_db10032016 |
++----------------------+
+| categorias           |
+| personas             |
+| productos            |
++----------------------+
+3 rows in set (0.00 sec)
+
+mysql> describe categorias;
++-------------+-------------+------+-----+-----------------+-------+
+| Field       | Type        | Null | Key | Default         | Extra |
++-------------+-------------+------+-----+-----------------+-------+
+| codigo      | int(11)     | NO   | PRI | NULL            |       |
+| nombre      | varchar(50) | NO   |     | NULL            |       |
+| descripcion | varchar(50) | YES  |     | sin descripcion |       |
++-------------+-------------+------+-----+-----------------+-------+
+3 rows in set (0.03 sec)
+
+mysql> describe productos;
++------------------+-------------+------+-----+---------+----------------+
+| Field            | Type        | Null | Key | Default | Extra          |
++------------------+-------------+------+-----+---------+----------------+
+| codigo           | int(11)     | NO   | PRI | NULL    | auto_increment |
+| nombre           | varchar(50) | NO   |     | NULL    |                |
+| cantidad         | int(11)     | YES  |     | NULL    |                |
+| precio           | int(11)     | YES  |     | NULL    |                |
+| codigo_categoria | int(11)     | YES  |     | NULL    |                |
++------------------+-------------+------+-----+---------+----------------+
+5 rows in set (0.08 sec)
+
+mysql> describe personas;
++-----------+-------------+------+-----+---------+-------+
+| Field     | Type        | Null | Key | Default | Extra |
++-----------+-------------+------+-----+---------+-------+
+| rut       | varchar(10) | NO   | PRI | NULL    |       |
+| nombre    | varchar(50) | NO   |     | NULL    |       |
+| direccion | varchar(50) | YES  |     | NULL    |       |
+| telefono  | int(11)     | YES  |     | NULL    |       |
++-----------+-------------+------+-----+---------+-------+
+4 rows in set (0.30 sec)
+
+mysql> show tables;
++----------------------+
+| Tables_in_db10032016 |
++----------------------+
+| categorias           |
+| personas             |
+| productos            |
++----------------------+
+3 rows in set (0.00 sec)
+
+mysql>
+
+mysql> use db10032016
+Database changed
+mysql> show tables;
++----------------------+
+| Tables_in_db10032016 |
++----------------------+
+| personas             |
+| productos            |
++----------------------+
+2 rows in set (0.00 sec)
+
+mysql> use db10032016
+Database changed
+mysql> create table categoria
+    ->
+    ->
+    ->
+    ->
+    -> ;
+ERROR 1113 (42000): A table must have at least 1 column
+mysql> create table categorias(codigo int primary key,
+    -> nombre varchar(50) not null,
+    -> descripcion varchar(50) default"sin descripcion");
+Query OK, 0 rows affected (0.10 sec)
+
+mysql> show tables
+    -> so
+    -> dfg
+    -> ;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that
+corresponds to your MySQL server version for the right syntax to use near 'so
+dfg' at line 2
+mysql> use db10032016
+Database changed
+mysql> show tables
+    -> show tables;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that
+corresponds to your MySQL server version for the right syntax to use near 'show
+tables' at line 2
+mysql> use db10032016
+Database changed
+mysql> show tables;
++----------------------+
+| Tables_in_db10032016 |
++----------------------+
+| categorias           |
+| personas             |
+| productos            |
++----------------------+
+3 rows in set (0.00 sec)
+
+mysql> describe categorias;
++-------------+-------------+------+-----+-----------------+-------+
+| Field       | Type        | Null | Key | Default         | Extra |
++-------------+-------------+------+-----+-----------------+-------+
+| codigo      | int(11)     | NO   | PRI | NULL            |       |
+| nombre      | varchar(50) | NO   |     | NULL            |       |
+| descripcion | varchar(50) | YES  |     | sin descripcion |       |
++-------------+-------------+------+-----+-----------------+-------+
+3 rows in set (0.03 sec)
+
+mysql> describe productos;
++------------------+-------------+------+-----+---------+----------------+
+| Field            | Type        | Null | Key | Default | Extra          |
++------------------+-------------+------+-----+---------+----------------+
+| codigo           | int(11)     | NO   | PRI | NULL    | auto_increment |
+| nombre           | varchar(50) | NO   |     | NULL    |                |
+| cantidad         | int(11)     | YES  |     | NULL    |                |
+| precio           | int(11)     | YES  |     | NULL    |                |
+| codigo_categoria | int(11)     | YES  |     | NULL    |                |
++------------------+-------------+------+-----+---------+----------------+
+5 rows in set (0.08 sec)
+
+mysql> describe personas;
++-----------+-------------+------+-----+---------+-------+
+| Field     | Type        | Null | Key | Default | Extra |
++-----------+-------------+------+-----+---------+-------+
+| rut       | varchar(10) | NO   | PRI | NULL    |       |
+| nombre    | varchar(50) | NO   |     | NULL    |       |
+| direccion | varchar(50) | YES  |     | NULL    |       |
+| telefono  | int(11)     | YES  |     | NULL    |       |
++-----------+-------------+------+-----+---------+-------+
+4 rows in set (0.30 sec)
+
+mysql> show tables;
++----------------------+
+| Tables_in_db10032016 |
++----------------------+
+| categorias           |
+| personas             |
+| productos            |
++----------------------+
+3 rows in set (0.00 sec)
+
+mysql> alter table personas rename clientes;
+Query OK, 0 rows affected (0.09 sec)
+
+mysql> show tables3
+    -> show tables;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that
+corresponds to your MySQL server version for the right syntax to use near 'table
+s3
+show tables' at line 1
+mysql> show tables;
++----------------------+
+| Tables_in_db10032016 |
++----------------------+
+| categorias           |
+| clientes             |
+| productos            |
++----------------------+
+3 rows in set (0.04 sec)
+
+mysql> describe clientes;
++-----------+-------------+------+-----+---------+-------+
+| Field     | Type        | Null | Key | Default | Extra |
++-----------+-------------+------+-----+---------+-------+
+| rut       | varchar(10) | NO   | PRI | NULL    |       |
+| nombre    | varchar(50) | NO   |     | NULL    |       |
+| direccion | varchar(50) | YES  |     | NULL    |       |
+| telefono  | int(11)     | YES  |     | NULL    |       |
++-----------+-------------+------+-----+---------+-------+
+4 rows in set (0.02 sec)
+
+mysql> alter table clientes change nombre nombrecompleto varchar(100) not null;
+Query OK, 0 rows affected (0.22 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+mysql> alter table clientes change nombrecompleto varchar(150) not null;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that
+corresponds to your MySQL server version for the right syntax to use near 'varch
+ar(150) not null' at line 1
+mysql> alter table clientes alter nombrecompleto varchar(150) not null;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that
+corresponds to your MySQL server version for the right syntax to use near 'varch
+ar(150) not null' at line 1
+mysql> alter table clientes alter nombrecompleto varchar(100) varchar(150) not n
+ull;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that
+corresponds to your MySQL server version for the right syntax to use near 'varch
+ar(100) varchar(150) not null' at line 1
+mysql> alter table clientes change nombrecompleto varchar(100) varchar(150) not
+null;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that
+corresponds to your MySQL server version for the right syntax to use near 'varch
+ar(100) varchar(150) not null' at line 1
+mysql> alter table clientes nombrecompleto change varchar(100) varchar(150) not
+null;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that
+corresponds to your MySQL server version for the right syntax to use near 'nombr
+ecompleto change varchar(100) varchar(150) not null' at line 1
+mysql> alter table clientes change nombrecompleto nombrecompleto
+    -> varchar(150) not null;
+Query OK, 0 rows affected (0.15 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+mysql> describe clientes;
++----------------+--------------+------+-----+---------+-------+
+| Field          | Type         | Null | Key | Default | Extra |
++----------------+--------------+------+-----+---------+-------+
+| rut            | varchar(10)  | NO   | PRI | NULL    |       |
+| nombrecompleto | varchar(150) | NO   |     | NULL    |       |
+| direccion      | varchar(50)  | YES  |     | NULL    |       |
+| telefono       | int(11)      | YES  |     | NULL    |       |
++----------------+--------------+------+-----+---------+-------+
+4 rows in set (0.05 sec)
+
+mysql> alter table clientes add ciudad varchar(50);
+Query OK, 0 rows affected (0.14 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+mysql> describe clientes;}
++----------------+--------------+------+-----+---------+-------+
+| Field          | Type         | Null | Key | Default | Extra |
++----------------+--------------+------+-----+---------+-------+
+| rut            | varchar(10)  | NO   | PRI | NULL    |       |
+| nombrecompleto | varchar(150) | NO   |     | NULL    |       |
+| direccion      | varchar(50)  | YES  |     | NULL    |       |
+| telefono       | int(11)      | YES  |     | NULL    |       |
+| ciudad         | varchar(50)  | YES  |     | NULL    |       |
++----------------+--------------+------+-----+---------+-------+
+5 rows in set (0.03 sec)
+
+    -> kdf
+    -> ;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that
+corresponds to your MySQL server version for the right syntax to use near '}
+kdf' at line 1
+mysql> describe clientes;
++----------------+--------------+------+-----+---------+-------+
+| Field          | Type         | Null | Key | Default | Extra |
++----------------+--------------+------+-----+---------+-------+
+| rut            | varchar(10)  | NO   | PRI | NULL    |       |
+| nombrecompleto | varchar(150) | NO   |     | NULL    |       |
+| direccion      | varchar(50)  | YES  |     | NULL    |       |
+| telefono       | int(11)      | YES  |     | NULL    |       |
+| ciudad         | varchar(50)  | YES  |     | NULL    |       |
++----------------+--------------+------+-----+---------+-------+
+5 rows in set (0.02 sec)
+
+mysql> alter table clientes change nombrecompleto nombre not null add city varch
+ar(80) drop city;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that
+corresponds to your MySQL server version for the right syntax to use near 'not n
+ull add city varchar(80) drop city' at line 1
+mysql> alter table clientes change nombrecompleto nombre not null alter table ad
+d city varchar(50) alter table clientes drop city;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that
+corresponds to your MySQL server version for the right syntax to use near 'not n
+ull alter table add city varchar(50) alter table clientes drop city' at line 1
+mysql> alter table clientes change nombrecompleto nombre not null, alter table a
+dd city varchar(50), alter table clientes drop city;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that
+corresponds to your MySQL server version for the right syntax to use near 'not n
+ull, alter table add city varchar(50), alter table clientes drop city' at line 1
+
+mysql> alter table clientes change nombrecompleto nombre not null, alter table c
+lientes add city varchar(50), alter table clientes drop city;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that
+corresponds to your MySQL server version for the right syntax to use near 'not n
+ull, alter table clientes add city varchar(50), alter table clientes drop c' at
+line 1
+mysql> alter table clientes change nombrecompleto nombre not null alter table cl
+ientes add city varchar(50) alter table clientes drop city;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that
+corresponds to your MySQL server version for the right syntax to use near 'not n
+ull alter table clientes add city varchar(50) alter table clientes drop cit' at
+line 1
+mysql> alter table clientes change nombrecompleto nombre varchar(150) not null
+    -> add citi varchar(50), drop telefono;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that
+corresponds to your MySQL server version for the right syntax to use near 'add c
+iti varchar(50), drop telefono' at line 2
+mysql> alter table clientes change nombrecompleto nombre varchar(150) not null,
+    -> add citi varchar(50), drop telefono;
+Query OK, 0 rows affected (0.09 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+mysql> describe clientes;
++-----------+--------------+------+-----+---------+-------+
+| Field     | Type         | Null | Key | Default | Extra |
++-----------+--------------+------+-----+---------+-------+
+| rut       | varchar(10)  | NO   | PRI | NULL    |       |
+| nombre    | varchar(150) | NO   |     | NULL    |       |
+| direccion | varchar(50)  | YES  |     | NULL    |       |
+| ciudad    | varchar(50)  | YES  |     | NULL    |       |
+| citi      | varchar(50)  | YES  |     | NULL    |       |
++-----------+--------------+------+-----+---------+-------+
+5 rows in set (0.04 sec)
+
+mysql> hjwjwhwjhshhswjwuwwuwqiuwqiuw
+    -> xD
+    -> whatsapp, meter
+    -> ;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that
+corresponds to your MySQL server version for the right syntax to use near 'hjwjw
+hwjhshhswjwuwwuwqiuwqiuw
+xD
+whatsapp, meter' at line 1
+mysql> create table Proveedores(rut varchar(10) primary key,
+    -> ;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that
+corresponds to your MySQL server version for the right syntax to use near '' at
+line 1
+mysql> use db10032016
+Database changed
+mysql> create table Proveedores(rut varchar(10) primary key,
+    -> nombre varchar(50) not null,
+    -> direccion varchar(50),
+    -> telefono int);
+Query OK, 0 rows affected (0.09 sec)
+
+mysql> describe clientes;
++-----------+--------------+------+-----+---------+-------+
+| Field     | Type         | Null | Key | Default | Extra |
++-----------+--------------+------+-----+---------+-------+
+| rut       | varchar(10)  | NO   | PRI | NULL    |       |
+| nombre    | varchar(150) | NO   |     | NULL    |       |
+| direccion | varchar(50)  | YES  |     | NULL    |       |
+| ciudad    | varchar(50)  | YES  |     | NULL    |       |
+| citi      | varchar(50)  | YES  |     | NULL    |       |
++-----------+--------------+------+-----+---------+-------+
+5 rows in set (0.00 sec)
+
+mysql> show tables;
++----------------------+
+| Tables_in_db10032016 |
++----------------------+
+| categorias           |
+| clientes             |
+| productos            |
+| proveedores          |
++----------------------+
+4 rows in set (0.02 sec)
+
+mysql> drop table proveedores;
+Query OK, 0 rows affected (0.08 sec)
+
+mysql>

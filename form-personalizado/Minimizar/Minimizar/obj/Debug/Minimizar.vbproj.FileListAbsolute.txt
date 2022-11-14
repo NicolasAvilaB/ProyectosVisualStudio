@@ -1,0 +1,22 @@
+C:\Users\Humberto Molina l\Documents\Visual Studio 2015\Projects\Minimizar\Minimizar\bin\Debug\Minimizar.exe.config
+C:\Users\Humberto Molina l\Documents\Visual Studio 2015\Projects\Minimizar\Minimizar\bin\Debug\Minimizar.exe
+C:\Users\Humberto Molina l\Documents\Visual Studio 2015\Projects\Minimizar\Minimizar\bin\Debug\Minimizar.pdb
+C:\Users\Humberto Molina l\Documents\Visual Studio 2015\Projects\Minimizar\Minimizar\bin\Debug\Minimizar.xml
+C:\Users\Humberto Molina l\Documents\Visual Studio 2015\Projects\Minimizar\Minimizar\obj\Debug\Minimizar.vbprojResolveAssemblyReference.cache
+C:\Users\Humberto Molina l\Documents\Visual Studio 2015\Projects\Minimizar\Minimizar\obj\Debug\Minimizar.Resources.resources
+C:\Users\Humberto Molina l\Documents\Visual Studio 2015\Projects\Minimizar\Minimizar\obj\Debug\Minimizar.vbproj.GenerateResource.Cache
+C:\Users\Humberto Molina l\Documents\Visual Studio 2015\Projects\Minimizar\Minimizar\obj\Debug\Minimizar.exe
+C:\Users\Humberto Molina l\Documents\Visual Studio 2015\Projects\Minimizar\Minimizar\obj\Debug\Minimizar.xml
+C:\Users\Humberto Molina l\Documents\Visual Studio 2015\Projects\Minimizar\Minimizar\obj\Debug\Minimizar.pdb
+C:\Users\Humberto Molina l\Documents\Visual Studio 2015\Projects\Minimizar\Minimizar\obj\Debug\Minimizar.frmsuma.resources
+D:\Users\Nicolas Avila Biskup\Desktop\form-personalizado\Minimizar\Minimizar\bin\Debug\Minimizar.exe.config
+D:\Users\Nicolas Avila Biskup\Desktop\form-personalizado\Minimizar\Minimizar\obj\Debug\Minimizar.exe
+D:\Users\Nicolas Avila Biskup\Desktop\form-personalizado\Minimizar\Minimizar\obj\Debug\Minimizar.xml
+D:\Users\Nicolas Avila Biskup\Desktop\form-personalizado\Minimizar\Minimizar\obj\Debug\Minimizar.pdb
+D:\Users\Nicolas Avila Biskup\Desktop\form-personalizado\Minimizar\Minimizar\bin\Debug\Minimizar.exe
+D:\Users\Nicolas Avila Biskup\Desktop\form-personalizado\Minimizar\Minimizar\bin\Debug\Minimizar.pdb
+D:\Users\Nicolas Avila Biskup\Desktop\form-personalizado\Minimizar\Minimizar\bin\Debug\Minimizar.xml
+D:\Users\Nicolas Avila Biskup\Desktop\form-personalizado\Minimizar\Minimizar\obj\Debug\Minimizar.vbprojResolveAssemblyReference.cache
+D:\Users\Nicolas Avila Biskup\Desktop\form-personalizado\Minimizar\Minimizar\obj\Debug\Minimizar.frmsuma.resources
+D:\Users\Nicolas Avila Biskup\Desktop\form-personalizado\Minimizar\Minimizar\obj\Debug\Minimizar.Resources.resources
+D:\Users\Nicolas Avila Biskup\Desktop\form-personalizado\Minimizar\Minimizar\obj\Debug\Minimizar.vbproj.GenerateResource.Cache

@@ -1,0 +1,20 @@
+c:\users\nicolas\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+c:\users\nicolas\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+c:\users\nicolas\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.xml
+c:\users\nicolas\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\nicolas\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.Resources.resources
+c:\users\nicolas\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\nicolas\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\nicolas\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+c:\users\nicolas\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.xml
+c:\users\nicolas\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
+C:\Users\Nicolas\Documents\Visual Studio 2010\Projects\Visual Basic\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+C:\Users\Nicolas\Documents\Visual Studio 2010\Projects\Visual Basic\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.xml
+C:\Users\Nicolas\Documents\Visual Studio 2010\Projects\Visual Basic\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
+C:\Users\Nicolas\Documents\Visual Studio 2010\Projects\Visual Basic\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nicolas\Documents\Visual Studio 2010\Projects\Visual Basic\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.Resources.resources
+C:\Users\Nicolas\Documents\Visual Studio 2010\Projects\Visual Basic\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Nicolas\Documents\Visual Studio 2010\Projects\Visual Basic\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Nicolas\Documents\Visual Studio 2010\Projects\Visual Basic\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\Nicolas\Documents\Visual Studio 2010\Projects\Visual Basic\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Nicolas\Documents\Visual Studio 2010\Projects\Visual Basic\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.xml

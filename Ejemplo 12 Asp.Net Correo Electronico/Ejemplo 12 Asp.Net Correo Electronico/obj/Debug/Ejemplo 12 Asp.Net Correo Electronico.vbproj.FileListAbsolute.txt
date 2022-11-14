@@ -1,0 +1,9 @@
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Ejemplo 12 Asp.Net Correo Electronico\Ejemplo 12 Asp.Net Correo Electronico\bin\Ejemplo 12 Asp.Net Correo Electronico.dll.config
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Ejemplo 12 Asp.Net Correo Electronico\Ejemplo 12 Asp.Net Correo Electronico\bin\Ejemplo 12 Asp.Net Correo Electronico.dll
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Ejemplo 12 Asp.Net Correo Electronico\Ejemplo 12 Asp.Net Correo Electronico\bin\Ejemplo 12 Asp.Net Correo Electronico.pdb
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Ejemplo 12 Asp.Net Correo Electronico\Ejemplo 12 Asp.Net Correo Electronico\bin\Ejemplo 12 Asp.Net Correo Electronico.xml
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Ejemplo 12 Asp.Net Correo Electronico\Ejemplo 12 Asp.Net Correo Electronico\obj\Debug\Ejemplo_12_Asp.Net_Correo_Electronico.Resources.resources
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Ejemplo 12 Asp.Net Correo Electronico\Ejemplo 12 Asp.Net Correo Electronico\obj\Debug\Ejemplo 12 Asp.Net Correo Electronico.vbproj.GenerateResource.Cache
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Ejemplo 12 Asp.Net Correo Electronico\Ejemplo 12 Asp.Net Correo Electronico\obj\Debug\Ejemplo 12 Asp.Net Correo Electronico.dll
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Ejemplo 12 Asp.Net Correo Electronico\Ejemplo 12 Asp.Net Correo Electronico\obj\Debug\Ejemplo 12 Asp.Net Correo Electronico.xml
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Ejemplo 12 Asp.Net Correo Electronico\Ejemplo 12 Asp.Net Correo Electronico\obj\Debug\Ejemplo 12 Asp.Net Correo Electronico.pdb

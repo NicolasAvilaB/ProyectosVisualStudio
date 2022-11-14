@@ -1,0 +1,50 @@
+E:\Google Drive\Proyectos Visual Studio\Proyectos_2013\B_ChatServidor\B_ChatServidor\bin\Debug\B_ChatServidor.exe.config
+E:\Google Drive\Proyectos Visual Studio\Proyectos_2013\B_ChatServidor\B_ChatServidor\bin\Debug\B_ChatServidor.exe
+E:\Google Drive\Proyectos Visual Studio\Proyectos_2013\B_ChatServidor\B_ChatServidor\bin\Debug\B_ChatServidor.pdb
+E:\Google Drive\Proyectos Visual Studio\Proyectos_2013\B_ChatServidor\B_ChatServidor\bin\Debug\B_ChatServidor.xml
+E:\Google Drive\Proyectos Visual Studio\Proyectos_2013\B_ChatServidor\B_ChatServidor\bin\Debug\GTOServerClient.dll
+E:\Google Drive\Proyectos Visual Studio\Proyectos_2013\B_ChatServidor\B_ChatServidor\bin\Debug\Ionic.Zip.dll
+E:\Google Drive\Proyectos Visual Studio\Proyectos_2013\B_ChatServidor\B_ChatServidor\bin\Debug\GTOServerClient.pdb
+E:\Google Drive\Proyectos Visual Studio\Proyectos_2013\B_ChatServidor\B_ChatServidor\bin\Debug\GTOServerClient.xml
+E:\Google Drive\Proyectos Visual Studio\Proyectos_2013\B_ChatServidor\B_ChatServidor\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Google Drive\Proyectos Visual Studio\Proyectos_2013\B_ChatServidor\B_ChatServidor\obj\x86\Debug\B_ChatServidor.Resources.resources
+E:\Google Drive\Proyectos Visual Studio\Proyectos_2013\B_ChatServidor\B_ChatServidor\obj\x86\Debug\B_ChatServidor.WinChat.resources
+E:\Google Drive\Proyectos Visual Studio\Proyectos_2013\B_ChatServidor\B_ChatServidor\obj\x86\Debug\B_ChatServidor.WinServidor.resources
+E:\Google Drive\Proyectos Visual Studio\Proyectos_2013\B_ChatServidor\B_ChatServidor\obj\x86\Debug\ResGen.read.1.tlog
+E:\Google Drive\Proyectos Visual Studio\Proyectos_2013\B_ChatServidor\B_ChatServidor\obj\x86\Debug\ResGen.write.1.tlog
+E:\Google Drive\Proyectos Visual Studio\Proyectos_2013\B_ChatServidor\B_ChatServidor\obj\x86\Debug\B_ChatServidor.exe
+E:\Google Drive\Proyectos Visual Studio\Proyectos_2013\B_ChatServidor\B_ChatServidor\obj\x86\Debug\B_ChatServidor.xml
+E:\Google Drive\Proyectos Visual Studio\Proyectos_2013\B_ChatServidor\B_ChatServidor\obj\x86\Debug\B_ChatServidor.pdb
+C:\Users\Pc-123\Desktop\B_Chat\B_ChatServidor\B_ChatServidor\bin\Debug\B_ChatServidor.exe.config
+C:\Users\Pc-123\Desktop\B_Chat\B_ChatServidor\B_ChatServidor\obj\x86\Debug\B_ChatServidor.exe
+C:\Users\Pc-123\Desktop\B_Chat\B_ChatServidor\B_ChatServidor\obj\x86\Debug\B_ChatServidor.xml
+C:\Users\Pc-123\Desktop\B_Chat\B_ChatServidor\B_ChatServidor\obj\x86\Debug\B_ChatServidor.pdb
+C:\Users\Pc-123\Desktop\B_Chat\B_ChatServidor\B_ChatServidor\bin\Debug\B_ChatServidor.exe
+C:\Users\Pc-123\Desktop\B_Chat\B_ChatServidor\B_ChatServidor\bin\Debug\B_ChatServidor.pdb
+C:\Users\Pc-123\Desktop\B_Chat\B_ChatServidor\B_ChatServidor\bin\Debug\B_ChatServidor.xml
+C:\Users\Pc-123\Desktop\B_Chat\B_ChatServidor\B_ChatServidor\bin\Debug\GTOServerClient.dll
+C:\Users\Pc-123\Desktop\B_Chat\B_ChatServidor\B_ChatServidor\bin\Debug\Ionic.Zip.dll
+C:\Users\Pc-123\Desktop\B_Chat\B_ChatServidor\B_ChatServidor\bin\Debug\GTOServerClient.pdb
+C:\Users\Pc-123\Desktop\B_Chat\B_ChatServidor\B_ChatServidor\bin\Debug\GTOServerClient.xml
+C:\Users\Pc-123\Desktop\B_Chat\B_ChatServidor\B_ChatServidor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Pc-123\Desktop\B_Chat\B_ChatServidor\B_ChatServidor\obj\x86\Debug\B_ChatServidor.Resources.resources
+C:\Users\Pc-123\Desktop\B_Chat\B_ChatServidor\B_ChatServidor\obj\x86\Debug\B_ChatServidor.WinChat.resources
+C:\Users\Pc-123\Desktop\B_Chat\B_ChatServidor\B_ChatServidor\obj\x86\Debug\B_ChatServidor.WinServidor.resources
+C:\Users\Pc-123\Desktop\B_Chat\B_ChatServidor\B_ChatServidor\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Pc-123\Desktop\B_Chat\B_ChatServidor\B_ChatServidor\obj\x86\Debug\ResGen.write.1.tlog
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Chat\B_ChatServidor\B_ChatServidor\bin\Debug\B_ChatServidor.exe.config
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Chat\B_ChatServidor\B_ChatServidor\obj\x86\Debug\B_ChatServidor.exe
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Chat\B_ChatServidor\B_ChatServidor\obj\x86\Debug\B_ChatServidor.xml
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Chat\B_ChatServidor\B_ChatServidor\obj\x86\Debug\B_ChatServidor.pdb
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Chat\B_ChatServidor\B_ChatServidor\bin\Debug\B_ChatServidor.exe
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Chat\B_ChatServidor\B_ChatServidor\bin\Debug\B_ChatServidor.pdb
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Chat\B_ChatServidor\B_ChatServidor\bin\Debug\B_ChatServidor.xml
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Chat\B_ChatServidor\B_ChatServidor\bin\Debug\GTOServerClient.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Chat\B_ChatServidor\B_ChatServidor\bin\Debug\Ionic.Zip.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Chat\B_ChatServidor\B_ChatServidor\bin\Debug\GTOServerClient.pdb
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Chat\B_ChatServidor\B_ChatServidor\bin\Debug\GTOServerClient.xml
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Chat\B_ChatServidor\B_ChatServidor\obj\x86\Debug\B_ChatServidor.vbprojResolveAssemblyReference.cache
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Chat\B_ChatServidor\B_ChatServidor\obj\x86\Debug\B_ChatServidor.Resources.resources
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Chat\B_ChatServidor\B_ChatServidor\obj\x86\Debug\B_ChatServidor.WinChat.resources
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Chat\B_ChatServidor\B_ChatServidor\obj\x86\Debug\B_ChatServidor.WinServidor.resources
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Chat\B_ChatServidor\B_ChatServidor\obj\x86\Debug\B_ChatServidor.vbproj.GenerateResource.Cache

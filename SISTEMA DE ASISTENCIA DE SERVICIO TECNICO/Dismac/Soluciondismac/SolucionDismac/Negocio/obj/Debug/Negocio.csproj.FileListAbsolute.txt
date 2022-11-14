@@ -1,0 +1,27 @@
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Negocio\bin\Debug\Negocio.dll
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Negocio\bin\Debug\Negocio.pdb
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Negocio\bin\Debug\Dal.dll
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Negocio\bin\Debug\Utilitario.dll
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Negocio\bin\Debug\Dal.pdb
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Negocio\bin\Debug\Utilitario.pdb
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Negocio\obj\Debug\ResolveAssemblyReference.cache
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Negocio\obj\Debug\Negocio.dll
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Negocio\obj\Debug\Negocio.pdb
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Negocio\bin\Debug\Negocio.dll
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Negocio\bin\Debug\Negocio.pdb
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Negocio\bin\Debug\Dal.dll
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Negocio\bin\Debug\Utilitario.dll
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Negocio\bin\Debug\Dal.pdb
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Negocio\bin\Debug\Utilitario.pdb
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Negocio\obj\Debug\ResolveAssemblyReference.cache
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Negocio\obj\Debug\Negocio.dll
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Negocio\obj\Debug\Negocio.pdb
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Negocio\bin\Debug\Negocio.dll
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Negocio\bin\Debug\Negocio.pdb
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Negocio\bin\Debug\Dal.dll
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Negocio\bin\Debug\Utilitario.dll
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Negocio\bin\Debug\Dal.pdb
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Negocio\bin\Debug\Utilitario.pdb
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Negocio\obj\Debug\Negocio.dll
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Negocio\obj\Debug\Negocio.pdb

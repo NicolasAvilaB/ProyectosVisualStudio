@@ -1,0 +1,156 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Ejemplo14Asp.NetMantenedorMysql
+</name>
+</assembly>
+<members>
+<member name="F:Ejemplo_14_Asp.Net_Mantenedor_Mysql.WebForm1.form1">
+	<summary>
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Ejemplo_14_Asp.Net_Mantenedor_Mysql.WebForm1.Rut">
+	<summary>
+Control Rut.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Ejemplo_14_Asp.Net_Mantenedor_Mysql.WebForm1.Buscar">
+	<summary>
+Control Buscar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Ejemplo_14_Asp.Net_Mantenedor_Mysql.WebForm1.Nombre">
+	<summary>
+Control Nombre.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Ejemplo_14_Asp.Net_Mantenedor_Mysql.WebForm1.Login">
+	<summary>
+Control Login.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Ejemplo_14_Asp.Net_Mantenedor_Mysql.WebForm1.Password">
+	<summary>
+Control Password.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Ejemplo_14_Asp.Net_Mantenedor_Mysql.WebForm1.Tipo">
+	<summary>
+Control Tipo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Ejemplo_14_Asp.Net_Mantenedor_Mysql.WebForm1.Carrera">
+	<summary>
+Control Carrera.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Ejemplo_14_Asp.Net_Mantenedor_Mysql.WebForm1.NUevo">
+	<summary>
+Control NUevo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Ejemplo_14_Asp.Net_Mantenedor_Mysql.WebForm1.Editar">
+	<summary>
+Control Editar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Ejemplo_14_Asp.Net_Mantenedor_Mysql.WebForm1.Elimianr">
+	<summary>
+Control Elimianr.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Ejemplo_14_Asp.Net_Mantenedor_Mysql.WebForm1.Guardar">
+	<summary>
+Control Guardar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Ejemplo_14_Asp.Net_Mantenedor_Mysql.WebForm1.Actualizar">
+	<summary>
+Control Actualizar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Ejemplo_14_Asp.Net_Mantenedor_Mysql.WebForm1.Estado">
+	<summary>
+Control Estado.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Ejemplo_14_Asp.Net_Mantenedor_Mysql.WebForm1.GridView1">
+	<summary>
+Control GridView1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="P:Ejemplo_14_Asp.Net_Mantenedor_Mysql.My.MyWebExtension.Computer">
+	<summary>
+ Devuelve información sobre el equipo host.
+ </summary>
+</member><member name="P:Ejemplo_14_Asp.Net_Mantenedor_Mysql.My.MyWebExtension.User">
+	<summary>
+ Devuelve información del usuario web actual.
+ </summary>
+</member><member name="P:Ejemplo_14_Asp.Net_Mantenedor_Mysql.My.MyWebExtension.Request">
+	<summary>
+ Devuelve un objeto Request.
+ </summary>
+</member><member name="P:Ejemplo_14_Asp.Net_Mantenedor_Mysql.My.MyWebExtension.Response">
+	<summary>
+ Devuelve un objeto Response.
+ </summary>
+</member><member name="P:Ejemplo_14_Asp.Net_Mantenedor_Mysql.My.MyWebExtension.Log">
+	<summary>
+ Devuelve el objeto de registro Asp.
+ </summary>
+</member><member name="T:Ejemplo_14_Asp.Net_Mantenedor_Mysql.My.MyWebExtension">
+	<summary>
+ Módulo usado para definir las propiedades que están disponibles en el espacio de nombres My para proyectos web.
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

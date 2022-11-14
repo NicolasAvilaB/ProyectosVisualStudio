@@ -1,0 +1,15 @@
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Diago\Diago\bin\Debug\Diago.exe.config
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Diago\Diago\bin\Debug\Diago.exe
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Diago\Diago\bin\Debug\Diago.pdb
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Diago\Diago\bin\Debug\Diago.xml
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Diago\Diago\obj\Debug\Diago.Resources.resources
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Diago\Diago\obj\Debug\Diago.vbproj.GenerateResource.Cache
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Diago\Diago\obj\Debug\Diago.exe
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Diago\Diago\obj\Debug\Diago.xml
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Diago\Diago\obj\Debug\Diago.pdb
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Diago\Diago\obj\Debug\Diago.Form1.resources
+C:\Users\Nicolas Avila B\documents\visual studio 2013\Projects\Diago\Diago\obj\Debug\Diago.vbprojResolveAssemblyReference.cache
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\Diago\Diago\bin\Debug\Diago.exe.config
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\Diago\Diago\obj\Debug\Diago.exe
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\Diago\Diago\obj\Debug\Diago.xml
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\Diago\Diago\obj\Debug\Diago.pdb

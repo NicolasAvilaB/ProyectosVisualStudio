@@ -1,0 +1,10 @@
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\Prototipo PANADERIA EXAMEN\Prototipo PANADERIA EXAMEN\bin\Prototipo PANADERIA EXAMEN.dll.config
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\Prototipo PANADERIA EXAMEN\Prototipo PANADERIA EXAMEN\bin\Prototipo PANADERIA EXAMEN.dll
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\Prototipo PANADERIA EXAMEN\Prototipo PANADERIA EXAMEN\bin\Prototipo PANADERIA EXAMEN.pdb
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\Prototipo PANADERIA EXAMEN\Prototipo PANADERIA EXAMEN\bin\Prototipo PANADERIA EXAMEN.xml
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\Prototipo PANADERIA EXAMEN\Prototipo PANADERIA EXAMEN\obj\Debug\Prototipo PANADERIA EXAMEN.vbprojResolveAssemblyReference.cache
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\Prototipo PANADERIA EXAMEN\Prototipo PANADERIA EXAMEN\obj\Debug\Prototipo_PANADERIA_EXAMEN.Resources.resources
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\Prototipo PANADERIA EXAMEN\Prototipo PANADERIA EXAMEN\obj\Debug\Prototipo PANADERIA EXAMEN.vbproj.GenerateResource.Cache
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\Prototipo PANADERIA EXAMEN\Prototipo PANADERIA EXAMEN\obj\Debug\Prototipo PANADERIA EXAMEN.dll
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\Prototipo PANADERIA EXAMEN\Prototipo PANADERIA EXAMEN\obj\Debug\Prototipo PANADERIA EXAMEN.xml
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\Prototipo PANADERIA EXAMEN\Prototipo PANADERIA EXAMEN\obj\Debug\Prototipo PANADERIA EXAMEN.pdb

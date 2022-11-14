@@ -1,0 +1,20 @@
+c:\users\nicolas\documents\visual studio 2010\Projects\proyect\proyect\bin\Debug\proyect.exe
+c:\users\nicolas\documents\visual studio 2010\Projects\proyect\proyect\bin\Debug\proyect.pdb
+c:\users\nicolas\documents\visual studio 2010\Projects\proyect\proyect\bin\Debug\proyect.xml
+c:\users\nicolas\documents\visual studio 2010\Projects\proyect\proyect\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\nicolas\documents\visual studio 2010\Projects\proyect\proyect\obj\x86\Debug\proyect.Form1.resources
+c:\users\nicolas\documents\visual studio 2010\Projects\proyect\proyect\obj\x86\Debug\proyect.Form2.resources
+c:\users\nicolas\documents\visual studio 2010\Projects\proyect\proyect\obj\x86\Debug\proyect.Form3.resources
+c:\users\nicolas\documents\visual studio 2010\Projects\proyect\proyect\obj\x86\Debug\proyect.Form4.resources
+c:\users\nicolas\documents\visual studio 2010\Projects\proyect\proyect\obj\x86\Debug\proyect.Form5.resources
+c:\users\nicolas\documents\visual studio 2010\Projects\proyect\proyect\obj\x86\Debug\proyect.Resources.resources
+c:\users\nicolas\documents\visual studio 2010\Projects\proyect\proyect\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\nicolas\documents\visual studio 2010\Projects\proyect\proyect\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\nicolas\documents\visual studio 2010\Projects\proyect\proyect\obj\x86\Debug\proyect.exe
+c:\users\nicolas\documents\visual studio 2010\Projects\proyect\proyect\obj\x86\Debug\proyect.xml
+c:\users\nicolas\documents\visual studio 2010\Projects\proyect\proyect\obj\x86\Debug\proyect.pdb
+c:\users\nicolas\documents\visual studio 2010\Projects\proyect\proyect\obj\x86\Debug\proyect.Form7.resources
+C:\Users\Nicolas\Documents\Visual Studio 2010\Projects\proyect\proyect\obj\x86\Debug\proyect.Form6.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\proyect\proyect\obj\x86\Debug\proyect.exe
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\proyect\proyect\obj\x86\Debug\proyect.xml
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\proyect\proyect\obj\x86\Debug\proyect.pdb

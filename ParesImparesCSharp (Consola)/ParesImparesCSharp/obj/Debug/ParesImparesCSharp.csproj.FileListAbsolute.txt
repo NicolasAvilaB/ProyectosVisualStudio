@@ -1,0 +1,6 @@
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\ParesImparesCSharp\ParesImparesCSharp\bin\Debug\ParesImparesCSharp.exe.config
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\ParesImparesCSharp\ParesImparesCSharp\bin\Debug\ParesImparesCSharp.exe
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\ParesImparesCSharp\ParesImparesCSharp\bin\Debug\ParesImparesCSharp.pdb
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\ParesImparesCSharp\ParesImparesCSharp\obj\Debug\ParesImparesCSharp.csprojResolveAssemblyReference.cache
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\ParesImparesCSharp\ParesImparesCSharp\obj\Debug\ParesImparesCSharp.exe
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\ParesImparesCSharp\ParesImparesCSharp\obj\Debug\ParesImparesCSharp.pdb

@@ -1,0 +1,21 @@
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Dal\bin\Debug\Dal.dll
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Dal\bin\Debug\Dal.pdb
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Dal\bin\Debug\Utilitario.dll
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Dal\bin\Debug\Utilitario.pdb
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Dal\obj\Debug\ResolveAssemblyReference.cache
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Dal\obj\Debug\Dal.dll
+D:\Oscar\tallerIngSoftware\ray\Soluciondismac\SolucionDismac\Dal\obj\Debug\Dal.pdb
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Dal\bin\Debug\Dal.dll
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Dal\bin\Debug\Dal.pdb
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Dal\bin\Debug\Utilitario.dll
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Dal\bin\Debug\Utilitario.pdb
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Dal\obj\Debug\ResolveAssemblyReference.cache
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Dal\obj\Debug\Dal.dll
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\Dal\obj\Debug\Dal.pdb
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Dal\bin\Debug\Dal.dll
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Dal\bin\Debug\Dal.pdb
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Dal\bin\Debug\Utilitario.dll
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Dal\bin\Debug\Utilitario.pdb
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Dal\obj\Debug\Dal.csprojResolveAssemblyReference.cache
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Dal\obj\Debug\Dal.dll
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\Dal\obj\Debug\Dal.pdb

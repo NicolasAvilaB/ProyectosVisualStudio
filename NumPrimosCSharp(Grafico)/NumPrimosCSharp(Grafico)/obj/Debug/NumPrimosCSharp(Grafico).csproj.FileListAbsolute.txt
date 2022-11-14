@@ -1,0 +1,9 @@
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\NumPrimosCSharp(Grafico)\NumPrimosCSharp(Grafico)\bin\Debug\NumPrimosCSharp(Grafico).exe.config
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\NumPrimosCSharp(Grafico)\NumPrimosCSharp(Grafico)\bin\Debug\NumPrimosCSharp(Grafico).exe
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\NumPrimosCSharp(Grafico)\NumPrimosCSharp(Grafico)\bin\Debug\NumPrimosCSharp(Grafico).pdb
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\NumPrimosCSharp(Grafico)\NumPrimosCSharp(Grafico)\obj\Debug\NumPrimosCSharp(Grafico).csprojResolveAssemblyReference.cache
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\NumPrimosCSharp(Grafico)\NumPrimosCSharp(Grafico)\obj\Debug\NumPrimosCSharp_Grafico_.Form1.resources
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\NumPrimosCSharp(Grafico)\NumPrimosCSharp(Grafico)\obj\Debug\NumPrimosCSharp_Grafico_.Properties.Resources.resources
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\NumPrimosCSharp(Grafico)\NumPrimosCSharp(Grafico)\obj\Debug\NumPrimosCSharp(Grafico).csproj.GenerateResource.Cache
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\NumPrimosCSharp(Grafico)\NumPrimosCSharp(Grafico)\obj\Debug\NumPrimosCSharp(Grafico).exe
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\NumPrimosCSharp(Grafico)\NumPrimosCSharp(Grafico)\obj\Debug\NumPrimosCSharp(Grafico).pdb

@@ -1,0 +1,15 @@
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\WebApplication1\bin\WebApplication1.dll
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\WebApplication1\bin\WebApplication1.pdb
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\WebApplication1\obj\Debug\WebApplication1.dll
+D:\vidal nur 2\Dismac\Soluciondismac\SolucionDismac\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\SANCHEZ\Desktop\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\WebApplication1\bin\WebApplication1.dll
+C:\Users\SANCHEZ\Desktop\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\WebApplication1\bin\WebApplication1.pdb
+C:\Users\SANCHEZ\Desktop\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\SANCHEZ\Desktop\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\WebApplication1\obj\Debug\WebApplication1.pdb
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\WebApplication1\bin\WebApplication1.dll.config
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\WebApplication1\bin\WebApplication1.dll
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\WebApplication1\bin\WebApplication1.pdb
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\WebApplication1\obj\Debug\WebApplication1.dll
+G:\SISTEMASPROGRAMAR\Proyectos\Ray Clases\SISTEMAS RAY\sismac\Dismac\Soluciondismac\SolucionDismac\WebApplication1\obj\Debug\WebApplication1.pdb

@@ -1,0 +1,30 @@
+C:\Users\Yenier\AppData\Local\Temporary Projects\NumerosALetras\bin\Debug\NumerosALetras.exe.config
+C:\Users\Yenier\AppData\Local\Temporary Projects\NumerosALetras\bin\Debug\NumerosALetras.exe
+C:\Users\Yenier\AppData\Local\Temporary Projects\NumerosALetras\bin\Debug\NumerosALetras.pdb
+C:\Users\Yenier\AppData\Local\Temporary Projects\NumerosALetras\bin\Debug\NumerosALetras.xml
+C:\Users\Yenier\AppData\Local\Temporary Projects\NumerosALetras\obj\Debug\NumerosALetras.Resources.resources
+C:\Users\Yenier\AppData\Local\Temporary Projects\NumerosALetras\obj\Debug\NumerosALetras.vbproj.GenerateResource.Cache
+C:\Users\Yenier\AppData\Local\Temporary Projects\NumerosALetras\obj\Debug\NumerosALetras.exe
+C:\Users\Yenier\AppData\Local\Temporary Projects\NumerosALetras\obj\Debug\NumerosALetras.xml
+C:\Users\Yenier\AppData\Local\Temporary Projects\NumerosALetras\obj\Debug\NumerosALetras.pdb
+C:\Users\Yenier\AppData\Local\Temporary Projects\NumerosALetras\obj\Debug\NumerosALetras.Form1.resources
+D:\Documentos\Visual Studio 2012\Projects\NumerosALetras\NumerosALetras\bin\Debug\NumerosALetras.exe.config
+D:\Documentos\Visual Studio 2012\Projects\NumerosALetras\NumerosALetras\obj\Debug\NumerosALetras.exe
+D:\Documentos\Visual Studio 2012\Projects\NumerosALetras\NumerosALetras\obj\Debug\NumerosALetras.xml
+D:\Documentos\Visual Studio 2012\Projects\NumerosALetras\NumerosALetras\obj\Debug\NumerosALetras.pdb
+D:\Documentos\Visual Studio 2012\Projects\NumerosALetras\NumerosALetras\bin\Debug\NumerosALetras.exe
+D:\Documentos\Visual Studio 2012\Projects\NumerosALetras\NumerosALetras\bin\Debug\NumerosALetras.pdb
+D:\Documentos\Visual Studio 2012\Projects\NumerosALetras\NumerosALetras\bin\Debug\NumerosALetras.xml
+D:\Documentos\Visual Studio 2012\Projects\NumerosALetras\NumerosALetras\obj\Debug\NumerosALetras.Form1.resources
+D:\Documentos\Visual Studio 2012\Projects\NumerosALetras\NumerosALetras\obj\Debug\NumerosALetras.Resources.resources
+D:\Documentos\Visual Studio 2012\Projects\NumerosALetras\NumerosALetras\obj\Debug\NumerosALetras.vbproj.GenerateResource.Cache
+C:\Users\Nicolas Avila B\Downloads\NumerosALetras\NumerosALetras\NumerosALetras\bin\Debug\NumerosALetras.exe.config
+C:\Users\Nicolas Avila B\Downloads\NumerosALetras\NumerosALetras\NumerosALetras\obj\Debug\NumerosALetras.exe
+C:\Users\Nicolas Avila B\Downloads\NumerosALetras\NumerosALetras\NumerosALetras\obj\Debug\NumerosALetras.xml
+C:\Users\Nicolas Avila B\Downloads\NumerosALetras\NumerosALetras\NumerosALetras\obj\Debug\NumerosALetras.pdb
+C:\Users\Nicolas Avila B\Downloads\NumerosALetras\NumerosALetras\NumerosALetras\bin\Debug\NumerosALetras.exe
+C:\Users\Nicolas Avila B\Downloads\NumerosALetras\NumerosALetras\NumerosALetras\bin\Debug\NumerosALetras.pdb
+C:\Users\Nicolas Avila B\Downloads\NumerosALetras\NumerosALetras\NumerosALetras\bin\Debug\NumerosALetras.xml
+C:\Users\Nicolas Avila B\Downloads\NumerosALetras\NumerosALetras\NumerosALetras\obj\Debug\NumerosALetras.Form1.resources
+C:\Users\Nicolas Avila B\Downloads\NumerosALetras\NumerosALetras\NumerosALetras\obj\Debug\NumerosALetras.Resources.resources
+C:\Users\Nicolas Avila B\Downloads\NumerosALetras\NumerosALetras\NumerosALetras\obj\Debug\NumerosALetras.vbproj.GenerateResource.Cache

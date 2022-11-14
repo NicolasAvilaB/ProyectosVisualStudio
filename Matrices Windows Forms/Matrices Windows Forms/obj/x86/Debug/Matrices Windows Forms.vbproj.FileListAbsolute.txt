@@ -1,0 +1,15 @@
+c:\users\nicolas\documents\visual studio 2010\Projects\Matrices Windows Forms\Matrices Windows Forms\bin\Debug\Matrices Windows Forms.exe
+c:\users\nicolas\documents\visual studio 2010\Projects\Matrices Windows Forms\Matrices Windows Forms\bin\Debug\Matrices Windows Forms.pdb
+c:\users\nicolas\documents\visual studio 2010\Projects\Matrices Windows Forms\Matrices Windows Forms\bin\Debug\Matrices Windows Forms.xml
+c:\users\nicolas\documents\visual studio 2010\Projects\Matrices Windows Forms\Matrices Windows Forms\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\nicolas\documents\visual studio 2010\Projects\Matrices Windows Forms\Matrices Windows Forms\obj\x86\Debug\Matrices_Windows_Forms.Form1.resources
+c:\users\nicolas\documents\visual studio 2010\Projects\Matrices Windows Forms\Matrices Windows Forms\obj\x86\Debug\Matrices_Windows_Forms.Resources.resources
+c:\users\nicolas\documents\visual studio 2010\Projects\Matrices Windows Forms\Matrices Windows Forms\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\nicolas\documents\visual studio 2010\Projects\Matrices Windows Forms\Matrices Windows Forms\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\nicolas\documents\visual studio 2010\Projects\Matrices Windows Forms\Matrices Windows Forms\obj\x86\Debug\Matrices Windows Forms.exe
+c:\users\nicolas\documents\visual studio 2010\Projects\Matrices Windows Forms\Matrices Windows Forms\obj\x86\Debug\Matrices Windows Forms.xml
+c:\users\nicolas\documents\visual studio 2010\Projects\Matrices Windows Forms\Matrices Windows Forms\obj\x86\Debug\Matrices Windows Forms.pdb
+c:\users\nicolas\documents\visual studio 2010\Projects\Matrices Windows Forms\Matrices Windows Forms\obj\x86\Debug\Matrices_Windows_Forms.Form2.resources
+c:\users\nicolas\documents\visual studio 2010\Projects\Matrices Windows Forms\Matrices Windows Forms\obj\x86\Debug\Matrices_Windows_Forms.Form3.resources
+c:\users\nicolas\documents\visual studio 2010\Projects\Matrices Windows Forms\Matrices Windows Forms\obj\x86\Debug\Matrices_Windows_Forms.Form4.resources
+c:\users\nicolas\documents\visual studio 2010\Projects\Matrices Windows Forms\Matrices Windows Forms\obj\x86\Debug\Matrices_Windows_Forms.Form5.resources

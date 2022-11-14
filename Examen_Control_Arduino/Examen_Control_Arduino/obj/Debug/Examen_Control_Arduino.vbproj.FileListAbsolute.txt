@@ -1,0 +1,10 @@
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\Examen_Control_Arduino\Examen_Control_Arduino\obj\Debug\Examen_Control_Arduino.vbprojResolveAssemblyReference.cache
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\Examen_Control_Arduino\Examen_Control_Arduino\obj\Debug\Examen_Control_Arduino.Control.resources
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\Examen_Control_Arduino\Examen_Control_Arduino\obj\Debug\Examen_Control_Arduino.Resources.resources
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\Examen_Control_Arduino\Examen_Control_Arduino\obj\Debug\Examen_Control_Arduino.vbproj.GenerateResource.Cache
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\Examen_Control_Arduino\Examen_Control_Arduino\obj\Debug\Examen_Control_Arduino.xml
+C:\Users\Nicolas Avila Biskup\documents\visual studio 2015\Projects\Examen_Control_Arduino\Examen_Control_Arduino\bin\Debug\Examen_Control_Arduino.exe
+C:\Users\Nicolas Avila Biskup\documents\visual studio 2015\Projects\Examen_Control_Arduino\Examen_Control_Arduino\bin\Debug\Examen_Control_Arduino.pdb
+C:\Users\Nicolas Avila Biskup\documents\visual studio 2015\Projects\Examen_Control_Arduino\Examen_Control_Arduino\bin\Debug\Examen_Control_Arduino.xml
+C:\Users\Nicolas Avila Biskup\documents\visual studio 2015\Projects\Examen_Control_Arduino\Examen_Control_Arduino\obj\Debug\Examen_Control_Arduino.exe
+C:\Users\Nicolas Avila Biskup\documents\visual studio 2015\Projects\Examen_Control_Arduino\Examen_Control_Arduino\obj\Debug\Examen_Control_Arduino.pdb

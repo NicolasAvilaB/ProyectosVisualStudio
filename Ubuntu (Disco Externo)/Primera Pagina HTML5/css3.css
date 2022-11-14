@@ -1,0 +1,67 @@
+body {
+
+	text-align: center;
+	vertical-align: middle;
+	
+}
+
+div
+{
+text-align:center;
+}
+
+
+
+nav {
+	background-color: #006699;
+	text-align: center;
+	vertical-align: middle;      
+	padding:20px 15px;
+	text-decoration:none;
+	color:#FFFFFF;
+	
+}
+di {
+
+}
+
+
+h1 {
+margin-left: -300px;
+
+
+}
+
+
+
+
+#content {
+width: 100%;
+background-color:#999999;
+
+height: 100px;
+margin:auto;
+}
+
+fieldset {
+	background-color: #FFFFFF;
+	background-position:right;
+	text-align: right;
+	vertical-align: middle;
+top: 50%;
+width: 900px;
+height: 300px;
+margin-top: -100px;
+margin-left: -300px;
+	
+}
+header {
+	background-color: #FFFFFF;
+	text-align: center;
+	vertical-align: middle;
+	top: 50%;
+width: 900px;
+height: 300px;
+margin-top: -100px;
+margin-center: -300px;
+}

@@ -1,0 +1,9 @@
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\Justificar2015\Justificar2015\bin\Debug\Justificar2015.exe
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\Justificar2015\Justificar2015\bin\Debug\Justificar2015.pdb
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\Justificar2015\Justificar2015\bin\Debug\Justificar2015.xml
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\Justificar2015\Justificar2015\obj\Debug\Justificar2015.Form1.resources
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\Justificar2015\Justificar2015\obj\Debug\Justificar2015.Resources.resources
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\Justificar2015\Justificar2015\obj\Debug\Justificar2015.vbproj.GenerateResource.Cache
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\Justificar2015\Justificar2015\obj\Debug\Justificar2015.exe
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\Justificar2015\Justificar2015\obj\Debug\Justificar2015.xml
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\Justificar2015\Justificar2015\obj\Debug\Justificar2015.pdb

@@ -1,0 +1,11 @@
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\ParesImparesVB.Net(Grafico)\ParesImparesVB.Net(Grafico)\bin\Debug\ParesImparesVB.Net(Grafico).exe.config
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\ParesImparesVB.Net(Grafico)\ParesImparesVB.Net(Grafico)\bin\Debug\ParesImparesVB.Net(Grafico).exe
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\ParesImparesVB.Net(Grafico)\ParesImparesVB.Net(Grafico)\bin\Debug\ParesImparesVB.Net(Grafico).pdb
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\ParesImparesVB.Net(Grafico)\ParesImparesVB.Net(Grafico)\bin\Debug\ParesImparesVB.Net(Grafico).xml
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\ParesImparesVB.Net(Grafico)\ParesImparesVB.Net(Grafico)\obj\Debug\ParesImparesVB.Net(Grafico).vbprojResolveAssemblyReference.cache
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\ParesImparesVB.Net(Grafico)\ParesImparesVB.Net(Grafico)\obj\Debug\ParesImparesVB.Net_Grafico_.Form1.resources
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\ParesImparesVB.Net(Grafico)\ParesImparesVB.Net(Grafico)\obj\Debug\ParesImparesVB.Net_Grafico_.Resources.resources
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\ParesImparesVB.Net(Grafico)\ParesImparesVB.Net(Grafico)\obj\Debug\ParesImparesVB.Net(Grafico).vbproj.GenerateResource.Cache
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\ParesImparesVB.Net(Grafico)\ParesImparesVB.Net(Grafico)\obj\Debug\ParesImparesVB.Net(Grafico).exe
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\ParesImparesVB.Net(Grafico)\ParesImparesVB.Net(Grafico)\obj\Debug\ParesImparesVB.Net(Grafico).xml
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\ParesImparesVB.Net(Grafico)\ParesImparesVB.Net(Grafico)\obj\Debug\ParesImparesVB.Net(Grafico).pdb

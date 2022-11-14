@@ -1,0 +1,356 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5F6905FB-5D65-4971-BCAF-9E8638F1C0D9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>ExamenSuper9.My.MyApplication</StartupObject>
+    <RootNamespace>ExamenSuper9</RootNamespace>
+    <AssemblyName>ExamenSuper9</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <PublishUrl>C:\Users\Nicolas Avila B\Desktop\exe\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>ExamenSuper9.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>ExamenSuper9.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>221551670CB40CF6B302883C929D5F964D402129</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>ExamenSuper9_ClaveTemporal.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=6.9.8.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bienvenido9.Designer.vb">
+      <DependentUpon>Bienvenido9.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bienvenido9.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Boletas.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Boletas.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CierresCaja.Designer.vb">
+      <DependentUpon>CierresCaja.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CierresCaja.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CompraProductos.Designer.vb">
+      <DependentUpon>CompraProductos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CompraProductos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Devo_Stock.Designer.vb">
+      <DependentUpon>Devo_Stock.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Devo_Stock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Efectivo1.Designer.vb">
+      <DependentUpon>Efectivo1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Efectivo1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmitirBoletas.Designer.vb">
+      <DependentUpon>EmitirBoletas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EmitirBoletas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Entrada.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Entrada.Designer.vb">
+      <DependentUpon>Entrada.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GrillaRemito.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GrillaRemito.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="GrillaRemito.vb">
+      <DependentUpon>GrillaRemito.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="List.vb" />
+    <Compile Include="ModoCierre.Designer.vb">
+      <DependentUpon>ModoCierre.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ModoCierre.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modulo_Conecta.vb" />
+    <Compile Include="Modulo_Consulte.vb" />
+    <Compile Include="Modulo_Consulte1.vb" />
+    <Compile Include="Modulo_Traspaso_Valores_Formulario.vb" />
+    <Compile Include="Modulo_ValidaRut.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Nuevos_Admins.Designer.vb">
+      <DependentUpon>Nuevos_Admins.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nuevos_Admins.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OtrosProductos.Designer.vb">
+      <DependentUpon>OtrosProductos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="OtrosProductos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personas_Exteriores.Designer.vb">
+      <DependentUpon>Personas_Exteriores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Personas_Exteriores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Producto1s.Designer.vb">
+      <DependentUpon>Producto1s.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Producto1s.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios9.Designer.vb">
+      <DependentUpon>Usuarios9.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios9.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentasDia.Designer.vb">
+      <DependentUpon>VentasDia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VentasDia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Bienvenido9.resx">
+      <DependentUpon>Bienvenido9.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boletas.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Boletas.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CierresCaja.resx">
+      <DependentUpon>CierresCaja.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CompraProductos.resx">
+      <DependentUpon>CompraProductos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Devo_Stock.resx">
+      <DependentUpon>Devo_Stock.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Efectivo1.resx">
+      <DependentUpon>Efectivo1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmitirBoletas.resx">
+      <DependentUpon>EmitirBoletas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Entrada.resx">
+      <DependentUpon>Entrada.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModoCierre.resx">
+      <DependentUpon>ModoCierre.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nuevos_Admins.resx">
+      <DependentUpon>Nuevos_Admins.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OtrosProductos.resx">
+      <DependentUpon>OtrosProductos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personas_Exteriores.resx">
+      <DependentUpon>Personas_Exteriores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Producto1s.resx">
+      <DependentUpon>Producto1s.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios9.resx">
+      <DependentUpon>Usuarios9.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentasDia.resx">
+      <DependentUpon>VentasDia.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ExamenSuper9_ClaveTemporal.pfx" />
+    <None Include="GrillaRemito.xsc">
+      <DependentUpon>GrillaRemito.xsd</DependentUpon>
+    </None>
+    <None Include="GrillaRemito.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>GrillaRemito.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="GrillaRemito.xss">
+      <DependentUpon>GrillaRemito.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\DataSources\Bienvenido9.datasource" />
+    <None Include="My Project\DataSources\Efectivo1.datasource" />
+    <None Include="My Project\DataSources\EmitirBoletas.datasource" />
+    <None Include="My Project\DataSources\Entrada.datasource" />
+    <None Include="My Project\DataSources\ExamenSuper9.My.MyApplication.datasource" />
+    <None Include="My Project\DataSources\ExamenSuper9.My.MySettings.datasource" />
+    <None Include="My Project\DataSources\Informes.datasource" />
+    <None Include="My Project\DataSources\ModoPrueba.datasource" />
+    <None Include="My Project\DataSources\Nuevos_Admins.datasource" />
+    <None Include="My Project\DataSources\Personas_Exteriores.datasource" />
+    <None Include="My Project\DataSources\Producto1s.datasource" />
+    <None Include="My Project\DataSources\Usuarios9.datasource" />
+    <None Include="My Project\DataSources\VentasDia.datasource" />
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DSC_0634a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DSC_063454a %28copia%290.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\índice.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

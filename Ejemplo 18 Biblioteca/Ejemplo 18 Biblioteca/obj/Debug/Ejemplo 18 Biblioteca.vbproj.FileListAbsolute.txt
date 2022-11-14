@@ -1,0 +1,38 @@
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 18 Biblioteca\Ejemplo 18 Biblioteca\bin\ApplicationInsights.config
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 18 Biblioteca\Ejemplo 18 Biblioteca\bin\roslyn\csc.exe
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 18 Biblioteca\Ejemplo 18 Biblioteca\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 18 Biblioteca\Ejemplo 18 Biblioteca\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 18 Biblioteca\Ejemplo 18 Biblioteca\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 18 Biblioteca\Ejemplo 18 Biblioteca\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 18 Biblioteca\Ejemplo 18 Biblioteca\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 18 Biblioteca\Ejemplo 18 Biblioteca\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 18 Biblioteca\Ejemplo 18 Biblioteca\bin\roslyn\System.Collections.Immutable.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 18 Biblioteca\Ejemplo 18 Biblioteca\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 18 Biblioteca\Ejemplo 18 Biblioteca\bin\roslyn\vbc.exe
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 18 Biblioteca\Ejemplo 18 Biblioteca\bin\roslyn\VBCSCompiler.exe
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 18 Biblioteca\Ejemplo 18 Biblioteca\bin\roslyn\VBCSCompiler.exe.config
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 18 Biblioteca\Ejemplo 18 Biblioteca\bin\Ejemplo 18 Biblioteca.dll.config
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 18 Biblioteca\Ejemplo 18 Biblioteca\bin\Ejemplo 18 Biblioteca.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 18 Biblioteca\Ejemplo 18 Biblioteca\bin\Ejemplo 18 Biblioteca.pdb
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 18 Biblioteca\Ejemplo 18 Biblioteca\bin\Ejemplo 18 Biblioteca.xml
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 18 Biblioteca\Ejemplo 18 Biblioteca\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 18 Biblioteca\Ejemplo 18 Biblioteca\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 18 Biblioteca\Ejemplo 18 Biblioteca\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 18 Biblioteca\Ejemplo 18 Biblioteca\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 18 Biblioteca\Ejemplo 18 Biblioteca\bin\Microsoft.AI.Web.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 18 Biblioteca\Ejemplo 18 Biblioteca\bin\Microsoft.AI.WindowsServer.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 18 Biblioteca\Ejemplo 18 Biblioteca\bin\Microsoft.ApplicationInsights.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 18 Biblioteca\Ejemplo 18 Biblioteca\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 18 Biblioteca\Ejemplo 18 Biblioteca\bin\MySql.Data.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 18 Biblioteca\Ejemplo 18 Biblioteca\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 18 Biblioteca\Ejemplo 18 Biblioteca\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 18 Biblioteca\Ejemplo 18 Biblioteca\bin\Microsoft.AI.Web.xml
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 18 Biblioteca\Ejemplo 18 Biblioteca\bin\Microsoft.AI.WindowsServer.xml
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 18 Biblioteca\Ejemplo 18 Biblioteca\bin\Microsoft.ApplicationInsights.xml
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 18 Biblioteca\Ejemplo 18 Biblioteca\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 18 Biblioteca\Ejemplo 18 Biblioteca\obj\Debug\Ejemplo 18 Biblioteca.vbprojResolveAssemblyReference.cache
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 18 Biblioteca\Ejemplo 18 Biblioteca\obj\Debug\Ejemplo_18_Biblioteca.Resources.resources
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 18 Biblioteca\Ejemplo 18 Biblioteca\obj\Debug\Ejemplo 18 Biblioteca.vbproj.GenerateResource.Cache
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 18 Biblioteca\Ejemplo 18 Biblioteca\obj\Debug\Ejemplo 18 Biblioteca.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 18 Biblioteca\Ejemplo 18 Biblioteca\obj\Debug\Ejemplo 18 Biblioteca.xml
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 18 Biblioteca\Ejemplo 18 Biblioteca\obj\Debug\Ejemplo 18 Biblioteca.pdb

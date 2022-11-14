@@ -1,0 +1,163 @@
+C:\Users\SATELLITE L55D\documents\visual studio 2010\Projects\Examen\Examen\bin\Debug\Examen.exe
+C:\Users\SATELLITE L55D\documents\visual studio 2010\Projects\Examen\Examen\bin\Debug\Examen.pdb
+C:\Users\SATELLITE L55D\documents\visual studio 2010\Projects\Examen\Examen\bin\Debug\Examen.xml
+C:\Users\SATELLITE L55D\documents\visual studio 2010\Projects\Examen\Examen\obj\x86\Debug\Examen.Login.resources
+C:\Users\SATELLITE L55D\documents\visual studio 2010\Projects\Examen\Examen\obj\x86\Debug\Examen.Resources.resources
+C:\Users\SATELLITE L55D\documents\visual studio 2010\Projects\Examen\Examen\obj\x86\Debug\Examen.vbproj.GenerateResource.Cache
+C:\Users\SATELLITE L55D\documents\visual studio 2010\Projects\Examen\Examen\obj\x86\Debug\Examen.exe
+C:\Users\SATELLITE L55D\documents\visual studio 2010\Projects\Examen\Examen\obj\x86\Debug\Examen.xml
+C:\Users\SATELLITE L55D\documents\visual studio 2010\Projects\Examen\Examen\obj\x86\Debug\Examen.pdb
+C:\Users\SATELLITE L55D\documents\visual studio 2010\Projects\Examen\Examen\obj\x86\Debug\Examen.Citar_paciente.resources
+C:\Users\SATELLITE L55D\documents\visual studio 2010\Projects\Examen\Examen\obj\x86\Debug\Examen.Adm_pacientes.resources
+C:\Users\sanfernando_lab3\Desktop\Examen\Examen\obj\x86\Debug\Examen.exe
+C:\Users\sanfernando_lab3\Desktop\Examen\Examen\obj\x86\Debug\Examen.xml
+C:\Users\sanfernando_lab3\Desktop\Examen\Examen\obj\x86\Debug\Examen.pdb
+C:\Users\sanfernando_lab3\Desktop\Examen\Examen\bin\Debug\Examen.exe
+C:\Users\sanfernando_lab3\Desktop\Examen\Examen\bin\Debug\Examen.pdb
+C:\Users\sanfernando_lab3\Desktop\Examen\Examen\bin\Debug\Examen.xml
+C:\Users\sanfernando_lab3\Desktop\Examen\Examen\obj\x86\Debug\Examen.Login.resources
+C:\Users\sanfernando_lab3\Desktop\Examen\Examen\obj\x86\Debug\Examen.Citar_paciente.resources
+C:\Users\sanfernando_lab3\Desktop\Examen\Examen\obj\x86\Debug\Examen.Adm_pacientes.resources
+C:\Users\sanfernando_lab3\Desktop\Examen\Examen\obj\x86\Debug\Examen.Resources.resources
+C:\Users\sanfernando_lab3\Desktop\Examen\Examen\obj\x86\Debug\Examen.vbproj.GenerateResource.Cache
+C:\Users\SATELLITE L55D\Desktop\ultima ex\Examen\Examen\obj\x86\Debug\Examen.exe
+C:\Users\SATELLITE L55D\Desktop\ultima ex\Examen\Examen\obj\x86\Debug\Examen.xml
+C:\Users\SATELLITE L55D\Desktop\ultima ex\Examen\Examen\obj\x86\Debug\Examen.pdb
+C:\Users\SATELLITE L55D\Desktop\ultima ex\Examen\Examen\bin\Debug\Examen.exe
+C:\Users\SATELLITE L55D\Desktop\ultima ex\Examen\Examen\bin\Debug\Examen.pdb
+C:\Users\SATELLITE L55D\Desktop\ultima ex\Examen\Examen\bin\Debug\Examen.xml
+C:\Users\SATELLITE L55D\Desktop\ultima ex\Examen\Examen\obj\x86\Debug\Examen.Login.resources
+C:\Users\SATELLITE L55D\Desktop\ultima ex\Examen\Examen\obj\x86\Debug\Examen.Citar_paciente.resources
+C:\Users\SATELLITE L55D\Desktop\ultima ex\Examen\Examen\obj\x86\Debug\Examen.Adm_pacientes.resources
+C:\Users\SATELLITE L55D\Desktop\ultima ex\Examen\Examen\obj\x86\Debug\Examen.Resources.resources
+C:\Users\SATELLITE L55D\Desktop\ultima ex\Examen\Examen\obj\x86\Debug\Examen.vbproj.GenerateResource.Cache
+C:\Users\sanfernando_lab3\Desktop\ultima ex\Examen\Examen\obj\x86\Debug\Examen.exe
+C:\Users\sanfernando_lab3\Desktop\ultima ex\Examen\Examen\obj\x86\Debug\Examen.xml
+C:\Users\sanfernando_lab3\Desktop\ultima ex\Examen\Examen\obj\x86\Debug\Examen.pdb
+C:\Users\sanfernando_lab3\Desktop\ultima ex\Examen\Examen\bin\Debug\Examen.exe
+C:\Users\sanfernando_lab3\Desktop\ultima ex\Examen\Examen\bin\Debug\Examen.pdb
+C:\Users\sanfernando_lab3\Desktop\ultima ex\Examen\Examen\bin\Debug\Examen.xml
+C:\Users\sanfernando_lab3\Desktop\ultima ex\Examen\Examen\obj\x86\Debug\Examen.Login.resources
+C:\Users\sanfernando_lab3\Desktop\ultima ex\Examen\Examen\obj\x86\Debug\Examen.Citar_paciente.resources
+C:\Users\sanfernando_lab3\Desktop\ultima ex\Examen\Examen\obj\x86\Debug\Examen.Adm_pacientes.resources
+C:\Users\sanfernando_lab3\Desktop\ultima ex\Examen\Examen\obj\x86\Debug\Examen.Resources.resources
+C:\Users\sanfernando_lab3\Desktop\ultima ex\Examen\Examen\obj\x86\Debug\Examen.vbproj.GenerateResource.Cache
+E:\17-11\Examen\Examen\obj\x86\Debug\Examen.exe
+E:\17-11\Examen\Examen\obj\x86\Debug\Examen.xml
+E:\17-11\Examen\Examen\obj\x86\Debug\Examen.pdb
+E:\17-11\Examen\Examen\bin\Debug\Examen.exe
+E:\17-11\Examen\Examen\bin\Debug\Examen.pdb
+E:\17-11\Examen\Examen\bin\Debug\Examen.xml
+E:\17-11\Examen\Examen\obj\x86\Debug\Examen.Login.resources
+E:\17-11\Examen\Examen\obj\x86\Debug\Examen.Citar_paciente.resources
+E:\17-11\Examen\Examen\obj\x86\Debug\Examen.Adm_pacientes.resources
+E:\17-11\Examen\Examen\obj\x86\Debug\Examen.Form4.resources
+E:\17-11\Examen\Examen\obj\x86\Debug\Examen.Resources.resources
+E:\17-11\Examen\Examen\obj\x86\Debug\Examen.vbproj.GenerateResource.Cache
+C:\Users\SATELLITE L55D\Desktop\17-11\Examen\Examen\obj\x86\Debug\Examen.exe
+C:\Users\SATELLITE L55D\Desktop\17-11\Examen\Examen\obj\x86\Debug\Examen.xml
+C:\Users\SATELLITE L55D\Desktop\17-11\Examen\Examen\obj\x86\Debug\Examen.pdb
+C:\Users\SATELLITE L55D\Desktop\17-11\Examen\Examen\bin\Debug\Examen.exe
+C:\Users\SATELLITE L55D\Desktop\17-11\Examen\Examen\bin\Debug\Examen.pdb
+C:\Users\SATELLITE L55D\Desktop\17-11\Examen\Examen\bin\Debug\Examen.xml
+C:\Users\SATELLITE L55D\Desktop\17-11\Examen\Examen\obj\x86\Debug\Examen.Login.resources
+C:\Users\SATELLITE L55D\Desktop\17-11\Examen\Examen\obj\x86\Debug\Examen.Citar_paciente.resources
+C:\Users\SATELLITE L55D\Desktop\17-11\Examen\Examen\obj\x86\Debug\Examen.Adm_pacientes.resources
+C:\Users\SATELLITE L55D\Desktop\17-11\Examen\Examen\obj\x86\Debug\Examen.Form4.resources
+C:\Users\SATELLITE L55D\Desktop\17-11\Examen\Examen\obj\x86\Debug\Examen.Resources.resources
+C:\Users\SATELLITE L55D\Desktop\17-11\Examen\Examen\obj\x86\Debug\Examen.vbproj.GenerateResource.Cache
+C:\Users\SATELLITE L55D\Desktop\examen cli\19-11\Examen\Examen\obj\x86\Debug\Examen.exe
+C:\Users\SATELLITE L55D\Desktop\examen cli\19-11\Examen\Examen\obj\x86\Debug\Examen.xml
+C:\Users\SATELLITE L55D\Desktop\examen cli\19-11\Examen\Examen\obj\x86\Debug\Examen.pdb
+C:\Users\SATELLITE L55D\Desktop\examen cli\19-11\Examen\Examen\bin\Debug\Examen.exe
+C:\Users\SATELLITE L55D\Desktop\examen cli\19-11\Examen\Examen\bin\Debug\Examen.pdb
+C:\Users\SATELLITE L55D\Desktop\examen cli\19-11\Examen\Examen\bin\Debug\Examen.xml
+C:\Users\SATELLITE L55D\Desktop\examen cli\19-11\Examen\Examen\obj\x86\Debug\Examen.Login.resources
+C:\Users\SATELLITE L55D\Desktop\examen cli\19-11\Examen\Examen\obj\x86\Debug\Examen.Citar_paciente.resources
+C:\Users\SATELLITE L55D\Desktop\examen cli\19-11\Examen\Examen\obj\x86\Debug\Examen.Adm_pacientes.resources
+C:\Users\SATELLITE L55D\Desktop\examen cli\19-11\Examen\Examen\obj\x86\Debug\Examen.Form4.resources
+C:\Users\SATELLITE L55D\Desktop\examen cli\19-11\Examen\Examen\obj\x86\Debug\Examen.Resources.resources
+C:\Users\SATELLITE L55D\Desktop\examen cli\19-11\Examen\Examen\obj\x86\Debug\Examen.vbproj.GenerateResource.Cache
+C:\Users\Mario González\Desktop\Examen\Examen\obj\x86\Debug\Examen.exe
+C:\Users\Mario González\Desktop\Examen\Examen\obj\x86\Debug\Examen.xml
+C:\Users\Mario González\Desktop\Examen\Examen\obj\x86\Debug\Examen.pdb
+C:\Users\Mario González\Desktop\Examen\Examen\bin\Debug\Examen.exe
+C:\Users\Mario González\Desktop\Examen\Examen\bin\Debug\Examen.pdb
+C:\Users\Mario González\Desktop\Examen\Examen\bin\Debug\Examen.xml
+C:\Users\Mario González\Desktop\Examen\Examen\obj\x86\Debug\Examen.Login.resources
+C:\Users\Mario González\Desktop\Examen\Examen\obj\x86\Debug\Examen.Citar_paciente.resources
+C:\Users\Mario González\Desktop\Examen\Examen\obj\x86\Debug\Examen.Adm_pacientes.resources
+C:\Users\Mario González\Desktop\Examen\Examen\obj\x86\Debug\Examen.Form4.resources
+C:\Users\Mario González\Desktop\Examen\Examen\obj\x86\Debug\Examen.Resources.resources
+C:\Users\Mario González\Desktop\Examen\Examen\obj\x86\Debug\Examen.vbproj.GenerateResource.Cache
+C:\Users\SATELLITE L55D\Desktop\examen cli\20-11\Examen\obj\x86\Debug\Examen.exe
+C:\Users\SATELLITE L55D\Desktop\examen cli\20-11\Examen\obj\x86\Debug\Examen.xml
+C:\Users\SATELLITE L55D\Desktop\examen cli\20-11\Examen\obj\x86\Debug\Examen.pdb
+C:\Users\SATELLITE L55D\Desktop\examen cli\20-11\Examen\bin\Debug\Examen.exe
+C:\Users\SATELLITE L55D\Desktop\examen cli\20-11\Examen\bin\Debug\Examen.pdb
+C:\Users\SATELLITE L55D\Desktop\examen cli\20-11\Examen\bin\Debug\Examen.xml
+C:\Users\SATELLITE L55D\Desktop\examen cli\20-11\Examen\obj\x86\Debug\Examen.Login.resources
+C:\Users\SATELLITE L55D\Desktop\examen cli\20-11\Examen\obj\x86\Debug\Examen.Citar_paciente.resources
+C:\Users\SATELLITE L55D\Desktop\examen cli\20-11\Examen\obj\x86\Debug\Examen.Adm_pacientes.resources
+C:\Users\SATELLITE L55D\Desktop\examen cli\20-11\Examen\obj\x86\Debug\Examen.Resources.resources
+C:\Users\SATELLITE L55D\Desktop\examen cli\20-11\Examen\obj\x86\Debug\Examen.vbproj.GenerateResource.Cache
+C:\Users\SATELLITE L55D\Desktop\examen cli\20-11\Examen\obj\x86\Debug\Examen.Carpeta_clinica.resources
+C:\Users\SATELLITE L55D\Desktop\examen cli\20-11\Examen\obj\x86\Debug\Examen.Anular_cita.resources
+C:\Users\SATELLITE L55D\Desktop\examen cli\20-11\Examen\obj\x86\Debug\Examen.Adm_citas.resources
+C:\Users\SATELLITE L55D\Desktop\examen cli\30-11\Examen\obj\x86\Debug\Examen.exe
+C:\Users\SATELLITE L55D\Desktop\examen cli\30-11\Examen\obj\x86\Debug\Examen.xml
+C:\Users\SATELLITE L55D\Desktop\examen cli\30-11\Examen\obj\x86\Debug\Examen.pdb
+C:\Users\SATELLITE L55D\Desktop\examen cli\30-11\Examen\bin\Debug\Examen.exe
+C:\Users\SATELLITE L55D\Desktop\examen cli\30-11\Examen\bin\Debug\Examen.pdb
+C:\Users\SATELLITE L55D\Desktop\examen cli\30-11\Examen\bin\Debug\Examen.xml
+C:\Users\SATELLITE L55D\Desktop\examen cli\30-11\Examen\obj\x86\Debug\Examen.Login.resources
+C:\Users\SATELLITE L55D\Desktop\examen cli\30-11\Examen\obj\x86\Debug\Examen.Citar_paciente.resources
+C:\Users\SATELLITE L55D\Desktop\examen cli\30-11\Examen\obj\x86\Debug\Examen.Adm_pacientes.resources
+C:\Users\SATELLITE L55D\Desktop\examen cli\30-11\Examen\obj\x86\Debug\Examen.Adm_citas.resources
+C:\Users\SATELLITE L55D\Desktop\examen cli\30-11\Examen\obj\x86\Debug\Examen.Carpeta_clinica.resources
+C:\Users\SATELLITE L55D\Desktop\examen cli\30-11\Examen\obj\x86\Debug\Examen.Anular_cita.resources
+C:\Users\SATELLITE L55D\Desktop\examen cli\30-11\Examen\obj\x86\Debug\Examen.Resources.resources
+C:\Users\SATELLITE L55D\Desktop\examen cli\30-11\Examen\obj\x86\Debug\Examen.vbproj.GenerateResource.Cache
+C:\Users\SATELLITE L55D\Desktop\examen cli\30-11\Examen\obj\x86\Debug\Examen.administrador.resources
+C:\Users\SATELLITE L55D\Desktop\examen cli\01-12\Examen\obj\x86\Debug\Examen.exe
+C:\Users\SATELLITE L55D\Desktop\examen cli\01-12\Examen\obj\x86\Debug\Examen.xml
+C:\Users\SATELLITE L55D\Desktop\examen cli\01-12\Examen\obj\x86\Debug\Examen.pdb
+C:\Users\SATELLITE L55D\Desktop\examen cli\01-12\Examen\bin\Debug\Examen.exe
+C:\Users\SATELLITE L55D\Desktop\examen cli\01-12\Examen\bin\Debug\Examen.pdb
+C:\Users\SATELLITE L55D\Desktop\examen cli\01-12\Examen\bin\Debug\Examen.xml
+C:\Users\SATELLITE L55D\Desktop\examen cli\01-12\Examen\obj\x86\Debug\Examen.Login.resources
+C:\Users\SATELLITE L55D\Desktop\examen cli\01-12\Examen\obj\x86\Debug\Examen.Citar_paciente.resources
+C:\Users\SATELLITE L55D\Desktop\examen cli\01-12\Examen\obj\x86\Debug\Examen.Adm_pacientes.resources
+C:\Users\SATELLITE L55D\Desktop\examen cli\01-12\Examen\obj\x86\Debug\Examen.Adm_citas.resources
+C:\Users\SATELLITE L55D\Desktop\examen cli\01-12\Examen\obj\x86\Debug\Examen.Carpeta_clinica.resources
+C:\Users\SATELLITE L55D\Desktop\examen cli\01-12\Examen\obj\x86\Debug\Examen.administrador.resources
+C:\Users\SATELLITE L55D\Desktop\examen cli\01-12\Examen\obj\x86\Debug\Examen.Anular_cita.resources
+C:\Users\SATELLITE L55D\Desktop\examen cli\01-12\Examen\obj\x86\Debug\Examen.Resources.resources
+C:\Users\SATELLITE L55D\Desktop\examen cli\01-12\Examen\obj\x86\Debug\Examen.vbproj.GenerateResource.Cache
+C:\Users\SATELLITE L55D\Desktop\examen cli\03-12\Examen\obj\x86\Debug\Examen.exe
+C:\Users\SATELLITE L55D\Desktop\examen cli\03-12\Examen\obj\x86\Debug\Examen.xml
+C:\Users\SATELLITE L55D\Desktop\examen cli\03-12\Examen\obj\x86\Debug\Examen.pdb
+C:\Users\SATELLITE L55D\Desktop\examen cli\03-12\Examen\bin\Debug\Examen.exe
+C:\Users\SATELLITE L55D\Desktop\examen cli\03-12\Examen\bin\Debug\Examen.pdb
+C:\Users\SATELLITE L55D\Desktop\examen cli\03-12\Examen\bin\Debug\Examen.xml
+C:\Users\SATELLITE L55D\Desktop\examen cli\03-12\Examen\obj\x86\Debug\Examen.Login.resources
+C:\Users\SATELLITE L55D\Desktop\examen cli\03-12\Examen\obj\x86\Debug\Examen.Citar_paciente.resources
+C:\Users\SATELLITE L55D\Desktop\examen cli\03-12\Examen\obj\x86\Debug\Examen.Adm_pacientes.resources
+C:\Users\SATELLITE L55D\Desktop\examen cli\03-12\Examen\obj\x86\Debug\Examen.Adm_citas.resources
+C:\Users\SATELLITE L55D\Desktop\examen cli\03-12\Examen\obj\x86\Debug\Examen.Carpeta_clinica.resources
+C:\Users\SATELLITE L55D\Desktop\examen cli\03-12\Examen\obj\x86\Debug\Examen.administrador.resources
+C:\Users\SATELLITE L55D\Desktop\examen cli\03-12\Examen\obj\x86\Debug\Examen.Anular_cita.resources
+C:\Users\SATELLITE L55D\Desktop\examen cli\03-12\Examen\obj\x86\Debug\Examen.Resources.resources
+C:\Users\SATELLITE L55D\Desktop\examen cli\03-12\Examen\obj\x86\Debug\Examen.vbproj.GenerateResource.Cache
+C:\Users\SATELLITE L55D\Desktop\Examen\03-12\Examen\obj\x86\Debug\Examen.exe
+C:\Users\SATELLITE L55D\Desktop\Examen\03-12\Examen\obj\x86\Debug\Examen.xml
+C:\Users\SATELLITE L55D\Desktop\Examen\03-12\Examen\obj\x86\Debug\Examen.pdb
+C:\Users\SATELLITE L55D\Desktop\03-12\Examen\obj\x86\Debug\Examen.exe
+C:\Users\SATELLITE L55D\Desktop\03-12\Examen\obj\x86\Debug\Examen.xml
+C:\Users\SATELLITE L55D\Desktop\03-12\Examen\obj\x86\Debug\Examen.pdb
+C:\Users\SATELLITE L55D\Desktop\Nueva carpeta (2)\Nueva carpeta\Examen\obj\x86\Debug\Examen.exe
+C:\Users\SATELLITE L55D\Desktop\Nueva carpeta (2)\Nueva carpeta\Examen\obj\x86\Debug\Examen.xml
+C:\Users\SATELLITE L55D\Desktop\Nueva carpeta (2)\Nueva carpeta\Examen\obj\x86\Debug\Examen.pdb
+C:\Users\SATELLITE L55D\Desktop\Nueva carpeta (2)\Programa Examen\Examen\obj\x86\Debug\Examen.exe
+C:\Users\SATELLITE L55D\Desktop\Nueva carpeta (2)\Programa Examen\Examen\obj\x86\Debug\Examen.xml
+C:\Users\SATELLITE L55D\Desktop\Nueva carpeta (2)\Programa Examen\Examen\obj\x86\Debug\Examen.pdb

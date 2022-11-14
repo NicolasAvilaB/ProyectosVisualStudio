@@ -1,0 +1,16 @@
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\entrada pc\entrada pc\bin\Debug\entrada pc.exe.config
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\entrada pc\entrada pc\bin\Debug\entrada pc.exe
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\entrada pc\entrada pc\bin\Debug\entrada pc.pdb
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\entrada pc\entrada pc\bin\Debug\entrada pc.xml
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\entrada pc\entrada pc\bin\Debug\MySql.Data.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\entrada pc\entrada pc\obj\Debug\entrada pc.vbprojResolveAssemblyReference.cache
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\entrada pc\entrada pc\obj\Debug\entrada_pc.Form1.resources
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\entrada pc\entrada pc\obj\Debug\entrada_pc.Resources.resources
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\entrada pc\entrada pc\obj\Debug\entrada pc.vbproj.GenerateResource.Cache
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\entrada pc\entrada pc\obj\Debug\entrada pc.exe
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\entrada pc\entrada pc\obj\Debug\entrada pc.xml
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\entrada pc\entrada pc\obj\Debug\entrada pc.pdb
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\entrada pc\entrada pc\bin\Debug\entrada pc.exe.manifest
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\entrada pc\entrada pc\bin\Debug\entrada pc.application
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\entrada pc\entrada pc\obj\Debug\entrada pc.exe.manifest
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\entrada pc\entrada pc\obj\Debug\entrada pc.application

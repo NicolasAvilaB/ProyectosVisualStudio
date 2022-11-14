@@ -1,0 +1,172 @@
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\Modulo 1 - Ventas PYM.exe
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\Modulo 1 - Ventas PYM.pdb
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\Modulo 1 - Ventas PYM.xml
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\obj\Debug\Modulo_1___Ventas_PYM.Resources.resources
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\obj\Debug\Modulo 1 - Ventas PYM.vbproj.GenerateResource.Cache
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\obj\Debug\Modulo 1 - Ventas PYM.exe
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\obj\Debug\Modulo 1 - Ventas PYM.xml
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\obj\Debug\Modulo 1 - Ventas PYM.pdb
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\MySql.Data.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\obj\Debug\Modulo_1___Ventas_PYM.Ventas.resources
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\Modulo 1 - Ventas PYM.exe.config
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\obj\Debug\Modulo_1___Ventas_PYM.Grilla_Ventas.resources
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\obj\Debug\Modulo_1___Ventas_PYM.Clave_Modificar.resources
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\obj\Debug\Modulo_1___Ventas_PYM.Comprobador_Busqueda.resources
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\obj\Debug\Modulo_1___Ventas_PYM.Comprobador_Guardado.resources
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\obj\Debug\Modulo_1___Ventas_PYM.Comprobador_Grilla_Datos.resources
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\obj\Debug\Modulo_1___Ventas_PYM.Comprobador_Modificador.resources
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\obj\Debug\Modulo_1___Ventas_PYM.Nuevos_Vendedores.resources
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\obj\Debug\Modulo 1 - Ventas PYM.vbprojAssemblyReference.cache
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\obj\Debug\Modulo 1 - Ventas PYM.vbproj.CoreCompileInputs.cache
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\obj\Debug\Modulo 1 - Ventas PYM.vbproj.CopyComplete
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\EnvDTE.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\stdole.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\EnvDTE.xml
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\Modulo 1 - Ventas PYM.exe.manifest
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\Modulo 1 - Ventas PYM.application
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\obj\Debug\Modulo 1 - Ventas PYM.TrustInfo.xml
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\obj\Debug\Modulo 1 - Ventas PYM.exe.manifest
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\obj\Debug\Modulo 1 - Ventas PYM.application
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\obj\Debug\Modulo_1___Ventas_PYM.Cambiar_Clave_Unica.resources
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\obj\Debug\Modulo_1___Ventas_PYM.Clave_Eliminar.resources
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\MySql.Data.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\obj\Debug\Modulo_1___Ventas_PYM.Cambiar_Clave_Unica.resources
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\obj\Debug\Modulo_1___Ventas_PYM.Clave_Eliminar.resources
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\obj\Debug\Modulo_1___Ventas_PYM.Clave_Modificar.resources
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\obj\Debug\Modulo_1___Ventas_PYM.Comprobador_Busqueda.resources
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\obj\Debug\Modulo_1___Ventas_PYM.Comprobador_Grilla_Datos.resources
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\obj\Debug\Modulo_1___Ventas_PYM.Comprobador_Guardado.resources
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\obj\Debug\Modulo_1___Ventas_PYM.Comprobador_Modificador.resources
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\obj\Debug\Modulo_1___Ventas_PYM.Grilla_Ventas.resources
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\obj\Debug\Modulo_1___Ventas_PYM.Nuevos_Vendedores.resources
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\obj\Debug\Modulo_1___Ventas_PYM.Ventas.resources
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\obj\Debug\Modulo_1___Ventas_PYM.Resources.resources
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\obj\Debug\Modulo 1 - Ventas PYM.vbproj.GenerateResource.Cache
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\Modulo 1 - Ventas PYM.exe.config
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\Modulo 1 - Ventas PYM.exe.manifest
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\Modulo 1 - Ventas PYM.application
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\Modulo 1 - Ventas PYM.exe
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\Modulo 1 - Ventas PYM.pdb
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\Modulo 1 - Ventas PYM.xml
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\EnvDTE.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\stdole.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\EnvDTE.xml
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\obj\Debug\Modulo 1 - Ventas PYM.vbprojAssemblyReference.cache
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\obj\Debug\Modulo 1 - Ventas PYM.vbproj.CoreCompileInputs.cache
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\obj\Debug\Modulo 1 - Ventas PYM.TrustInfo.xml
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\obj\Debug\Modulo 1 - Ventas PYM.exe.manifest
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\obj\Debug\Modulo 1 - Ventas PYM.application
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\obj\Debug\Modulo 1 - Ventas PYM.vbproj.CopyComplete
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\obj\Debug\Modulo 1 - Ventas PYM.exe
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\obj\Debug\Modulo 1 - Ventas PYM.xml
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Modulo 1 - Ventas PYM\Modulo 1 - Ventas PYM\obj\Debug\Modulo 1 - Ventas PYM.pdb

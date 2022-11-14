@@ -1,0 +1,9 @@
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Ejemplo 13 Asp.Net Conexion MYSQL\Ejemplo 13 Asp.Net Conexion MYSQL\bin\Ejemplo 13 Asp.Net Conexion MYSQL.dll.config
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Ejemplo 13 Asp.Net Conexion MYSQL\Ejemplo 13 Asp.Net Conexion MYSQL\bin\Ejemplo 13 Asp.Net Conexion MYSQL.dll
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Ejemplo 13 Asp.Net Conexion MYSQL\Ejemplo 13 Asp.Net Conexion MYSQL\bin\Ejemplo 13 Asp.Net Conexion MYSQL.pdb
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Ejemplo 13 Asp.Net Conexion MYSQL\Ejemplo 13 Asp.Net Conexion MYSQL\bin\Ejemplo 13 Asp.Net Conexion MYSQL.xml
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Ejemplo 13 Asp.Net Conexion MYSQL\Ejemplo 13 Asp.Net Conexion MYSQL\obj\Debug\Ejemplo_13_Asp.Net_Conexion_MYSQL.Resources.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Ejemplo 13 Asp.Net Conexion MYSQL\Ejemplo 13 Asp.Net Conexion MYSQL\obj\Debug\Ejemplo 13 Asp.Net Conexion MYSQL.vbproj.GenerateResource.Cache
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Ejemplo 13 Asp.Net Conexion MYSQL\Ejemplo 13 Asp.Net Conexion MYSQL\obj\Debug\Ejemplo 13 Asp.Net Conexion MYSQL.dll
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Ejemplo 13 Asp.Net Conexion MYSQL\Ejemplo 13 Asp.Net Conexion MYSQL\obj\Debug\Ejemplo 13 Asp.Net Conexion MYSQL.xml
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Ejemplo 13 Asp.Net Conexion MYSQL\Ejemplo 13 Asp.Net Conexion MYSQL\obj\Debug\Ejemplo 13 Asp.Net Conexion MYSQL.pdb

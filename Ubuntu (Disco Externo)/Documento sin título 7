@@ -1,0 +1,68 @@
+DECLARE
+
+declare miiva int;
+declare mineto int;
+declare mitotal int;
+
+declare conprecio integer;
+declare concantidad integer;
+declare conrut nchar(500);
+declare conproducto integer;
+declare conventas integer;
+
+begin
+conprecio := (select nfactura from factura where nfactura = mifactura);
+concantidad := (select codigo from productos where codigo = micodigo);
+conrut := (select cantidad from productos where codigo = micodigo);
+conproducto := (select precio from productos where codigo = micodigo);
+conventas := (select rut from clientes where rut = mirut);
+
+mitotal := conprecio * micantidad;
+miiva := (mitotal * 19) /100;
+mineto := mitotal -miiva;
+
+if conrut is null then
+    Return 'EL Rut no Existe, Revise';
+
+else 
+
+if conproducto is null then 
+
+    Return 'El Producto no existe, Revise';
+
+    else
+
+    if (micantidad <= concantidad) then 
+
+       if conventas is null then 
+
+          insert into factura values (nfactura, current_date, mirut, mineto, miiva ,mitotal);
+
+       insert into detalle_factura (nfactura, codigo_producto, precio_unitario, cantidad_vendida);
+              values(mifactura, micodigo, conprecio, micantidad, total);
+                Return 'Venta Creada';
+        else 
+          Update factura set iva = iva + miiva, neto = neto + mineto, 
+                 total = total + mitotal where nfactura = mifactura;
+
+                 insert into detalle_factura(nfactura, codigo_producto, precio_unitario, cantidad_vendida);
+                    values (mifactura, micodigo, conprecio, micantidad);
+                         Return 'Factura Modificada';
+                 end if;
+                 update productos set cantidad = cantidad - micantidad
+                 where codigo = micodigo;
+
+        else 
+            Return 'La Cantidad es mayor'; 
+
+           end if;
+      end if;
+end if;
+
+
+end;
+ 
+
+
+
+end;

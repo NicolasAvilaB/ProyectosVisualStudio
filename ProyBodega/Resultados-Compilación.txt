@@ -1,0 +1,13 @@
+﻿1>------ Operación Compilar iniciada: proyecto: ProyBodega, configuración: Debug Any CPU ------
+1>C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(3506,5): warning MSB3187: El ensamblado al que se hace referencia 'C:\Windows\assembly\GAC_64\log4net\1.2.10.0__692fbea5521e1304\log4net.dll' se aplica a un procesador diferente del de la aplicación.
+1>  ProyBodega -> C:\Users\Nicolas Avila B\Desktop\ProyBodega\ProyBodega\bin\Debug\ProyBodega.exe
+Compilando ProyBodega...
+2>------ Publicación iniciada: proyecto: ProyBodega, configuración: Debug Any CPU ------
+2>C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(4935,5): warning MSB3162: El elemento 'SAP Crystal Reports Runtime Engine for .NET Framework' seleccionado requiere 'Microsoft.Net.Framework.2.0'. Seleccione el requisito previo que falta en el cuadro de diálogo Requisitos previos, o bien cree para él un paquete de arranque.
+2>C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(4935,5): warning MSB3162: El elemento 'SAP Crystal Reports Runtime Engine for .NET Framework' seleccionado requiere 'Microsoft.Data.Access.Components.2.8'. Seleccione el requisito previo que falta en el cuadro de diálogo Requisitos previos, o bien cree para él un paquete de arranque.
+Conectando con 'C:\Users\Nicolas Avila B\Desktop\Nueva carpeta (5)\'...
+Publicando archivos...
+Publicación correcta.
+C:\Users\Nicolas Avila B\Desktop\Nueva carpeta (5)\
+========== Compilar: 1 correctos, 0 incorrectos, 0 actualizados, 0 omitidos ==========
+========== Publicación: 1 procesados, 0 no procesados, 0 omitidos ==========

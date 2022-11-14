@@ -1,0 +1,14 @@
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\dbcontrol2\dbcontrol2\bin\Debug\dbcontrol2.exe.config
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\dbcontrol2\dbcontrol2\bin\Debug\dbcontrol2.exe
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\dbcontrol2\dbcontrol2\bin\Debug\dbcontrol2.pdb
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\dbcontrol2\dbcontrol2\bin\Debug\dbcontrol2.xml
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\dbcontrol2\dbcontrol2\obj\Debug\dbcontrol2.Form1.resources
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\dbcontrol2\dbcontrol2\obj\Debug\dbcontrol2.Resources.resources
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\dbcontrol2\dbcontrol2\obj\Debug\dbcontrol2.vbproj.GenerateResource.Cache
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\dbcontrol2\dbcontrol2\obj\Debug\dbcontrol2.exe
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\dbcontrol2\dbcontrol2\obj\Debug\dbcontrol2.xml
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\dbcontrol2\dbcontrol2\obj\Debug\dbcontrol2.pdb
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\dbcontrol2\dbcontrol2\bin\Debug\dbcontrol2.exe.config
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\dbcontrol2\dbcontrol2\obj\Debug\dbcontrol2.exe
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\dbcontrol2\dbcontrol2\obj\Debug\dbcontrol2.xml
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\dbcontrol2\dbcontrol2\obj\Debug\dbcontrol2.pdb

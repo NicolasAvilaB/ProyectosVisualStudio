@@ -1,0 +1,17 @@
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Peluqueria\Peluqueria\bin\Debug\Peluqueria.exe.config
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Peluqueria\Peluqueria\bin\Debug\Peluqueria.exe
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Peluqueria\Peluqueria\bin\Debug\Peluqueria.pdb
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Peluqueria\Peluqueria\bin\Debug\Peluqueria.xml
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Peluqueria\Peluqueria\obj\Debug\Peluqueria.Menu.resources
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Peluqueria\Peluqueria\obj\Debug\Peluqueria.Resources.resources
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Peluqueria\Peluqueria\obj\Debug\Peluqueria.Reservas.resources
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Peluqueria\Peluqueria\obj\Debug\Peluqueria.vbproj.GenerateResource.Cache
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Peluqueria\Peluqueria\obj\Debug\Peluqueria.exe
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Peluqueria\Peluqueria\obj\Debug\Peluqueria.xml
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Peluqueria\Peluqueria\obj\Debug\Peluqueria.pdb
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Peluqueria\Peluqueria\obj\Debug\Peluqueria.SeleccionCliente.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Peluqueria\Peluqueria\obj\Debug\Peluqueria.vbprojResolveAssemblyReference.cache
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\Peluqueria\Peluqueria\bin\Debug\Peluqueria.exe.config
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\Peluqueria\Peluqueria\obj\Debug\Peluqueria.exe
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\Peluqueria\Peluqueria\obj\Debug\Peluqueria.xml
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2015\Projects\Peluqueria\Peluqueria\obj\Debug\Peluqueria.pdb

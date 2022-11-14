@@ -1,0 +1,10 @@
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\MoverControlesDentrodelFormulario\MoverControlesDentrodelFormulario\bin\Debug\MoverControlesDentrodelFormulario.exe
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\MoverControlesDentrodelFormulario\MoverControlesDentrodelFormulario\bin\Debug\MoverControlesDentrodelFormulario.pdb
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\MoverControlesDentrodelFormulario\MoverControlesDentrodelFormulario\bin\Debug\MoverControlesDentrodelFormulario.xml
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\MoverControlesDentrodelFormulario\MoverControlesDentrodelFormulario\obj\Debug\MoverControlesDentrodelFormulario.vbprojResolveAssemblyReference.cache
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\MoverControlesDentrodelFormulario\MoverControlesDentrodelFormulario\obj\Debug\MoverControlesDentrodelFormulario.Form1.resources
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\MoverControlesDentrodelFormulario\MoverControlesDentrodelFormulario\obj\Debug\MoverControlesDentrodelFormulario.Resources.resources
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\MoverControlesDentrodelFormulario\MoverControlesDentrodelFormulario\obj\Debug\MoverControlesDentrodelFormulario.vbproj.GenerateResource.Cache
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\MoverControlesDentrodelFormulario\MoverControlesDentrodelFormulario\obj\Debug\MoverControlesDentrodelFormulario.exe
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\MoverControlesDentrodelFormulario\MoverControlesDentrodelFormulario\obj\Debug\MoverControlesDentrodelFormulario.xml
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\MoverControlesDentrodelFormulario\MoverControlesDentrodelFormulario\obj\Debug\MoverControlesDentrodelFormulario.pdb

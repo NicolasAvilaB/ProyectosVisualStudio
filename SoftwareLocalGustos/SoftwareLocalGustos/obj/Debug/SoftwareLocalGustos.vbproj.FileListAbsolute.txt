@@ -1,0 +1,10 @@
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\SoftwareLocalGustos\SoftwareLocalGustos\bin\Debug\SoftwareLocalGustos.exe
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\SoftwareLocalGustos\SoftwareLocalGustos\bin\Debug\SoftwareLocalGustos.pdb
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\SoftwareLocalGustos\SoftwareLocalGustos\bin\Debug\SoftwareLocalGustos.xml
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\SoftwareLocalGustos\SoftwareLocalGustos\obj\Debug\SoftwareLocalGustos.vbprojResolveAssemblyReference.cache
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\SoftwareLocalGustos\SoftwareLocalGustos\obj\Debug\SoftwareLocalGustos.Form1.resources
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\SoftwareLocalGustos\SoftwareLocalGustos\obj\Debug\SoftwareLocalGustos.Resources.resources
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\SoftwareLocalGustos\SoftwareLocalGustos\obj\Debug\SoftwareLocalGustos.vbproj.GenerateResource.Cache
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\SoftwareLocalGustos\SoftwareLocalGustos\obj\Debug\SoftwareLocalGustos.exe
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\SoftwareLocalGustos\SoftwareLocalGustos\obj\Debug\SoftwareLocalGustos.xml
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\SoftwareLocalGustos\SoftwareLocalGustos\obj\Debug\SoftwareLocalGustos.pdb

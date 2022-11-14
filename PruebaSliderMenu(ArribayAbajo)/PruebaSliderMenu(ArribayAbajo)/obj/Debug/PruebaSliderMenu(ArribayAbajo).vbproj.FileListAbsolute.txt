@@ -1,0 +1,11 @@
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\PruebaSliderMenu(ArribayAbajo)\PruebaSliderMenu(ArribayAbajo)\bin\Debug\PruebaSliderMenu(ArribayAbajo).exe.config
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\PruebaSliderMenu(ArribayAbajo)\PruebaSliderMenu(ArribayAbajo)\bin\Debug\PruebaSliderMenu(ArribayAbajo).exe
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\PruebaSliderMenu(ArribayAbajo)\PruebaSliderMenu(ArribayAbajo)\bin\Debug\PruebaSliderMenu(ArribayAbajo).pdb
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\PruebaSliderMenu(ArribayAbajo)\PruebaSliderMenu(ArribayAbajo)\bin\Debug\PruebaSliderMenu(ArribayAbajo).xml
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\PruebaSliderMenu(ArribayAbajo)\PruebaSliderMenu(ArribayAbajo)\obj\Debug\PruebaSliderMenu(ArribayAbajo).vbprojResolveAssemblyReference.cache
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\PruebaSliderMenu(ArribayAbajo)\PruebaSliderMenu(ArribayAbajo)\obj\Debug\PruebaSliderMenu_ArribayAbajo_.Form1.resources
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\PruebaSliderMenu(ArribayAbajo)\PruebaSliderMenu(ArribayAbajo)\obj\Debug\PruebaSliderMenu_ArribayAbajo_.Resources.resources
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\PruebaSliderMenu(ArribayAbajo)\PruebaSliderMenu(ArribayAbajo)\obj\Debug\PruebaSliderMenu(ArribayAbajo).vbproj.GenerateResource.Cache
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\PruebaSliderMenu(ArribayAbajo)\PruebaSliderMenu(ArribayAbajo)\obj\Debug\PruebaSliderMenu(ArribayAbajo).exe
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\PruebaSliderMenu(ArribayAbajo)\PruebaSliderMenu(ArribayAbajo)\obj\Debug\PruebaSliderMenu(ArribayAbajo).xml
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\PruebaSliderMenu(ArribayAbajo)\PruebaSliderMenu(ArribayAbajo)\obj\Debug\PruebaSliderMenu(ArribayAbajo).pdb

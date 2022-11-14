@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DsPrecios" targetNamespace="http://tempuri.org/DsPrecios.xsd" xmlns:mstns="http://tempuri.org/DsPrecios.xsd" xmlns="http://tempuri.org/DsPrecios.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DsPrecios" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DsPrecios" msprop:Generator_UserDSName="DsPrecios">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Tabla_Co" msprop:Generator_TableClassName="Tabla_CoDataTable" msprop:Generator_TableVarName="tableTabla_Co" msprop:Generator_TablePropName="Tabla_Co" msprop:Generator_RowDeletingName="Tabla_CoRowDeleting" msprop:Generator_RowChangingName="Tabla_CoRowChanging" msprop:Generator_RowEvHandlerName="Tabla_CoRowChangeEventHandler" msprop:Generator_RowDeletedName="Tabla_CoRowDeleted" msprop:Generator_UserTableName="Tabla_Co" msprop:Generator_RowChangedName="Tabla_CoRowChanged" msprop:Generator_RowEvArgName="Tabla_CoRowChangeEvent" msprop:Generator_RowClassName="Tabla_CoRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="FC" msprop:Generator_ColumnVarNameInTable="columnFC" msprop:Generator_ColumnPropNameInRow="FC" msprop:Generator_ColumnPropNameInTable="FCColumn" msprop:Generator_UserColumnName="FC" type="xs:string" minOccurs="0" />
+              <xs:element name="Numero" msprop:Generator_ColumnVarNameInTable="columnNumero" msprop:Generator_ColumnPropNameInRow="Numero" msprop:Generator_ColumnPropNameInTable="NumeroColumn" msprop:Generator_UserColumnName="Numero" type="xs:string" minOccurs="0" />
+              <xs:element name="Ancho" msprop:Generator_ColumnVarNameInTable="columnAncho" msprop:Generator_ColumnPropNameInRow="Ancho" msprop:Generator_ColumnPropNameInTable="AnchoColumn" msprop:Generator_UserColumnName="Ancho" type="xs:string" minOccurs="0" />
+              <xs:element name="Alto" msprop:Generator_ColumnVarNameInTable="columnAlto" msprop:Generator_ColumnPropNameInRow="Alto" msprop:Generator_ColumnPropNameInTable="AltoColumn" msprop:Generator_UserColumnName="Alto" type="xs:string" minOccurs="0" />
+              <xs:element name="Lama" msprop:Generator_ColumnVarNameInTable="columnLama" msprop:Generator_ColumnPropNameInRow="Lama" msprop:Generator_ColumnPropNameInTable="LamaColumn" msprop:Generator_UserColumnName="Lama" type="xs:string" minOccurs="0" />
+              <xs:element name="Color" msprop:Generator_ColumnVarNameInTable="columnColor" msprop:Generator_ColumnPropNameInRow="Color" msprop:Generator_ColumnPropNameInTable="ColorColumn" msprop:Generator_UserColumnName="Color" type="xs:string" minOccurs="0" />
+              <xs:element name="Valor" msprop:Generator_ColumnVarNameInTable="columnValor" msprop:Generator_ColumnPropNameInRow="Valor" msprop:Generator_ColumnPropNameInTable="ValorColumn" msprop:Generator_UserColumnName="Valor" type="xs:string" minOccurs="0" />
+              <xs:element name="Total" msprop:Generator_ColumnVarNameInTable="columnTotal" msprop:Generator_ColumnPropNameInRow="Total" msprop:Generator_ColumnPropNameInTable="TotalColumn" msprop:Generator_UserColumnName="Total" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

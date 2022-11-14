@@ -1,0 +1,14 @@
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\RegistroRopa\RegistroRopa\bin\Debug\RegistroRopa.exe
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\RegistroRopa\RegistroRopa\bin\Debug\RegistroRopa.pdb
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\RegistroRopa\RegistroRopa\bin\Debug\RegistroRopa.xml
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\RegistroRopa\RegistroRopa\obj\Debug\RegistroRopa.Resources.resources
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\RegistroRopa\RegistroRopa\obj\Debug\RegistroRopa.vbproj.GenerateResource.Cache
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\RegistroRopa\RegistroRopa\obj\Debug\RegistroRopa.exe
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\RegistroRopa\RegistroRopa\obj\Debug\RegistroRopa.xml
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\RegistroRopa\RegistroRopa\obj\Debug\RegistroRopa.pdb
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\RegistroRopa\RegistroRopa\obj\Debug\RegistroRopa.InicioSesion.resources
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\RegistroRopa\RegistroRopa\obj\Debug\RegistroRopa.Form2.resources
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\RegistroRopa\RegistroRopa\bin\Debug\MySql.Data.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\RegistroRopa\RegistroRopa\bin\Debug\RegistroRopa.exe.config
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\RegistroRopa\RegistroRopa\bin\Debug\MaterialSkin.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\RegistroRopa\RegistroRopa\obj\Debug\RegistroRopa.vbprojResolveAssemblyReference.cache

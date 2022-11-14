@@ -1,0 +1,13 @@
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Visual Basic 2013 Conexion Oracle\Visual Basic 2013 Conexion Oracle\bin\Debug\Visual Basic 2013 Conexion Oracle.exe.config
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Visual Basic 2013 Conexion Oracle\Visual Basic 2013 Conexion Oracle\bin\Debug\Visual Basic 2013 Conexion Oracle.exe
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Visual Basic 2013 Conexion Oracle\Visual Basic 2013 Conexion Oracle\bin\Debug\Visual Basic 2013 Conexion Oracle.pdb
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Visual Basic 2013 Conexion Oracle\Visual Basic 2013 Conexion Oracle\bin\Debug\Visual Basic 2013 Conexion Oracle.xml
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Visual Basic 2013 Conexion Oracle\Visual Basic 2013 Conexion Oracle\obj\Debug\Visual_Basic_2013_Conexion_Oracle.Form1.resources
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Visual Basic 2013 Conexion Oracle\Visual Basic 2013 Conexion Oracle\obj\Debug\Visual_Basic_2013_Conexion_Oracle.Resources.resources
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Visual Basic 2013 Conexion Oracle\Visual Basic 2013 Conexion Oracle\obj\Debug\Visual Basic 2013 Conexion Oracle.vbproj.GenerateResource.Cache
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Visual Basic 2013 Conexion Oracle\Visual Basic 2013 Conexion Oracle\obj\Debug\Visual Basic 2013 Conexion Oracle.exe
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Visual Basic 2013 Conexion Oracle\Visual Basic 2013 Conexion Oracle\obj\Debug\Visual Basic 2013 Conexion Oracle.xml
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Visual Basic 2013 Conexion Oracle\Visual Basic 2013 Conexion Oracle\obj\Debug\Visual Basic 2013 Conexion Oracle.pdb
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Visual Basic 2013 Conexion Oracle\Visual Basic 2013 Conexion Oracle\obj\Debug\Visual Basic 2013 Conexion Oracle.vbprojResolveAssemblyReference.cache
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Visual Basic 2013 Conexion Oracle\Visual Basic 2013 Conexion Oracle\obj\Debug\Visual_Basic_2013_Conexion_Oracle.Form2.resources
+C:\Users\Nicolas Avila B\Documents\Visual Studio 2013\Projects\Visual Basic 2013 Conexion Oracle\Visual Basic 2013 Conexion Oracle\obj\Debug\Visual_Basic_2013_Conexion_Oracle.Form3.resources

@@ -1,0 +1,48 @@
+E:\Google Drive\Proyectos Visual Studio\Proyectos_2013\B_ChatCiente\B_ChatCiente\bin\Debug\B_ChatCiente.exe
+E:\Google Drive\Proyectos Visual Studio\Proyectos_2013\B_ChatCiente\B_ChatCiente\bin\Debug\B_ChatCiente.pdb
+E:\Google Drive\Proyectos Visual Studio\Proyectos_2013\B_ChatCiente\B_ChatCiente\bin\Debug\B_ChatCiente.xml
+E:\Google Drive\Proyectos Visual Studio\Proyectos_2013\B_ChatCiente\B_ChatCiente\bin\Debug\GTOServerClient.dll
+E:\Google Drive\Proyectos Visual Studio\Proyectos_2013\B_ChatCiente\B_ChatCiente\bin\Debug\Ionic.Zip.dll
+E:\Google Drive\Proyectos Visual Studio\Proyectos_2013\B_ChatCiente\B_ChatCiente\bin\Debug\GTOServerClient.pdb
+E:\Google Drive\Proyectos Visual Studio\Proyectos_2013\B_ChatCiente\B_ChatCiente\bin\Debug\GTOServerClient.xml
+E:\Google Drive\Proyectos Visual Studio\Proyectos_2013\B_ChatCiente\B_ChatCiente\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Google Drive\Proyectos Visual Studio\Proyectos_2013\B_ChatCiente\B_ChatCiente\obj\x86\Debug\B_ChatCiente.Resources.resources
+E:\Google Drive\Proyectos Visual Studio\Proyectos_2013\B_ChatCiente\B_ChatCiente\obj\x86\Debug\B_ChatCiente.WinUpdateClient.resources
+E:\Google Drive\Proyectos Visual Studio\Proyectos_2013\B_ChatCiente\B_ChatCiente\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Google Drive\Proyectos Visual Studio\Proyectos_2013\B_ChatCiente\B_ChatCiente\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Google Drive\Proyectos Visual Studio\Proyectos_2013\B_ChatCiente\B_ChatCiente\obj\x86\Debug\B_ChatCiente.exe
+E:\Google Drive\Proyectos Visual Studio\Proyectos_2013\B_ChatCiente\B_ChatCiente\obj\x86\Debug\B_ChatCiente.xml
+E:\Google Drive\Proyectos Visual Studio\Proyectos_2013\B_ChatCiente\B_ChatCiente\obj\x86\Debug\B_ChatCiente.pdb
+C:\Users\Pc-123\Desktop\B_Chat\B_ChatCiente\B_ChatCiente\obj\x86\Debug\B_ChatCiente.exe
+C:\Users\Pc-123\Desktop\B_Chat\B_ChatCiente\B_ChatCiente\obj\x86\Debug\B_ChatCiente.xml
+C:\Users\Pc-123\Desktop\B_Chat\B_ChatCiente\B_ChatCiente\obj\x86\Debug\B_ChatCiente.pdb
+C:\Users\Pc-123\Desktop\B_Chat\B_ChatCiente\B_ChatCiente\bin\Debug\B_ChatCiente.exe.config
+C:\Users\Pc-123\Desktop\B_Chat\B_ChatCiente\B_ChatCiente\bin\Debug\B_ChatCiente.exe
+C:\Users\Pc-123\Desktop\B_Chat\B_ChatCiente\B_ChatCiente\bin\Debug\B_ChatCiente.pdb
+C:\Users\Pc-123\Desktop\B_Chat\B_ChatCiente\B_ChatCiente\bin\Debug\B_ChatCiente.xml
+C:\Users\Pc-123\Desktop\B_Chat\B_ChatCiente\B_ChatCiente\bin\Debug\GTOServerClient.dll
+C:\Users\Pc-123\Desktop\B_Chat\B_ChatCiente\B_ChatCiente\bin\Debug\Ionic.Zip.dll
+C:\Users\Pc-123\Desktop\B_Chat\B_ChatCiente\B_ChatCiente\bin\Debug\GTOServerClient.pdb
+C:\Users\Pc-123\Desktop\B_Chat\B_ChatCiente\B_ChatCiente\bin\Debug\GTOServerClient.xml
+C:\Users\Pc-123\Desktop\B_Chat\B_ChatCiente\B_ChatCiente\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Pc-123\Desktop\B_Chat\B_ChatCiente\B_ChatCiente\obj\x86\Debug\B_ChatCiente.Resources.resources
+C:\Users\Pc-123\Desktop\B_Chat\B_ChatCiente\B_ChatCiente\obj\x86\Debug\B_ChatCiente.WinUpdateClient.resources
+C:\Users\Pc-123\Desktop\B_Chat\B_ChatCiente\B_ChatCiente\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Pc-123\Desktop\B_Chat\B_ChatCiente\B_ChatCiente\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Pc-123\Desktop\B_Chat\B_ChatCiente\B_ChatCiente\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Pc-123\Desktop\B_Chat\B_ChatCiente\B_ChatCiente\obj\x86\Debug\ResGen.write.1.tlog
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Chat\B_ChatCiente\B_ChatCiente\bin\Debug\B_ChatCiente.exe.config
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Chat\B_ChatCiente\B_ChatCiente\obj\x86\Debug\B_ChatCiente.exe
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Chat\B_ChatCiente\B_ChatCiente\obj\x86\Debug\B_ChatCiente.xml
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Chat\B_ChatCiente\B_ChatCiente\obj\x86\Debug\B_ChatCiente.pdb
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Chat\B_ChatCiente\B_ChatCiente\bin\Debug\B_ChatCiente.exe
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Chat\B_ChatCiente\B_ChatCiente\bin\Debug\B_ChatCiente.pdb
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Chat\B_ChatCiente\B_ChatCiente\bin\Debug\B_ChatCiente.xml
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Chat\B_ChatCiente\B_ChatCiente\bin\Debug\GTOServerClient.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Chat\B_ChatCiente\B_ChatCiente\bin\Debug\Ionic.Zip.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Chat\B_ChatCiente\B_ChatCiente\bin\Debug\GTOServerClient.pdb
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Chat\B_ChatCiente\B_ChatCiente\bin\Debug\GTOServerClient.xml
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Chat\B_ChatCiente\B_ChatCiente\obj\x86\Debug\B_ChatCiente.vbprojResolveAssemblyReference.cache
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Chat\B_ChatCiente\B_ChatCiente\obj\x86\Debug\B_ChatCiente.Resources.resources
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Chat\B_ChatCiente\B_ChatCiente\obj\x86\Debug\B_ChatCiente.WinUpdateClient.resources
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Chat\B_ChatCiente\B_ChatCiente\obj\x86\Debug\B_ChatCiente.vbproj.GenerateResource.Cache

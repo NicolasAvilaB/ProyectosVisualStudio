@@ -1,0 +1,20 @@
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\verificador_rut\verificador_rut\bin\Debug\verificador_rut.exe
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\verificador_rut\verificador_rut\bin\Debug\verificador_rut.pdb
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\verificador_rut\verificador_rut\bin\Debug\verificador_rut.xml
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\verificador_rut\verificador_rut\obj\Debug\verificador_rut.vbprojResolveAssemblyReference.cache
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\verificador_rut\verificador_rut\obj\Debug\verificador_rut.Form1.resources
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\verificador_rut\verificador_rut\obj\Debug\verificador_rut.Resources.resources
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\verificador_rut\verificador_rut\obj\Debug\verificador_rut.vbproj.GenerateResource.Cache
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\verificador_rut\verificador_rut\obj\Debug\verificador_rut.exe
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\verificador_rut\verificador_rut\obj\Debug\verificador_rut.xml
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\verificador_rut\verificador_rut\obj\Debug\verificador_rut.pdb
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\verificador_rut(NICOLAS AVILA B)\verificador_rut\obj\Debug\verificador_rut.exe
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\verificador_rut(NICOLAS AVILA B)\verificador_rut\obj\Debug\verificador_rut.xml
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\verificador_rut(NICOLAS AVILA B)\verificador_rut\obj\Debug\verificador_rut.pdb
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\verificador_rut(NICOLAS AVILA B)\verificador_rut\bin\Debug\verificador_rut.exe
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\verificador_rut(NICOLAS AVILA B)\verificador_rut\bin\Debug\verificador_rut.pdb
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\verificador_rut(NICOLAS AVILA B)\verificador_rut\bin\Debug\verificador_rut.xml
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\verificador_rut(NICOLAS AVILA B)\verificador_rut\obj\Debug\verificador_rut.vbprojResolveAssemblyReference.cache
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\verificador_rut(NICOLAS AVILA B)\verificador_rut\obj\Debug\verificador_rut.Form1.resources
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\verificador_rut(NICOLAS AVILA B)\verificador_rut\obj\Debug\verificador_rut.Resources.resources
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\verificador_rut(NICOLAS AVILA B)\verificador_rut\obj\Debug\verificador_rut.vbproj.GenerateResource.Cache

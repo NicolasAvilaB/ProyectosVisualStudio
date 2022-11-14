@@ -1,0 +1,38 @@
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 16 Asp Reservas Libros\Ejemplo 16 Asp Reservas Libros\bin\ApplicationInsights.config
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 16 Asp Reservas Libros\Ejemplo 16 Asp Reservas Libros\bin\roslyn\csc.exe
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 16 Asp Reservas Libros\Ejemplo 16 Asp Reservas Libros\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 16 Asp Reservas Libros\Ejemplo 16 Asp Reservas Libros\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 16 Asp Reservas Libros\Ejemplo 16 Asp Reservas Libros\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 16 Asp Reservas Libros\Ejemplo 16 Asp Reservas Libros\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 16 Asp Reservas Libros\Ejemplo 16 Asp Reservas Libros\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 16 Asp Reservas Libros\Ejemplo 16 Asp Reservas Libros\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 16 Asp Reservas Libros\Ejemplo 16 Asp Reservas Libros\bin\roslyn\System.Collections.Immutable.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 16 Asp Reservas Libros\Ejemplo 16 Asp Reservas Libros\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 16 Asp Reservas Libros\Ejemplo 16 Asp Reservas Libros\bin\roslyn\vbc.exe
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 16 Asp Reservas Libros\Ejemplo 16 Asp Reservas Libros\bin\roslyn\VBCSCompiler.exe
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 16 Asp Reservas Libros\Ejemplo 16 Asp Reservas Libros\bin\roslyn\VBCSCompiler.exe.config
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 16 Asp Reservas Libros\Ejemplo 16 Asp Reservas Libros\bin\Ejemplo 16 Asp Reservas Libros.dll.config
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 16 Asp Reservas Libros\Ejemplo 16 Asp Reservas Libros\bin\Ejemplo 16 Asp Reservas Libros.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 16 Asp Reservas Libros\Ejemplo 16 Asp Reservas Libros\bin\Ejemplo 16 Asp Reservas Libros.pdb
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 16 Asp Reservas Libros\Ejemplo 16 Asp Reservas Libros\bin\Ejemplo 16 Asp Reservas Libros.xml
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 16 Asp Reservas Libros\Ejemplo 16 Asp Reservas Libros\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 16 Asp Reservas Libros\Ejemplo 16 Asp Reservas Libros\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 16 Asp Reservas Libros\Ejemplo 16 Asp Reservas Libros\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 16 Asp Reservas Libros\Ejemplo 16 Asp Reservas Libros\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 16 Asp Reservas Libros\Ejemplo 16 Asp Reservas Libros\bin\Microsoft.AI.Web.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 16 Asp Reservas Libros\Ejemplo 16 Asp Reservas Libros\bin\Microsoft.AI.WindowsServer.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 16 Asp Reservas Libros\Ejemplo 16 Asp Reservas Libros\bin\Microsoft.ApplicationInsights.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 16 Asp Reservas Libros\Ejemplo 16 Asp Reservas Libros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 16 Asp Reservas Libros\Ejemplo 16 Asp Reservas Libros\bin\MySql.Data.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 16 Asp Reservas Libros\Ejemplo 16 Asp Reservas Libros\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 16 Asp Reservas Libros\Ejemplo 16 Asp Reservas Libros\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 16 Asp Reservas Libros\Ejemplo 16 Asp Reservas Libros\bin\Microsoft.AI.Web.xml
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 16 Asp Reservas Libros\Ejemplo 16 Asp Reservas Libros\bin\Microsoft.AI.WindowsServer.xml
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 16 Asp Reservas Libros\Ejemplo 16 Asp Reservas Libros\bin\Microsoft.ApplicationInsights.xml
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 16 Asp Reservas Libros\Ejemplo 16 Asp Reservas Libros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 16 Asp Reservas Libros\Ejemplo 16 Asp Reservas Libros\obj\Debug\Ejemplo 16 Asp Reservas Libros.vbprojResolveAssemblyReference.cache
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 16 Asp Reservas Libros\Ejemplo 16 Asp Reservas Libros\obj\Debug\Ejemplo_16_Asp_Reservas_Libros.Resources.resources
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 16 Asp Reservas Libros\Ejemplo 16 Asp Reservas Libros\obj\Debug\Ejemplo 16 Asp Reservas Libros.vbproj.GenerateResource.Cache
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 16 Asp Reservas Libros\Ejemplo 16 Asp Reservas Libros\obj\Debug\Ejemplo 16 Asp Reservas Libros.dll
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 16 Asp Reservas Libros\Ejemplo 16 Asp Reservas Libros\obj\Debug\Ejemplo 16 Asp Reservas Libros.xml
+c:\users\nicolas avila b\documents\visual studio 2015\Projects\Ejemplo 16 Asp Reservas Libros\Ejemplo 16 Asp Reservas Libros\obj\Debug\Ejemplo 16 Asp Reservas Libros.pdb

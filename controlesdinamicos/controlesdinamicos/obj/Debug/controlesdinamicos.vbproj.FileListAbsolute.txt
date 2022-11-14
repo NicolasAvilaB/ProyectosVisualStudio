@@ -1,0 +1,27 @@
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\controlesdinamicos\controlesdinamicos\bin\Debug\controlesdinamicos.exe
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\controlesdinamicos\controlesdinamicos\bin\Debug\controlesdinamicos.pdb
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\controlesdinamicos\controlesdinamicos\bin\Debug\controlesdinamicos.xml
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\controlesdinamicos\controlesdinamicos\bin\Debug\MySql.Data.dll
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\controlesdinamicos\controlesdinamicos\obj\Debug\controlesdinamicos.vbprojResolveAssemblyReference.cache
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\controlesdinamicos\controlesdinamicos\obj\Debug\controlesdinamicos.Form1.resources
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\controlesdinamicos\controlesdinamicos\obj\Debug\controlesdinamicos.Form2.resources
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\controlesdinamicos\controlesdinamicos\obj\Debug\controlesdinamicos.Resources.resources
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\controlesdinamicos\controlesdinamicos\obj\Debug\controlesdinamicos.vbproj.GenerateResource.Cache
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\controlesdinamicos\controlesdinamicos\obj\Debug\controlesdinamicos.exe
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\controlesdinamicos\controlesdinamicos\obj\Debug\controlesdinamicos.xml
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\controlesdinamicos\controlesdinamicos\obj\Debug\controlesdinamicos.pdb
+C:\Users\sanfernando_lab3\Desktop\controlesdinamicos\controlesdinamicos\obj\Debug\controlesdinamicos.exe
+C:\Users\sanfernando_lab3\Desktop\controlesdinamicos\controlesdinamicos\obj\Debug\controlesdinamicos.xml
+C:\Users\sanfernando_lab3\Desktop\controlesdinamicos\controlesdinamicos\obj\Debug\controlesdinamicos.pdb
+C:\Users\sanfernando_lab3\Desktop\controlesdinamicos\controlesdinamicos\bin\Debug\controlesdinamicos.exe
+C:\Users\sanfernando_lab3\Desktop\controlesdinamicos\controlesdinamicos\bin\Debug\controlesdinamicos.pdb
+C:\Users\sanfernando_lab3\Desktop\controlesdinamicos\controlesdinamicos\bin\Debug\controlesdinamicos.xml
+C:\Users\sanfernando_lab3\Desktop\controlesdinamicos\controlesdinamicos\obj\Debug\controlesdinamicos.vbprojResolveAssemblyReference.cache
+C:\Users\sanfernando_lab3\Desktop\controlesdinamicos\controlesdinamicos\obj\Debug\controlesdinamicos.Form1.resources
+C:\Users\sanfernando_lab3\Desktop\controlesdinamicos\controlesdinamicos\obj\Debug\controlesdinamicos.Form2.resources
+C:\Users\sanfernando_lab3\Desktop\controlesdinamicos\controlesdinamicos\obj\Debug\controlesdinamicos.Resources.resources
+C:\Users\sanfernando_lab3\Desktop\controlesdinamicos\controlesdinamicos\obj\Debug\controlesdinamicos.vbproj.GenerateResource.Cache
+C:\Users\sanfernando_lab3\Desktop\controlesdinamicos\controlesdinamicos\obj\Debug\controlesdinamicos.Form3.resources
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\controlesdinamicos\controlesdinamicos\obj\Debug\controlesdinamicos.exe
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\controlesdinamicos\controlesdinamicos\obj\Debug\controlesdinamicos.xml
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\controlesdinamicos\controlesdinamicos\obj\Debug\controlesdinamicos.pdb

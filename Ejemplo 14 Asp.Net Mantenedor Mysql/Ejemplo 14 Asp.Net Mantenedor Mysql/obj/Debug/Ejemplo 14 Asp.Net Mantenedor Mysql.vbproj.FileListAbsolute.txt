@@ -1,0 +1,9 @@
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Ejemplo 14 Asp.Net Mantenedor Mysql\Ejemplo 14 Asp.Net Mantenedor Mysql\bin\Ejemplo 14 Asp.Net Mantenedor Mysql.dll.config
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Ejemplo 14 Asp.Net Mantenedor Mysql\Ejemplo 14 Asp.Net Mantenedor Mysql\bin\Ejemplo 14 Asp.Net Mantenedor Mysql.dll
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Ejemplo 14 Asp.Net Mantenedor Mysql\Ejemplo 14 Asp.Net Mantenedor Mysql\bin\Ejemplo 14 Asp.Net Mantenedor Mysql.pdb
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Ejemplo 14 Asp.Net Mantenedor Mysql\Ejemplo 14 Asp.Net Mantenedor Mysql\bin\Ejemplo 14 Asp.Net Mantenedor Mysql.xml
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Ejemplo 14 Asp.Net Mantenedor Mysql\Ejemplo 14 Asp.Net Mantenedor Mysql\obj\Debug\Ejemplo_14_Asp.Net_Mantenedor_Mysql.Resources.resources
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Ejemplo 14 Asp.Net Mantenedor Mysql\Ejemplo 14 Asp.Net Mantenedor Mysql\obj\Debug\Ejemplo 14 Asp.Net Mantenedor Mysql.vbproj.GenerateResource.Cache
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Ejemplo 14 Asp.Net Mantenedor Mysql\Ejemplo 14 Asp.Net Mantenedor Mysql\obj\Debug\Ejemplo 14 Asp.Net Mantenedor Mysql.dll
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Ejemplo 14 Asp.Net Mantenedor Mysql\Ejemplo 14 Asp.Net Mantenedor Mysql\obj\Debug\Ejemplo 14 Asp.Net Mantenedor Mysql.xml
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Ejemplo 14 Asp.Net Mantenedor Mysql\Ejemplo 14 Asp.Net Mantenedor Mysql\obj\Debug\Ejemplo 14 Asp.Net Mantenedor Mysql.pdb

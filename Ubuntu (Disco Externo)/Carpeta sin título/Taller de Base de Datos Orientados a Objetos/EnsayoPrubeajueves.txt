@@ -1,0 +1,606 @@
+Server version: 5.1.40-community MySQL Community Server (GPL)
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+mysql> show databases;
++--------------------+
+| Database           |
++--------------------+
+| information_schema |
+| bd100316           |
+| mysql              |
+| test               |
++--------------------+
+4 rows in set (0.05 sec)
+
+mysql> create databases DB140316;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that
+corresponds to your MySQL server version for the right syntax to use near 'datab
+ases DB140316' at line 1
+mysql> create DB140316;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that
+corresponds to your MySQL server version for the right syntax to use near 'DB140
+316' at line 1
+mysql> create databases db140316;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that
+corresponds to your MySQL server version for the right syntax to use near 'datab
+ases db140316' at line 1
+mysql> create database db140316;
+Query OK, 1 row affected (0.14 sec)
+
+mysql> show databases;
++--------------------+
+| Database           |
++--------------------+
+| information_schema |
+| bd100316           |
+| db140316           |
+| mysql              |
+| test               |
++--------------------+
+5 rows in set (0.00 sec)
+
+mysql> use db140316;
+Database changed
+mysql> show tables;
+Empty set (0.04 sec)
+
+mysql> describe;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that
+corresponds to your MySQL server version for the right syntax to use near '' at
+line 1
+mysql> use bd100316;
+Database changed
+mysql> show tables;
++--------------------+
+| Tables_in_bd100316 |
++--------------------+
+| basuranestor       |
+| categorias         |
+| clientes           |
+| productos          |
++--------------------+
+4 rows in set (0.33 sec)
+
+mysql> describe basuranestor;
++--------+---------+------+-----+---------+----------------+
+| Field  | Type    | Null | Key | Default | Extra          |
++--------+---------+------+-----+---------+----------------+
+| codigo | int(11) | NO   | PRI | NULL    | auto_increment |
++--------+---------+------+-----+---------+----------------+
+1 row in set (0.27 sec)
+
+mysql> describe categorias;
++-------------+-------------+------+-----+-----------------+-------+
+| Field       | Type        | Null | Key | Default         | Extra |
++-------------+-------------+------+-----+-----------------+-------+
+| codigo      | int(11)     | NO   | PRI | NULL            |       |
+| nombre      | varchar(50) | NO   |     | NULL            |       |
+| descripcion | varchar(50) | YES  |     | sin descripcion |       |
++-------------+-------------+------+-----+-----------------+-------+
+3 rows in set (0.05 sec)
+
+mysql> describe clientes;
++-----------+--------------+------+-----+---------+-------+
+| Field     | Type         | Null | Key | Default | Extra |
++-----------+--------------+------+-----+---------+-------+
+| rut       | varchar(10)  | NO   | PRI | NULL    |       |
+| NOMBRE    | varchar(150) | NO   |     | NULL    |       |
+| direccion | varchar(50)  | YES  |     | NULL    |       |
+| ciudad    | varchar(50)  | YES  |     | NULL    |       |
++-----------+--------------+------+-----+---------+-------+
+4 rows in set (0.24 sec)
+
+mysql> describe categorias;
++-------------+-------------+------+-----+-----------------+-------+
+| Field       | Type        | Null | Key | Default         | Extra |
++-------------+-------------+------+-----+-----------------+-------+
+| codigo      | int(11)     | NO   | PRI | NULL            |       |
+| nombre      | varchar(50) | NO   |     | NULL            |       |
+| descripcion | varchar(50) | YES  |     | sin descripcion |       |
++-------------+-------------+------+-----+-----------------+-------+
+3 rows in set (0.04 sec)
+
+mysql> describe productos;
++------------------+-------------+------+-----+---------+----------------+
+| Field            | Type        | Null | Key | Default | Extra          |
++------------------+-------------+------+-----+---------+----------------+
+| codigo           | int(11)     | NO   | PRI | NULL    | auto_increment |
+| nombre           | varchar(50) | NO   |     | NULL    |                |
+| cantidad         | int(11)     | YES  |     | NULL    |                |
+| precio           | int(11)     | YES  |     | NULL    |                |
+| codigo_categoria | int(11)     | YES  |     | NULL    |                |
++------------------+-------------+------+-----+---------+----------------+
+5 rows in set (0.14 sec)
+
+mysql> alter table productos add constraint Fkcatprod
+    -> foreign key Fkcatprod (codigo_categoria)
+    -> References categorias (codigo)
+    -> on delete cascade
+    -> on update cascade;
+Query OK, 0 rows affected (0.45 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+mysql> describe productos;
++------------------+-------------+------+-----+---------+----------------+
+| Field            | Type        | Null | Key | Default | Extra          |
++------------------+-------------+------+-----+---------+----------------+
+| codigo           | int(11)     | NO   | PRI | NULL    | auto_increment |
+| nombre           | varchar(50) | NO   |     | NULL    |                |
+| cantidad         | int(11)     | YES  |     | NULL    |                |
+| precio           | int(11)     | YES  |     | NULL    |                |
+| codigo_categoria | int(11)     | YES  | MUL | NULL    |                |
++------------------+-------------+------+-----+---------+----------------+
+5 rows in set (0.01 sec)
+
+mysql> alter table productos drop foreign key;
+ERROR 1005 (HY000): Can't create table 'bd100316.#sql-d1c_2' (errno: 150)
+mysql> use bd100316;
+Database changed
+mysql> alter table productos drop foreign key;
+ERROR 1005 (HY000): Can't create table 'bd100316.#sql-d1c_2' (errno: 150)
+mysql> describe productos;
++------------------+-------------+------+-----+---------+----------------+
+| Field            | Type        | Null | Key | Default | Extra          |
++------------------+-------------+------+-----+---------+----------------+
+| codigo           | int(11)     | NO   | PRI | NULL    | auto_increment |
+| nombre           | varchar(50) | NO   |     | NULL    |                |
+| cantidad         | int(11)     | YES  |     | NULL    |                |
+| precio           | int(11)     | YES  |     | NULL    |                |
+| codigo_categoria | int(11)     | YES  | MUL | NULL    |                |
++------------------+-------------+------+-----+---------+----------------+
+5 rows in set (0.03 sec)
+
+mysql> alter table productos drop foreign key;
+ERROR 1005 (HY000): Can't create table 'bd100316.#sql-d1c_2' (errno: 150)
+mysql> alter table productos drop Fkcatprod;
+ERROR 1091 (42000): Can't DROP 'Fkcatprod'; check that column/key exists
+mysql> alter table productos drop foreign key;
+ERROR 1005 (HY000): Can't create table 'bd100316.#sql-d1c_2' (errno: 150)
+mysql> alter table productos drop foreign key;
+ERROR 1005 (HY000): Can't create table 'bd100316.#sql-d1c_2' (errno: 150)
+mysql> alter table productos drop foreign key Fkcatprod;
+Query OK, 0 rows affected (0.17 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+mysql> create databases prueba1Mysql;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that
+corresponds to your MySQL server version for the right syntax to use near 'datab
+ases prueba1Mysql' at line 1
+mysql> create databases prueba1Mysql
+    -> show databases
+    -> show databases;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that
+corresponds to your MySQL server version for the right syntax to use near 'datab
+ases prueba1Mysql
+show databases
+show databases' at line 1
+mysql> show databases;
++--------------------+
+| Database           |
++--------------------+
+| information_schema |
+| bd100316           |
+| db140316           |
+| mysql              |
+| test               |
++--------------------+
+5 rows in set (0.04 sec)
+
+mysql> create databases prueba1Mysql;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that
+corresponds to your MySQL server version for the right syntax to use near 'datab
+ases prueba1Mysql' at line 1
+mysql> create database prueba1Mysql;
+Query OK, 1 row affected (0.03 sec)
+
+mysql> use prueba1Mysql;
+Database changed
+mysql> create table Libros(codigo int(10) not null primary key
+    -> titulo( varchar(30),
+    -> autor( varchar(20) default sin especificar,
+    -> descripcion( varchar(50) default sin descripcion,
+    -> codigoCategoria( int(10),
+    -> estado(varchar(10));
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that
+corresponds to your MySQL server version for the right syntax to use near 'titul
+o( varchar(30),
+autor( varchar(20) default sin especificar,
+descripcion( va' at line 2
+mysql> create table Libros(codigo int(10) not null primary key,
+    -> titulo varchar(30),
+    -> autor varchar(20) default sin especificar,
+    -> descripcion varchar(50) default sin descripcion,
+    -> codigoCategoria int(10),
+    -> estado varchar(10));
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that
+corresponds to your MySQL server version for the right syntax to use near 'sin e
+specificar,
+descripcion varchar(50) default sin descripcion,
+codigoCategori' at line 3
+mysql> create table Libros(codigo int(10) not null primary key,
+    -> titulo varchar(30),
+    -> autor varchar(20) default "sin especificar",
+    -> descripcion varchar(50) default "sin descripcion",
+    -> codigoCategoria int(10),
+    -> estado varchar(10));
+Query OK, 0 rows affected (0.10 sec)
+
+mysql> describe Libros;
++-----------------+-------------+------+-----+-----------------+-------+
+| Field           | Type        | Null | Key | Default         | Extra |
++-----------------+-------------+------+-----+-----------------+-------+
+| codigo          | int(10)     | NO   | PRI | NULL            |       |
+| titulo          | varchar(30) | YES  |     | NULL            |       |
+| autor           | varchar(20) | YES  |     | sin especificar |       |
+| descripcion     | varchar(50) | YES  |     | sin descripcion |       |
+| codigoCategoria | int(10)     | YES  |     | NULL            |       |
+| estado          | varchar(10) | YES  |     | NULL            |       |
++-----------------+-------------+------+-----+-----------------+-------+
+6 rows in set (0.04 sec)
+
+mysql> create table Categorias(codigo int(10) not null primary key,
+    -> nombreCategoria varchar(30) not null,
+    -> descripcion varchar(50) default "sin descripcion");
+Query OK, 0 rows affected (0.09 sec)
+
+mysql> show tables;
++------------------------+
+| Tables_in_prueba1mysql |
++------------------------+
+| categorias             |
+| libros                 |
++------------------------+
+2 rows in set (0.00 sec)
+
+mysql> create table clientes(rut varchar(10) not null primary key,
+    -> nombre varchar(30) not null,
+    -> telefono int(10) not null,
+    -> email varchar(30) default "sin especificar");
+Query OK, 0 rows affected (0.12 sec)
+
+mysql> show tables;
++------------------------+
+| Tables_in_prueba1mysql |
++------------------------+
+| categorias             |
+| clientes               |
+| libros                 |
++------------------------+
+3 rows in set (0.00 sec)
+
+mysql> show databases;
++--------------------+
+| Database           |
++--------------------+
+| information_schema |
+| bd100316           |
+| db140316           |
+| mysql              |
+| prueba1mysql       |
+| test               |
++--------------------+
+6 rows in set (0.00 sec)
+
+mysql> use prueba1Mysql;
+Database changed
+mysql> alter table clientes rename Personal;
+Query OK, 0 rows affected (0.07 sec)
+
+mysql> show tables;
++------------------------+
+| Tables_in_prueba1mysql |
++------------------------+
+| categorias             |
+| libros                 |
+| personal               |
++------------------------+
+3 rows in set (0.01 sec)
+
+mysql>
+5 rows in set (0.03 sec)
+
+mysql> alter table productos drop foreign key;
+ERROR 1005 (HY000): Can't create table 'bd100316.#sql-d1c_2' (errno: 150)
+mysql> alter table productos drop Fkcatprod;
+ERROR 1091 (42000): Can't DROP 'Fkcatprod'; check that column/key exists
+mysql> alter table productos drop foreign key;
+ERROR 1005 (HY000): Can't create table 'bd100316.#sql-d1c_2' (errno: 150)
+mysql> alter table productos drop foreign key;
+ERROR 1005 (HY000): Can't create table 'bd100316.#sql-d1c_2' (errno: 150)
+mysql> alter table productos drop foreign key Fkcatprod;
+Query OK, 0 rows affected (0.17 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+mysql> create databases prueba1Mysql;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that
+corresponds to your MySQL server version for the right syntax to use near 'datab
+ases prueba1Mysql' at line 1
+mysql> create databases prueba1Mysql
+    -> show databases
+    -> show databases;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that
+corresponds to your MySQL server version for the right syntax to use near 'datab
+ases prueba1Mysql
+show databases
+show databases' at line 1
+mysql> show databases;
++--------------------+
+| Database           |
++--------------------+
+| information_schema |
+| bd100316           |
+| db140316           |
+| mysql              |
+| test               |
++--------------------+
+5 rows in set (0.04 sec)
+
+mysql> create databases prueba1Mysql;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that
+corresponds to your MySQL server version for the right syntax to use near 'datab
+ases prueba1Mysql' at line 1
+mysql> create database prueba1Mysql;
+Query OK, 1 row affected (0.03 sec)
+
+mysql> use prueba1Mysql;
+Database changed
+mysql> create table Libros(codigo int(10) not null primary key
+    -> titulo( varchar(30),
+    -> autor( varchar(20) default sin especificar,
+    -> descripcion( varchar(50) default sin descripcion,
+    -> codigoCategoria( int(10),
+    -> estado(varchar(10));
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that
+corresponds to your MySQL server version for the right syntax to use near 'titul
+o( varchar(30),
+autor( varchar(20) default sin especificar,
+descripcion( va' at line 2
+mysql> create table Libros(codigo int(10) not null primary key,
+    -> titulo varchar(30),
+    -> autor varchar(20) default sin especificar,
+    -> descripcion varchar(50) default sin descripcion,
+    -> codigoCategoria int(10),
+    -> estado varchar(10));
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that
+corresponds to your MySQL server version for the right syntax to use near 'sin e
+specificar,
+descripcion varchar(50) default sin descripcion,
+codigoCategori' at line 3
+mysql> create table Libros(codigo int(10) not null primary key,
+    -> titulo varchar(30),
+    -> autor varchar(20) default "sin especificar",
+    -> descripcion varchar(50) default "sin descripcion",
+    -> codigoCategoria int(10),
+    -> estado varchar(10));
+Query OK, 0 rows affected (0.10 sec)
+
+mysql> describe Libros;
++-----------------+-------------+------+-----+-----------------+-------+
+| Field           | Type        | Null | Key | Default         | Extra |
++-----------------+-------------+------+-----+-----------------+-------+
+| codigo          | int(10)     | NO   | PRI | NULL            |       |
+| titulo          | varchar(30) | YES  |     | NULL            |       |
+| autor           | varchar(20) | YES  |     | sin especificar |       |
+| descripcion     | varchar(50) | YES  |     | sin descripcion |       |
+| codigoCategoria | int(10)     | YES  |     | NULL            |       |
+| estado          | varchar(10) | YES  |     | NULL            |       |
++-----------------+-------------+------+-----+-----------------+-------+
+6 rows in set (0.04 sec)
+
+mysql> create table Categorias(codigo int(10) not null primary key,
+    -> nombreCategoria varchar(30) not null,
+    -> descripcion varchar(50) default "sin descripcion");
+Query OK, 0 rows affected (0.09 sec)
+
+mysql> show tables;
++------------------------+
+| Tables_in_prueba1mysql |
++------------------------+
+| categorias             |
+| libros                 |
++------------------------+
+2 rows in set (0.00 sec)
+
+mysql> create table clientes(rut varchar(10) not null primary key,
+    -> nombre varchar(30) not null,
+    -> telefono int(10) not null,
+    -> email varchar(30) default "sin especificar");
+Query OK, 0 rows affected (0.12 sec)
+
+mysql> show tables;
++------------------------+
+| Tables_in_prueba1mysql |
++------------------------+
+| categorias             |
+| clientes               |
+| libros                 |
++------------------------+
+3 rows in set (0.00 sec)
+
+mysql> show databases;
++--------------------+
+| Database           |
++--------------------+
+| information_schema |
+| bd100316           |
+| db140316           |
+| mysql              |
+| prueba1mysql       |
+| test               |
++--------------------+
+6 rows in set (0.00 sec)
+
+mysql> use prueba1Mysql;
+Database changed
+mysql> alter table clientes rename Personal;
+Query OK, 0 rows affected (0.07 sec)
+
+mysql> show tables;
++------------------------+
+| Tables_in_prueba1mysql |
++------------------------+
+| categorias             |
+| libros                 |
+| personal               |
++------------------------+
+3 rows in set (0.01 sec)
+
+mysql>
+mysql>
+mysql>
+mysql>
+mysql>
+mysql> describe libros;
++-----------------+-------------+------+-----+-----------------+-------+
+| Field           | Type        | Null | Key | Default         | Extra |
++-----------------+-------------+------+-----+-----------------+-------+
+| codigo          | int(10)     | NO   | PRI | NULL            |       |
+| titulo          | varchar(30) | YES  |     | NULL            |       |
+| autor           | varchar(20) | YES  |     | sin especificar |       |
+| descripcion     | varchar(50) | YES  |     | sin descripcion |       |
+| codigoCategoria | int(10)     | YES  |     | NULL            |       |
+| estado          | varchar(10) | YES  |     | NULL            |       |
++-----------------+-------------+------+-----+-----------------+-------+
+6 rows in set (0.01 sec)
+
+mysql> alter table libros drop primary key;
+Query OK, 0 rows affected (0.26 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+mysql> show table;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that
+corresponds to your MySQL server version for the right syntax to use near '' at
+line 1
+mysql> show tables;
++------------------------+
+| Tables_in_prueba1mysql |
++------------------------+
+| categorias             |
+| libros                 |
+| personal               |
++------------------------+
+3 rows in set (0.01 sec)
+
+mysql> describe libros;
++-----------------+-------------+------+-----+-----------------+-------+
+| Field           | Type        | Null | Key | Default         | Extra |
++-----------------+-------------+------+-----+-----------------+-------+
+| codigo          | int(10)     | NO   |     | NULL            |       |
+| titulo          | varchar(30) | YES  |     | NULL            |       |
+| autor           | varchar(20) | YES  |     | sin especificar |       |
+| descripcion     | varchar(50) | YES  |     | sin descripcion |       |
+| codigoCategoria | int(10)     | YES  |     | NULL            |       |
+| estado          | varchar(10) | YES  |     | NULL            |       |
++-----------------+-------------+------+-----+-----------------+-------+
+6 rows in set (0.00 sec)
+
+mysql> alter table libro add x varchar (50) not null default "sin especificar";
+ERROR 1146 (42S02): Table 'prueba1mysql.libro' doesn't exist
+mysql> use prueba1Mysql;
+Database changed
+mysql> alter table libro add x varchar (50) not null default "sin especificar";
+ERROR 1146 (42S02): Table 'prueba1mysql.libro' doesn't exist
+mysql> alter table libros add x varchar (50) not null default "sin especificar";
+
+Query OK, 0 rows affected (0.22 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+mysql> describe libros;
++-----------------+-------------+------+-----+-----------------+-------+
+| Field           | Type        | Null | Key | Default         | Extra |
++-----------------+-------------+------+-----+-----------------+-------+
+| codigo          | int(10)     | NO   |     | NULL            |       |
+| titulo          | varchar(30) | YES  |     | NULL            |       |
+| autor           | varchar(20) | YES  |     | sin especificar |       |
+| descripcion     | varchar(50) | YES  |     | sin descripcion |       |
+| codigoCategoria | int(10)     | YES  |     | NULL            |       |
+| estado          | varchar(10) | YES  |     | NULL            |       |
+| x               | varchar(50) | NO   |     | sin especificar |       |
++-----------------+-------------+------+-----+-----------------+-------+
+7 rows in set (0.01 sec)
+
+mysql> alter table libro add x varchar (50) not null default;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that
+corresponds to your MySQL server version for the right syntax to use near '' at
+line 1
+mysql> alter table libros add x varchar (50) not null default;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that
+corresponds to your MySQL server version for the right syntax to use near '' at
+line 1
+mysql> alter table libros add xx varchar (50) not null;
+Query OK, 0 rows affected (0.19 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+mysql> show tables;
++------------------------+
+| Tables_in_prueba1mysql |
++------------------------+
+| categorias             |
+| libros                 |
+| personal               |
++------------------------+
+3 rows in set (0.01 sec)
+
+mysql> describe libros;
++-----------------+-------------+------+-----+-----------------+-------+
+| Field           | Type        | Null | Key | Default         | Extra |
++-----------------+-------------+------+-----+-----------------+-------+
+| codigo          | int(10)     | NO   |     | NULL            |       |
+| titulo          | varchar(30) | YES  |     | NULL            |       |
+| autor           | varchar(20) | YES  |     | sin especificar |       |
+| descripcion     | varchar(50) | YES  |     | sin descripcion |       |
+| codigoCategoria | int(10)     | YES  |     | NULL            |       |
+| estado          | varchar(10) | YES  |     | NULL            |       |
+| x               | varchar(50) | NO   |     | sin especificar |       |
+| xx              | varchar(50) | NO   |     | NULL            |       |
++-----------------+-------------+------+-----+-----------------+-------+
+8 rows in set (0.01 sec)
+
+mysql> describe personal;
++----------+-------------+------+-----+-----------------+-------+
+| Field    | Type        | Null | Key | Default         | Extra |
++----------+-------------+------+-----+-----------------+-------+
+| rut      | varchar(10) | NO   | PRI | NULL            |       |
+| nombre   | varchar(30) | NO   |     | NULL            |       |
+| telefono | int(10)     | NO   |     | NULL            |       |
+| email    | varchar(30) | YES  |     | sin especificar |       |
++----------+-------------+------+-----+-----------------+-------+
+4 rows in set (0.01 sec)
+
+mysql> alter table personal change nombre nombrecompleto,
+    -> add ciudad default "839",
+    -> drop telefono;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that
+corresponds to your MySQL server version for the right syntax to use near '
+add ciudad default "839",
+drop telefono' at line 1
+mysql> alter table personal change nombre nombrecompleto varchar (30) not null,
+    -> add ciudad varchar(50) not null default "839", drop telefono;
+Query OK, 0 rows affected (0.23 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+mysql> alter table libros change x x varchar(60);
+Query OK, 0 rows affected (0.32 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+mysql> describe libros;
++-----------------+-------------+------+-----+-----------------+-------+
+| Field           | Type        | Null | Key | Default         | Extra |
++-----------------+-------------+------+-----+-----------------+-------+
+| codigo          | int(10)     | NO   |     | NULL            |       |
+| titulo          | varchar(30) | YES  |     | NULL            |       |
+| autor           | varchar(20) | YES  |     | sin especificar |       |
+| descripcion     | varchar(50) | YES  |     | sin descripcion |       |
+| codigoCategoria | int(10)     | YES  |     | NULL            |       |
+| estado          | varchar(10) | YES  |     | NULL            |       |
+| x               | varchar(60) | YES  |     | NULL            |       |
+| xx              | varchar(50) | NO   |     | NULL            |       |
++-----------------+-------------+------+-----+-----------------+-------+
+8 rows in set (0.01 sec)
+
+mysql> alter table personal drop email;
+Query OK, 0 rows affected (0.22 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+mysql>

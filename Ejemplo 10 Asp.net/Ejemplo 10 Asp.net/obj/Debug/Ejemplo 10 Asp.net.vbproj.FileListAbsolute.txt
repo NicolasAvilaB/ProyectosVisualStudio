@@ -1,0 +1,9 @@
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Ejemplo 10 Asp.net\Ejemplo 10 Asp.net\bin\Ejemplo 10 Asp.net.dll.config
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Ejemplo 10 Asp.net\Ejemplo 10 Asp.net\bin\Ejemplo 10 Asp.net.dll
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Ejemplo 10 Asp.net\Ejemplo 10 Asp.net\bin\Ejemplo 10 Asp.net.pdb
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Ejemplo 10 Asp.net\Ejemplo 10 Asp.net\bin\Ejemplo 10 Asp.net.xml
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Ejemplo 10 Asp.net\Ejemplo 10 Asp.net\obj\Debug\Ejemplo_10_Asp.net.Resources.resources
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Ejemplo 10 Asp.net\Ejemplo 10 Asp.net\obj\Debug\Ejemplo 10 Asp.net.vbproj.GenerateResource.Cache
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Ejemplo 10 Asp.net\Ejemplo 10 Asp.net\obj\Debug\Ejemplo 10 Asp.net.dll
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Ejemplo 10 Asp.net\Ejemplo 10 Asp.net\obj\Debug\Ejemplo 10 Asp.net.xml
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\Ejemplo 10 Asp.net\Ejemplo 10 Asp.net\obj\Debug\Ejemplo 10 Asp.net.pdb

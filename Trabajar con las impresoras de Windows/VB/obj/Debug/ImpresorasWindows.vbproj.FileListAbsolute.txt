@@ -1,0 +1,22 @@
+C:\Users\Jorge Mendoza\AppData\Local\Temporary Projects\ImpresorasWindows\bin\Debug\ImpresorasWindows.exe.config
+C:\Users\Jorge Mendoza\Desktop\ImpresorasWindows\bin\Debug\ImpresorasWindows.exe.config
+C:\Users\Jorge Mendoza\Desktop\ImpresorasWindows\bin\Debug\ImpresorasWindows.exe
+C:\Users\Jorge Mendoza\Desktop\ImpresorasWindows\bin\Debug\ImpresorasWindows.pdb
+C:\Users\Jorge Mendoza\Desktop\ImpresorasWindows\bin\Debug\ImpresorasWindows.xml
+C:\Users\Jorge Mendoza\Desktop\ImpresorasWindows\obj\Debug\ImpresorasWindows.frmImpresorasWindows.resources
+C:\Users\Jorge Mendoza\Desktop\ImpresorasWindows\obj\Debug\ImpresorasWindows.Resources.resources
+C:\Users\Jorge Mendoza\Desktop\ImpresorasWindows\obj\Debug\ImpresorasWindows.vbproj.GenerateResource.Cache
+C:\Users\Jorge Mendoza\Desktop\ImpresorasWindows\obj\Debug\ImpresorasWindows.exe
+C:\Users\Jorge Mendoza\Desktop\ImpresorasWindows\obj\Debug\ImpresorasWindows.xml
+C:\Users\Jorge Mendoza\Desktop\ImpresorasWindows\obj\Debug\ImpresorasWindows.pdb
+C:\Users\Jorge Mendoza\Desktop\ImpresorasWindows\ImpresorasWindows\bin\Debug\ImpresorasWindows.exe.config
+C:\Users\Jorge Mendoza\Desktop\ImpresorasWindows\ImpresorasWindows\obj\Debug\ImpresorasWindows.exe
+C:\Users\Jorge Mendoza\Desktop\ImpresorasWindows\ImpresorasWindows\obj\Debug\ImpresorasWindows.xml
+C:\Users\Jorge Mendoza\Desktop\ImpresorasWindows\ImpresorasWindows\obj\Debug\ImpresorasWindows.pdb
+C:\Users\Jorge Mendoza\Desktop\ImpresorasWindows\ImpresorasWindows\bin\Debug\ImpresorasWindows.exe
+C:\Users\Jorge Mendoza\Desktop\ImpresorasWindows\ImpresorasWindows\bin\Debug\ImpresorasWindows.pdb
+C:\Users\Jorge Mendoza\Desktop\ImpresorasWindows\ImpresorasWindows\bin\Debug\ImpresorasWindows.xml
+C:\Users\Jorge Mendoza\Desktop\ImpresorasWindows\ImpresorasWindows\obj\Debug\ImpresorasWindows.frmImpresorasWindows.resources
+C:\Users\Jorge Mendoza\Desktop\ImpresorasWindows\ImpresorasWindows\obj\Debug\ImpresorasWindows.Resources.resources
+C:\Users\Jorge Mendoza\Desktop\ImpresorasWindows\ImpresorasWindows\obj\Debug\ImpresorasWindows.vbproj.GenerateResource.Cache
+C:\Users\Jorge Mendoza\Desktop\ImpresorasWindows\ImpresorasWindows\obj\Debug\ImpresorasWindows.vbprojResolveAssemblyReference.cache

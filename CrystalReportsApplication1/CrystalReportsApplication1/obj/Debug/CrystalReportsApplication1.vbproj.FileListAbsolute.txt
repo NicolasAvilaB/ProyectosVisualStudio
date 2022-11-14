@@ -1,0 +1,13 @@
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\CrystalReportsApplication1\CrystalReportsApplication1\bin\Debug\CrystalReportsApplication1.exe
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\CrystalReportsApplication1\CrystalReportsApplication1\bin\Debug\CrystalReportsApplication1.pdb
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\CrystalReportsApplication1\CrystalReportsApplication1\bin\Debug\CrystalReportsApplication1.xml
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\CrystalReportsApplication1\CrystalReportsApplication1\obj\Debug\CrystalReportsApplication1.vbprojResolveAssemblyReference.cache
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\CrystalReportsApplication1\CrystalReportsApplication1\obj\Debug\CrystalReportsApplication1.Form1.resources
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\CrystalReportsApplication1\CrystalReportsApplication1\obj\Debug\CrystalReportsApplication1.Resources.resources
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\CrystalReportsApplication1\CrystalReportsApplication1\obj\Debug\CrystalReportsApplication1.vbproj.GenerateResource.Cache
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\CrystalReportsApplication1\CrystalReportsApplication1\obj\Debug\CrystalReportsApplication1.exe
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\CrystalReportsApplication1\CrystalReportsApplication1\obj\Debug\CrystalReportsApplication1.xml
+c:\users\nicolas avila b\documents\visual studio 2013\Projects\CrystalReportsApplication1\CrystalReportsApplication1\obj\Debug\CrystalReportsApplication1.pdb
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\CrystalReportsApplication1\CrystalReportsApplication1\obj\Debug\CrystalReportsApplication1.exe
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\CrystalReportsApplication1\CrystalReportsApplication1\obj\Debug\CrystalReportsApplication1.xml
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\CrystalReportsApplication1\CrystalReportsApplication1\obj\Debug\CrystalReportsApplication1.pdb

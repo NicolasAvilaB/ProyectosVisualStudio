@@ -1,0 +1,11 @@
+d:\users\nicolas avila biskup\documents\visual studio 2015\Projects\PruebaEnvioEmail\PruebaEnvioEmail\bin\Debug\PruebaEnvioEmail.exe.config
+D:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\PruebaEnvioEmail\PruebaEnvioEmail\bin\Debug\PruebaEnvioEmail.exe
+D:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\PruebaEnvioEmail\PruebaEnvioEmail\bin\Debug\PruebaEnvioEmail.pdb
+D:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\PruebaEnvioEmail\PruebaEnvioEmail\bin\Debug\PruebaEnvioEmail.xml
+D:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\PruebaEnvioEmail\PruebaEnvioEmail\obj\Debug\PruebaEnvioEmail.vbprojResolveAssemblyReference.cache
+D:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\PruebaEnvioEmail\PruebaEnvioEmail\obj\Debug\PruebaEnvioEmail.Form1.resources
+D:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\PruebaEnvioEmail\PruebaEnvioEmail\obj\Debug\PruebaEnvioEmail.Resources.resources
+D:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\PruebaEnvioEmail\PruebaEnvioEmail\obj\Debug\PruebaEnvioEmail.vbproj.GenerateResource.Cache
+D:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\PruebaEnvioEmail\PruebaEnvioEmail\obj\Debug\PruebaEnvioEmail.exe
+D:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\PruebaEnvioEmail\PruebaEnvioEmail\obj\Debug\PruebaEnvioEmail.xml
+D:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\PruebaEnvioEmail\PruebaEnvioEmail\obj\Debug\PruebaEnvioEmail.pdb

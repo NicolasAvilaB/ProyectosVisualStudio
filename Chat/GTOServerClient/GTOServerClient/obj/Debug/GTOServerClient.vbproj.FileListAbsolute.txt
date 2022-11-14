@@ -1,0 +1,39 @@
+E:\Google Drive\Protectos Vigentes\NGestion\GTOServerClient\GTOServerClient\bin\Debug\GTOServerClient.dll
+E:\Google Drive\Protectos Vigentes\NGestion\GTOServerClient\GTOServerClient\bin\Debug\GTOServerClient.pdb
+E:\Google Drive\Protectos Vigentes\NGestion\GTOServerClient\GTOServerClient\bin\Debug\GTOServerClient.xml
+E:\Google Drive\Protectos Vigentes\NGestion\GTOServerClient\GTOServerClient\obj\Debug\ResolveAssemblyReference.cache
+E:\Google Drive\Protectos Vigentes\NGestion\GTOServerClient\GTOServerClient\obj\Debug\GTOServerClient.Resources.resources
+E:\Google Drive\Protectos Vigentes\NGestion\GTOServerClient\GTOServerClient\obj\Debug\GenerateResource.read.1.tlog
+E:\Google Drive\Protectos Vigentes\NGestion\GTOServerClient\GTOServerClient\obj\Debug\GenerateResource.write.1.tlog
+E:\Google Drive\Protectos Vigentes\NGestion\GTOServerClient\GTOServerClient\obj\Debug\GTOServerClient.dll
+E:\Google Drive\Protectos Vigentes\NGestion\GTOServerClient\GTOServerClient\obj\Debug\GTOServerClient.xml
+E:\Google Drive\Protectos Vigentes\NGestion\GTOServerClient\GTOServerClient\obj\Debug\GTOServerClient.pdb
+E:\Google Drive\Proyectos Visual Studio\Proyectos_2013\Socket_Servidor_Cliente\GTOServerClient\GTOServerClient\bin\Debug\GTOServerClient.dll
+E:\Google Drive\Proyectos Visual Studio\Proyectos_2013\Socket_Servidor_Cliente\GTOServerClient\GTOServerClient\bin\Debug\GTOServerClient.pdb
+E:\Google Drive\Proyectos Visual Studio\Proyectos_2013\Socket_Servidor_Cliente\GTOServerClient\GTOServerClient\bin\Debug\GTOServerClient.xml
+E:\Google Drive\Proyectos Visual Studio\Proyectos_2013\Socket_Servidor_Cliente\GTOServerClient\GTOServerClient\obj\Debug\ResolveAssemblyReference.cache
+E:\Google Drive\Proyectos Visual Studio\Proyectos_2013\Socket_Servidor_Cliente\GTOServerClient\GTOServerClient\obj\Debug\GTOServerClient.Resources.resources
+E:\Google Drive\Proyectos Visual Studio\Proyectos_2013\Socket_Servidor_Cliente\GTOServerClient\GTOServerClient\obj\Debug\ResGen.read.1.tlog
+E:\Google Drive\Proyectos Visual Studio\Proyectos_2013\Socket_Servidor_Cliente\GTOServerClient\GTOServerClient\obj\Debug\ResGen.write.1.tlog
+E:\Google Drive\Proyectos Visual Studio\Proyectos_2013\Socket_Servidor_Cliente\GTOServerClient\GTOServerClient\obj\Debug\GTOServerClient.dll
+E:\Google Drive\Proyectos Visual Studio\Proyectos_2013\Socket_Servidor_Cliente\GTOServerClient\GTOServerClient\obj\Debug\GTOServerClient.xml
+E:\Google Drive\Proyectos Visual Studio\Proyectos_2013\Socket_Servidor_Cliente\GTOServerClient\GTOServerClient\obj\Debug\GTOServerClient.pdb
+C:\Users\Pc-123\Desktop\B_Chat\GTOServerClient\GTOServerClient\bin\Debug\GTOServerClient.dll
+C:\Users\Pc-123\Desktop\B_Chat\GTOServerClient\GTOServerClient\bin\Debug\GTOServerClient.pdb
+C:\Users\Pc-123\Desktop\B_Chat\GTOServerClient\GTOServerClient\bin\Debug\GTOServerClient.xml
+C:\Users\Pc-123\Desktop\B_Chat\GTOServerClient\GTOServerClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pc-123\Desktop\B_Chat\GTOServerClient\GTOServerClient\obj\Debug\GTOServerClient.Resources.resources
+C:\Users\Pc-123\Desktop\B_Chat\GTOServerClient\GTOServerClient\obj\Debug\ResGen.read.1.tlog
+C:\Users\Pc-123\Desktop\B_Chat\GTOServerClient\GTOServerClient\obj\Debug\ResGen.write.1.tlog
+C:\Users\Pc-123\Desktop\B_Chat\GTOServerClient\GTOServerClient\obj\Debug\GTOServerClient.dll
+C:\Users\Pc-123\Desktop\B_Chat\GTOServerClient\GTOServerClient\obj\Debug\GTOServerClient.xml
+C:\Users\Pc-123\Desktop\B_Chat\GTOServerClient\GTOServerClient\obj\Debug\GTOServerClient.pdb
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Chat\GTOServerClient\GTOServerClient\obj\Debug\GTOServerClient.vbprojResolveAssemblyReference.cache
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Chat\GTOServerClient\GTOServerClient\obj\Debug\GTOServerClient.vbproj.GenerateResource.Cache
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Chat\GTOServerClient\GTOServerClient\obj\Debug\GTOServerClient.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Chat\GTOServerClient\GTOServerClient\obj\Debug\GTOServerClient.xml
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Chat\GTOServerClient\GTOServerClient\obj\Debug\GTOServerClient.pdb
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Chat\GTOServerClient\GTOServerClient\obj\Debug\GTOServerClient.Resources.resources
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Chat\GTOServerClient\GTOServerClient\bin\Debug\GTOServerClient.dll
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Chat\GTOServerClient\GTOServerClient\bin\Debug\GTOServerClient.pdb
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Chat\GTOServerClient\GTOServerClient\bin\Debug\GTOServerClient.xml

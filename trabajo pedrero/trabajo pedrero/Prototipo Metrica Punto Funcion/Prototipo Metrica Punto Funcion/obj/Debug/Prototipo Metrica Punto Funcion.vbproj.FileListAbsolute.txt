@@ -1,0 +1,52 @@
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\bin\Debug\Prototipo Metrica Punto Funcion.exe.config
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\obj\Debug\Prototipo Metrica Punto Funcion.vbprojResolveAssemblyReference.cache
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\obj\Debug\Prototipo_Metrica_Punto_Funcion.Resources.resources
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\obj\Debug\Prototipo Metrica Punto Funcion.vbproj.GenerateResource.Cache
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\obj\Debug\Prototipo Metrica Punto Funcion.xml
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\bin\Debug\Prototipo Metrica Punto Funcion.exe
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\bin\Debug\Prototipo Metrica Punto Funcion.pdb
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\bin\Debug\Prototipo Metrica Punto Funcion.xml
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\obj\Debug\Prototipo Metrica Punto Funcion.exe
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\obj\Debug\Prototipo Metrica Punto Funcion.pdb
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\obj\Debug\Prototipo_Metrica_Punto_Funcion.Clientes.resources
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\obj\Debug\Prototipo_Metrica_Punto_Funcion.Encomiendas.resources
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\obj\Debug\Prototipo_Metrica_Punto_Funcion.Menu1.resources
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\obj\Debug\Prototipo_Metrica_Punto_Funcion.Camioneros.resources
+c:\users\nicolas avila biskup\documents\visual studio 2015\Projects\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\obj\Debug\Prototipo_Metrica_Punto_Funcion.Camioness.resources
+C:\Users\Nicolas Avila Biskup\Documents\Visual Studio 2015\Projects\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\obj\Debug\Prototipo_Metrica_Punto_Funcion.Ciudades.resources
+C:\Users\mcast\Desktop\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\bin\Debug\Prototipo Metrica Punto Funcion.exe.config
+C:\Users\mcast\Desktop\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\obj\Debug\Prototipo Metrica Punto Funcion.exe
+C:\Users\mcast\Desktop\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\obj\Debug\Prototipo Metrica Punto Funcion.xml
+C:\Users\mcast\Desktop\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\obj\Debug\Prototipo Metrica Punto Funcion.pdb
+C:\Users\mcast\Desktop\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\bin\Debug\Prototipo Metrica Punto Funcion.exe
+C:\Users\mcast\Desktop\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\bin\Debug\Prototipo Metrica Punto Funcion.pdb
+C:\Users\mcast\Desktop\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\bin\Debug\Prototipo Metrica Punto Funcion.xml
+C:\Users\mcast\Desktop\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\obj\Debug\Prototipo Metrica Punto Funcion.vbprojResolveAssemblyReference.cache
+C:\Users\mcast\Desktop\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\obj\Debug\Prototipo_Metrica_Punto_Funcion.Camioneros.resources
+C:\Users\mcast\Desktop\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\obj\Debug\Prototipo_Metrica_Punto_Funcion.Camioness.resources
+C:\Users\mcast\Desktop\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\obj\Debug\Prototipo_Metrica_Punto_Funcion.Ciudades.resources
+C:\Users\mcast\Desktop\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\obj\Debug\Prototipo_Metrica_Punto_Funcion.Clientes.resources
+C:\Users\mcast\Desktop\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\obj\Debug\Prototipo_Metrica_Punto_Funcion.Encomiendas.resources
+C:\Users\mcast\Desktop\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\obj\Debug\Prototipo_Metrica_Punto_Funcion.Menu1.resources
+C:\Users\mcast\Desktop\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\obj\Debug\Prototipo_Metrica_Punto_Funcion.Resources.resources
+C:\Users\mcast\Desktop\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\obj\Debug\Prototipo Metrica Punto Funcion.vbproj.GenerateResource.Cache
+C:\Users\Nicolas Avila Biskup\Desktop\trabajo pedrero\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\bin\Debug\Prototipo Metrica Punto Funcion.exe.config
+C:\Users\Nicolas Avila Biskup\Desktop\trabajo pedrero\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\obj\Debug\Prototipo Metrica Punto Funcion.exe
+C:\Users\Nicolas Avila Biskup\Desktop\trabajo pedrero\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\obj\Debug\Prototipo Metrica Punto Funcion.xml
+C:\Users\Nicolas Avila Biskup\Desktop\trabajo pedrero\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\obj\Debug\Prototipo Metrica Punto Funcion.pdb
+C:\Users\Nicolas Avila Biskup\Desktop\trabajo pedrero\trabajo pedrero\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\bin\Debug\Prototipo Metrica Punto Funcion.exe.config
+C:\Users\Nicolas Avila Biskup\Desktop\trabajo pedrero\trabajo pedrero\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\obj\Debug\Prototipo Metrica Punto Funcion.exe
+C:\Users\Nicolas Avila Biskup\Desktop\trabajo pedrero\trabajo pedrero\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\obj\Debug\Prototipo Metrica Punto Funcion.xml
+C:\Users\Nicolas Avila Biskup\Desktop\trabajo pedrero\trabajo pedrero\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\obj\Debug\Prototipo Metrica Punto Funcion.pdb
+C:\Users\Nicolas Avila Biskup\Desktop\trabajo pedrero\trabajo pedrero\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\bin\Debug\Prototipo Metrica Punto Funcion.exe
+C:\Users\Nicolas Avila Biskup\Desktop\trabajo pedrero\trabajo pedrero\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\bin\Debug\Prototipo Metrica Punto Funcion.pdb
+C:\Users\Nicolas Avila Biskup\Desktop\trabajo pedrero\trabajo pedrero\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\bin\Debug\Prototipo Metrica Punto Funcion.xml
+C:\Users\Nicolas Avila Biskup\Desktop\trabajo pedrero\trabajo pedrero\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\obj\Debug\Prototipo Metrica Punto Funcion.vbprojResolveAssemblyReference.cache
+C:\Users\Nicolas Avila Biskup\Desktop\trabajo pedrero\trabajo pedrero\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\obj\Debug\Prototipo_Metrica_Punto_Funcion.Camioneros.resources
+C:\Users\Nicolas Avila Biskup\Desktop\trabajo pedrero\trabajo pedrero\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\obj\Debug\Prototipo_Metrica_Punto_Funcion.Camioness.resources
+C:\Users\Nicolas Avila Biskup\Desktop\trabajo pedrero\trabajo pedrero\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\obj\Debug\Prototipo_Metrica_Punto_Funcion.Ciudades.resources
+C:\Users\Nicolas Avila Biskup\Desktop\trabajo pedrero\trabajo pedrero\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\obj\Debug\Prototipo_Metrica_Punto_Funcion.Clientes.resources
+C:\Users\Nicolas Avila Biskup\Desktop\trabajo pedrero\trabajo pedrero\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\obj\Debug\Prototipo_Metrica_Punto_Funcion.Encomiendas.resources
+C:\Users\Nicolas Avila Biskup\Desktop\trabajo pedrero\trabajo pedrero\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\obj\Debug\Prototipo_Metrica_Punto_Funcion.Menu1.resources
+C:\Users\Nicolas Avila Biskup\Desktop\trabajo pedrero\trabajo pedrero\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\obj\Debug\Prototipo_Metrica_Punto_Funcion.Resources.resources
+C:\Users\Nicolas Avila Biskup\Desktop\trabajo pedrero\trabajo pedrero\Prototipo Metrica Punto Funcion\Prototipo Metrica Punto Funcion\obj\Debug\Prototipo Metrica Punto Funcion.vbproj.GenerateResource.Cache

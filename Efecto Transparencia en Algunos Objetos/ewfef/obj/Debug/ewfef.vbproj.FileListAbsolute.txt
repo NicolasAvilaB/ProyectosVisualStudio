@@ -1,0 +1,21 @@
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\ewfef\ewfef\obj\Debug\ewfef.vbprojResolveAssemblyReference.cache
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\ewfef\ewfef\obj\Debug\ewfef.Form1.resources
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\ewfef\ewfef\obj\Debug\ewfef.Resources.resources
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\ewfef\ewfef\obj\Debug\ewfef.vbproj.GenerateResource.Cache
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\ewfef\ewfef\bin\Debug\ewfef.exe
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\ewfef\ewfef\bin\Debug\ewfef.pdb
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\ewfef\ewfef\bin\Debug\ewfef.xml
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\ewfef\ewfef\obj\Debug\ewfef.exe
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\ewfef\ewfef\obj\Debug\ewfef.xml
+d:\users\nicolas avila bisk\documents\visual studio 2015\Projects\ewfef\ewfef\obj\Debug\ewfef.pdb
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Efecto Transparencia en Algunos Objetos\ewfef\bin\Debug\ewfef.exe
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Efecto Transparencia en Algunos Objetos\ewfef\bin\Debug\ewfef.pdb
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Efecto Transparencia en Algunos Objetos\ewfef\bin\Debug\ewfef.xml
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Efecto Transparencia en Algunos Objetos\ewfef\obj\Debug\ewfef.vbprojAssemblyReference.cache
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Efecto Transparencia en Algunos Objetos\ewfef\obj\Debug\ewfef.Form1.resources
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Efecto Transparencia en Algunos Objetos\ewfef\obj\Debug\ewfef.Resources.resources
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Efecto Transparencia en Algunos Objetos\ewfef\obj\Debug\ewfef.vbproj.GenerateResource.cache
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Efecto Transparencia en Algunos Objetos\ewfef\obj\Debug\ewfef.vbproj.CoreCompileInputs.cache
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Efecto Transparencia en Algunos Objetos\ewfef\obj\Debug\ewfef.exe
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Efecto Transparencia en Algunos Objetos\ewfef\obj\Debug\ewfef.xml
+D:\Users\Nicolas Avila Bisk\Documents\Visual Studio 2015\Projects\Efecto Transparencia en Algunos Objetos\ewfef\obj\Debug\ewfef.pdb

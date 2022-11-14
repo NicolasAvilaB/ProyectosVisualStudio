@@ -1,0 +1,10 @@
+D:\Users\Nicolas Avila Bisk\Desktop\Blur_VB_Ex\Blur_VB_Ex\Blur_VB_Ex\bin\Debug\Blur_VB_Ex.exe
+D:\Users\Nicolas Avila Bisk\Desktop\Blur_VB_Ex\Blur_VB_Ex\Blur_VB_Ex\bin\Debug\Blur_VB_Ex.pdb
+D:\Users\Nicolas Avila Bisk\Desktop\Blur_VB_Ex\Blur_VB_Ex\Blur_VB_Ex\bin\Debug\Blur_VB_Ex.xml
+D:\Users\Nicolas Avila Bisk\Desktop\Blur_VB_Ex\Blur_VB_Ex\Blur_VB_Ex\obj\x86\Debug\Blur_VB_Ex.vbprojResolveAssemblyReference.cache
+D:\Users\Nicolas Avila Bisk\Desktop\Blur_VB_Ex\Blur_VB_Ex\Blur_VB_Ex\obj\x86\Debug\Blur_VB_Ex.frmBlur.resources
+D:\Users\Nicolas Avila Bisk\Desktop\Blur_VB_Ex\Blur_VB_Ex\Blur_VB_Ex\obj\x86\Debug\Blur_VB_Ex.Resources.resources
+D:\Users\Nicolas Avila Bisk\Desktop\Blur_VB_Ex\Blur_VB_Ex\Blur_VB_Ex\obj\x86\Debug\Blur_VB_Ex.vbproj.GenerateResource.Cache
+D:\Users\Nicolas Avila Bisk\Desktop\Blur_VB_Ex\Blur_VB_Ex\Blur_VB_Ex\obj\x86\Debug\Blur_VB_Ex.exe
+D:\Users\Nicolas Avila Bisk\Desktop\Blur_VB_Ex\Blur_VB_Ex\Blur_VB_Ex\obj\x86\Debug\Blur_VB_Ex.xml
+D:\Users\Nicolas Avila Bisk\Desktop\Blur_VB_Ex\Blur_VB_Ex\Blur_VB_Ex\obj\x86\Debug\Blur_VB_Ex.pdb

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DsInformeHistorialInsertoArticulos" targetNamespace="http://tempuri.org/DsInformeHistorialInsertoArticulos.xsd" xmlns:mstns="http://tempuri.org/DsInformeHistorialInsertoArticulos.xsd" xmlns="http://tempuri.org/DsInformeHistorialInsertoArticulos.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DsInformeHistorialInsertoArticulos" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DsInformeHistorialInsertoArticulos" msprop:Generator_UserDSName="DsInformeHistorialInsertoArticulos">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DtInformeHistorialInsertoArticulos" msprop:Generator_TableClassName="DtInformeHistorialInsertoArticulosDataTable" msprop:Generator_TableVarName="tableDtInformeHistorialInsertoArticulos" msprop:Generator_TablePropName="DtInformeHistorialInsertoArticulos" msprop:Generator_RowDeletingName="DtInformeHistorialInsertoArticulosRowDeleting" msprop:Generator_RowChangingName="DtInformeHistorialInsertoArticulosRowChanging" msprop:Generator_RowEvHandlerName="DtInformeHistorialInsertoArticulosRowChangeEventHandler" msprop:Generator_RowDeletedName="DtInformeHistorialInsertoArticulosRowDeleted" msprop:Generator_UserTableName="DtInformeHistorialInsertoArticulos" msprop:Generator_RowChangedName="DtInformeHistorialInsertoArticulosRowChanged" msprop:Generator_RowEvArgName="DtInformeHistorialInsertoArticulosRowChangeEvent" msprop:Generator_RowClassName="DtInformeHistorialInsertoArticulosRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Codigo_Articulo" msprop:Generator_ColumnVarNameInTable="columnCodigo_Articulo" msprop:Generator_ColumnPropNameInRow="Codigo_Articulo" msprop:Generator_ColumnPropNameInTable="Codigo_ArticuloColumn" msprop:Generator_UserColumnName="Codigo_Articulo" type="xs:string" minOccurs="0" />
+              <xs:element name="Nombre_Articulo" msprop:Generator_ColumnVarNameInTable="columnNombre_Articulo" msprop:Generator_ColumnPropNameInRow="Nombre_Articulo" msprop:Generator_ColumnPropNameInTable="Nombre_ArticuloColumn" msprop:Generator_UserColumnName="Nombre_Articulo" type="xs:string" minOccurs="0" />
+              <xs:element name="Marca_Articulo" msprop:Generator_ColumnVarNameInTable="columnMarca_Articulo" msprop:Generator_ColumnPropNameInRow="Marca_Articulo" msprop:Generator_ColumnPropNameInTable="Marca_ArticuloColumn" msprop:Generator_UserColumnName="Marca_Articulo" type="xs:string" minOccurs="0" />
+              <xs:element name="Tipo_Documento" msprop:Generator_ColumnVarNameInTable="columnTipo_Documento" msprop:Generator_ColumnPropNameInRow="Tipo_Documento" msprop:Generator_ColumnPropNameInTable="Tipo_DocumentoColumn" msprop:Generator_UserColumnName="Tipo_Documento" type="xs:string" minOccurs="0" />
+              <xs:element name="N_x00B0_Documento" msprop:Generator_ColumnVarNameInTable="_columnN_Documento" msprop:Generator_ColumnPropNameInRow="_N_Documento" msprop:Generator_ColumnPropNameInTable="_N_DocumentoColumn" msprop:Generator_UserColumnName="N°Documento" type="xs:string" minOccurs="0" />
+              <xs:element name="Cantidad" msprop:Generator_ColumnVarNameInTable="columnCantidad" msprop:Generator_ColumnPropNameInRow="Cantidad" msprop:Generator_ColumnPropNameInTable="CantidadColumn" msprop:Generator_UserColumnName="Cantidad" type="xs:string" minOccurs="0" />
+              <xs:element name="Fecha" msprop:Generator_ColumnVarNameInTable="columnFecha" msprop:Generator_ColumnPropNameInRow="Fecha" msprop:Generator_ColumnPropNameInTable="FechaColumn" msprop:Generator_UserColumnName="Fecha" type="xs:string" minOccurs="0" />
+              <xs:element name="Hora" msprop:Generator_ColumnVarNameInTable="columnHora" msprop:Generator_ColumnPropNameInRow="Hora" msprop:Generator_ColumnPropNameInTable="HoraColumn" msprop:Generator_UserColumnName="Hora" type="xs:string" minOccurs="0" />
+              <xs:element name="Estado" msprop:Generator_ColumnVarNameInTable="columnEstado" msprop:Generator_ColumnPropNameInRow="Estado" msprop:Generator_ColumnPropNameInTable="EstadoColumn" msprop:Generator_UserColumnName="Estado" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
